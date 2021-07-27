@@ -21,9 +21,9 @@ based on QCHEM calculations.
    To run the program: ./write-input
 
    The outputs are:
-	>> qchem_####.coor: contains coordinates for point #### in the grid.
-	>> movie.xyz: movie of the configurations of the grid. 
-	>> position.dat: list of file index,R_{IC},theta,r_{CN}. 
+	> qchem_####.coor: contains coordinates for point #### in the grid.
+	> movie.xyz: movie of the configurations of the grid. 
+	> position.dat: list of file index,R_{IC},theta,r_{CN}. 
 
 
 2) In the subdirectory 'GENERATE_GRID/GENERATE_RESPONSE/', there are a set of subdirectories 'PROBE_C/', 'PROCE_N/'
