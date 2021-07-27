@@ -1,0 +1,5220 @@
+
+nptx = 35
+npty = 18
+nptz = 7
+
+x_min = 2.5
+x_max = 6.0
+dx = 0.1
+
+y_min = 0.0
+y_max = 180.0
+dy = 10.0
+
+z_min = 1.0
+z_max = 1.3
+dz = 0.042857142857142864
+Reading ... qchem_0000.out
+Reading ... qchem_0001.out
+Reading ... qchem_0002.out
+Reading ... qchem_0003.out
+Reading ... qchem_0004.out
+Reading ... qchem_0005.out
+Reading ... qchem_0006.out
+Reading ... qchem_0007.out
+Reading ... qchem_0008.out
+Reading ... qchem_0009.out
+Reading ... qchem_0010.out
+Reading ... qchem_0011.out
+Reading ... qchem_0012.out
+Reading ... qchem_0013.out
+Excluding filename qchem_0013.out due to exclusion list
+Reading ... qchem_0014.out
+Excluding filename qchem_0014.out due to exclusion list
+Reading ... qchem_0015.out
+Excluding filename qchem_0015.out due to exclusion list
+Reading ... qchem_0016.out
+Reading ... qchem_0017.out
+Reading ... qchem_0018.out
+Reading ... qchem_0019.out
+Reading ... qchem_0020.out
+Reading ... qchem_0021.out
+Reading ... qchem_0022.out
+Reading ... qchem_0023.out
+Reading ... qchem_0024.out
+Reading ... qchem_0025.out
+Reading ... qchem_0026.out
+Reading ... qchem_0027.out
+Reading ... qchem_0028.out
+Reading ... qchem_0029.out
+Reading ... qchem_0030.out
+Reading ... qchem_0031.out
+Reading ... qchem_0032.out
+Reading ... qchem_0033.out
+Reading ... qchem_0034.out
+Reading ... qchem_0035.out
+Reading ... qchem_0036.out
+Reading ... qchem_0037.out
+Reading ... qchem_0038.out
+Reading ... qchem_0039.out
+Reading ... qchem_0040.out
+Reading ... qchem_0041.out
+Reading ... qchem_0042.out
+Reading ... qchem_0043.out
+Reading ... qchem_0044.out
+Reading ... qchem_0045.out
+Reading ... qchem_0046.out
+Reading ... qchem_0047.out
+Reading ... qchem_0048.out
+Excluding filename qchem_0048.out due to failed completion
+Reading ... qchem_0049.out
+Excluding filename qchem_0049.out due to failed completion
+Reading ... qchem_0050.out
+Reading ... qchem_0051.out
+Reading ... qchem_0052.out
+Reading ... qchem_0053.out
+Reading ... qchem_0054.out
+Reading ... qchem_0055.out
+Reading ... qchem_0056.out
+Reading ... qchem_0057.out
+Reading ... qchem_0058.out
+Reading ... qchem_0059.out
+Reading ... qchem_0060.out
+Reading ... qchem_0061.out
+Reading ... qchem_0062.out
+Reading ... qchem_0063.out
+Reading ... qchem_0064.out
+Reading ... qchem_0065.out
+Reading ... qchem_0066.out
+Reading ... qchem_0067.out
+Reading ... qchem_0068.out
+Reading ... qchem_0069.out
+Reading ... qchem_0070.out
+Reading ... qchem_0071.out
+Reading ... qchem_0072.out
+Reading ... qchem_0073.out
+Reading ... qchem_0074.out
+Reading ... qchem_0075.out
+Reading ... qchem_0076.out
+Reading ... qchem_0077.out
+Reading ... qchem_0078.out
+Reading ... qchem_0079.out
+Reading ... qchem_0080.out
+Reading ... qchem_0081.out
+Reading ... qchem_0082.out
+Reading ... qchem_0083.out
+Excluding filename qchem_0083.out due to failed completion
+Reading ... qchem_0084.out
+Excluding filename qchem_0084.out due to failed completion
+Reading ... qchem_0085.out
+Reading ... qchem_0086.out
+Reading ... qchem_0087.out
+Reading ... qchem_0088.out
+Reading ... qchem_0089.out
+Reading ... qchem_0090.out
+Reading ... qchem_0091.out
+Reading ... qchem_0092.out
+Reading ... qchem_0093.out
+Reading ... qchem_0094.out
+Reading ... qchem_0095.out
+Reading ... qchem_0096.out
+Reading ... qchem_0097.out
+Reading ... qchem_0098.out
+Reading ... qchem_0099.out
+Reading ... qchem_0100.out
+Reading ... qchem_0101.out
+Reading ... qchem_0102.out
+Reading ... qchem_0103.out
+Reading ... qchem_0104.out
+Reading ... qchem_0105.out
+Reading ... qchem_0106.out
+Reading ... qchem_0107.out
+Reading ... qchem_0108.out
+Reading ... qchem_0109.out
+Reading ... qchem_0110.out
+Reading ... qchem_0111.out
+Reading ... qchem_0112.out
+Reading ... qchem_0113.out
+Reading ... qchem_0114.out
+Reading ... qchem_0115.out
+Reading ... qchem_0116.out
+Reading ... qchem_0117.out
+Reading ... qchem_0118.out
+Excluding filename qchem_0118.out due to failed completion
+Reading ... qchem_0119.out
+Excluding filename qchem_0119.out due to failed completion
+Reading ... qchem_0120.out
+Reading ... qchem_0121.out
+Reading ... qchem_0122.out
+Reading ... qchem_0123.out
+Reading ... qchem_0124.out
+Reading ... qchem_0125.out
+Reading ... qchem_0126.out
+Reading ... qchem_0127.out
+Reading ... qchem_0128.out
+Reading ... qchem_0129.out
+Reading ... qchem_0130.out
+Reading ... qchem_0131.out
+Reading ... qchem_0132.out
+Reading ... qchem_0133.out
+Reading ... qchem_0134.out
+Reading ... qchem_0135.out
+Reading ... qchem_0136.out
+Reading ... qchem_0137.out
+Reading ... qchem_0138.out
+Reading ... qchem_0139.out
+Reading ... qchem_0140.out
+Reading ... qchem_0141.out
+Reading ... qchem_0142.out
+Reading ... qchem_0143.out
+Reading ... qchem_0144.out
+Reading ... qchem_0145.out
+Reading ... qchem_0146.out
+Reading ... qchem_0147.out
+Reading ... qchem_0148.out
+Reading ... qchem_0149.out
+Reading ... qchem_0150.out
+Reading ... qchem_0151.out
+Reading ... qchem_0152.out
+Reading ... qchem_0153.out
+Excluding filename qchem_0153.out due to failed completion
+Reading ... qchem_0154.out
+Excluding filename qchem_0154.out due to failed completion
+Reading ... qchem_0155.out
+Reading ... qchem_0156.out
+Excluding filename qchem_0156.out due to failed completion
+Reading ... qchem_0157.out
+Reading ... qchem_0158.out
+Reading ... qchem_0159.out
+Reading ... qchem_0160.out
+Reading ... qchem_0161.out
+Reading ... qchem_0162.out
+Reading ... qchem_0163.out
+Reading ... qchem_0164.out
+Reading ... qchem_0165.out
+Reading ... qchem_0166.out
+Reading ... qchem_0167.out
+Reading ... qchem_0168.out
+Reading ... qchem_0169.out
+Reading ... qchem_0170.out
+Reading ... qchem_0171.out
+Reading ... qchem_0172.out
+Reading ... qchem_0173.out
+Reading ... qchem_0174.out
+Reading ... qchem_0175.out
+Reading ... qchem_0176.out
+Reading ... qchem_0177.out
+Reading ... qchem_0178.out
+Reading ... qchem_0179.out
+Reading ... qchem_0180.out
+Reading ... qchem_0181.out
+Reading ... qchem_0182.out
+Reading ... qchem_0183.out
+Reading ... qchem_0184.out
+Reading ... qchem_0185.out
+Reading ... qchem_0186.out
+Reading ... qchem_0187.out
+Excluding filename qchem_0187.out due to exclusion list
+Reading ... qchem_0188.out
+Excluding filename qchem_0188.out due to exclusion list
+Reading ... qchem_0189.out
+Excluding filename qchem_0189.out due to exclusion list
+Reading ... qchem_0190.out
+Excluding filename qchem_0190.out due to failed completion
+Reading ... qchem_0191.out
+Excluding filename qchem_0191.out due to failed completion
+Reading ... qchem_0192.out
+Excluding filename qchem_0192.out due to failed completion
+Reading ... qchem_0193.out
+Excluding filename qchem_0193.out due to failed completion
+Reading ... qchem_0194.out
+Excluding filename qchem_0194.out due to failed completion
+Reading ... qchem_0195.out
+Excluding filename qchem_0195.out due to failed completion
+Reading ... qchem_0196.out
+Excluding filename qchem_0196.out due to failed completion
+Reading ... qchem_0197.out
+Excluding filename qchem_0197.out due to failed completion
+Reading ... qchem_0198.out
+Excluding filename qchem_0198.out due to failed completion
+Reading ... qchem_0199.out
+Excluding filename qchem_0199.out due to failed completion
+Reading ... qchem_0200.out
+Excluding filename qchem_0200.out due to failed completion
+Reading ... qchem_0201.out
+Excluding filename qchem_0201.out due to failed completion
+Reading ... qchem_0202.out
+Excluding filename qchem_0202.out due to failed completion
+Reading ... qchem_0203.out
+Excluding filename qchem_0203.out due to failed completion
+Reading ... qchem_0204.out
+Excluding filename qchem_0204.out due to failed completion
+Reading ... qchem_0205.out
+Excluding filename qchem_0205.out due to failed completion
+Reading ... qchem_0206.out
+Excluding filename qchem_0206.out due to failed completion
+Reading ... qchem_0207.out
+Excluding filename qchem_0207.out due to failed completion
+Reading ... qchem_0208.out
+Excluding filename qchem_0208.out due to failed completion
+Reading ... qchem_0209.out
+Excluding filename qchem_0209.out due to failed completion
+Reading ... qchem_0210.out
+Reading ... qchem_0211.out
+Reading ... qchem_0212.out
+Reading ... qchem_0213.out
+Reading ... qchem_0214.out
+Reading ... qchem_0215.out
+Reading ... qchem_0216.out
+Reading ... qchem_0217.out
+Reading ... qchem_0218.out
+Reading ... qchem_0219.out
+Excluding filename qchem_0219.out due to exclusion list
+Reading ... qchem_0220.out
+Excluding filename qchem_0220.out due to exclusion list
+Reading ... qchem_0221.out
+Excluding filename qchem_0221.out due to exclusion list
+Reading ... qchem_0222.out
+Excluding filename qchem_0222.out due to exclusion list
+Reading ... qchem_0223.out
+Excluding filename qchem_0223.out due to exclusion list
+Reading ... qchem_0224.out
+Excluding filename qchem_0224.out due to exclusion list
+Reading ... qchem_0225.out
+Excluding filename qchem_0225.out due to exclusion list
+Reading ... qchem_0226.out
+Excluding filename qchem_0226.out due to exclusion list
+Reading ... qchem_0227.out
+Excluding filename qchem_0227.out due to failed completion
+Reading ... qchem_0228.out
+Excluding filename qchem_0228.out due to exclusion list
+Reading ... qchem_0229.out
+Excluding filename qchem_0229.out due to exclusion list
+Reading ... qchem_0230.out
+Excluding filename qchem_0230.out due to exclusion list
+Reading ... qchem_0231.out
+Excluding filename qchem_0231.out due to exclusion list
+Reading ... qchem_0232.out
+Excluding filename qchem_0232.out due to exclusion list
+Reading ... qchem_0233.out
+Excluding filename qchem_0233.out due to exclusion list
+Reading ... qchem_0234.out
+Excluding filename qchem_0234.out due to exclusion list
+Reading ... qchem_0235.out
+Excluding filename qchem_0235.out due to exclusion list
+Reading ... qchem_0236.out
+Excluding filename qchem_0236.out due to exclusion list
+Reading ... qchem_0237.out
+Excluding filename qchem_0237.out due to exclusion list
+Reading ... qchem_0238.out
+Excluding filename qchem_0238.out due to exclusion list
+Reading ... qchem_0239.out
+Excluding filename qchem_0239.out due to exclusion list
+Reading ... qchem_0240.out
+Excluding filename qchem_0240.out due to exclusion list
+Reading ... qchem_0241.out
+Excluding filename qchem_0241.out due to exclusion list
+Reading ... qchem_0242.out
+Excluding filename qchem_0242.out due to exclusion list
+Reading ... qchem_0243.out
+Excluding filename qchem_0243.out due to exclusion list
+Reading ... qchem_0244.out
+Excluding filename qchem_0244.out due to exclusion list
+Reading ... qchem_0245.out
+Reading ... qchem_0246.out
+Reading ... qchem_0247.out
+Reading ... qchem_0248.out
+Reading ... qchem_0249.out
+Reading ... qchem_0250.out
+Reading ... qchem_0251.out
+Reading ... qchem_0252.out
+Reading ... qchem_0253.out
+Reading ... qchem_0254.out
+Reading ... qchem_0255.out
+Reading ... qchem_0256.out
+Reading ... qchem_0257.out
+Reading ... qchem_0258.out
+Excluding filename qchem_0258.out due to failed completion
+Reading ... qchem_0259.out
+Excluding filename qchem_0259.out due to failed completion
+Reading ... qchem_0260.out
+Excluding filename qchem_0260.out due to failed completion
+Reading ... qchem_0261.out
+Reading ... qchem_0262.out
+Reading ... qchem_0263.out
+Reading ... qchem_0264.out
+Reading ... qchem_0265.out
+Reading ... qchem_0266.out
+Reading ... qchem_0267.out
+Reading ... qchem_0268.out
+Reading ... qchem_0269.out
+Reading ... qchem_0270.out
+Reading ... qchem_0271.out
+Reading ... qchem_0272.out
+Reading ... qchem_0273.out
+Reading ... qchem_0274.out
+Reading ... qchem_0275.out
+Reading ... qchem_0276.out
+Reading ... qchem_0277.out
+Reading ... qchem_0278.out
+Reading ... qchem_0279.out
+Reading ... qchem_0280.out
+Reading ... qchem_0281.out
+Reading ... qchem_0282.out
+Reading ... qchem_0283.out
+Reading ... qchem_0284.out
+Reading ... qchem_0285.out
+Reading ... qchem_0286.out
+Reading ... qchem_0287.out
+Reading ... qchem_0288.out
+Reading ... qchem_0289.out
+Reading ... qchem_0290.out
+Reading ... qchem_0291.out
+Reading ... qchem_0292.out
+Reading ... qchem_0293.out
+Excluding filename qchem_0293.out due to failed completion
+Reading ... qchem_0294.out
+Excluding filename qchem_0294.out due to failed completion
+Reading ... qchem_0295.out
+Reading ... qchem_0296.out
+Reading ... qchem_0297.out
+Reading ... qchem_0298.out
+Reading ... qchem_0299.out
+Reading ... qchem_0300.out
+Reading ... qchem_0301.out
+Reading ... qchem_0302.out
+Reading ... qchem_0303.out
+Reading ... qchem_0304.out
+Reading ... qchem_0305.out
+Reading ... qchem_0306.out
+Reading ... qchem_0307.out
+Reading ... qchem_0308.out
+Reading ... qchem_0309.out
+Reading ... qchem_0310.out
+Reading ... qchem_0311.out
+Reading ... qchem_0312.out
+Reading ... qchem_0313.out
+Reading ... qchem_0314.out
+Reading ... qchem_0315.out
+Reading ... qchem_0316.out
+Reading ... qchem_0317.out
+Reading ... qchem_0318.out
+Reading ... qchem_0319.out
+Reading ... qchem_0320.out
+Reading ... qchem_0321.out
+Reading ... qchem_0322.out
+Reading ... qchem_0323.out
+Reading ... qchem_0324.out
+Reading ... qchem_0325.out
+Reading ... qchem_0326.out
+Reading ... qchem_0327.out
+Reading ... qchem_0328.out
+Excluding filename qchem_0328.out due to failed completion
+Reading ... qchem_0329.out
+Excluding filename qchem_0329.out due to failed completion
+Reading ... qchem_0330.out
+Reading ... qchem_0331.out
+Reading ... qchem_0332.out
+Reading ... qchem_0333.out
+Reading ... qchem_0334.out
+Reading ... qchem_0335.out
+Reading ... qchem_0336.out
+Reading ... qchem_0337.out
+Reading ... qchem_0338.out
+Reading ... qchem_0339.out
+Reading ... qchem_0340.out
+Reading ... qchem_0341.out
+Reading ... qchem_0342.out
+Reading ... qchem_0343.out
+Reading ... qchem_0344.out
+Reading ... qchem_0345.out
+Reading ... qchem_0346.out
+Reading ... qchem_0347.out
+Reading ... qchem_0348.out
+Reading ... qchem_0349.out
+Reading ... qchem_0350.out
+Reading ... qchem_0351.out
+Reading ... qchem_0352.out
+Reading ... qchem_0353.out
+Reading ... qchem_0354.out
+Reading ... qchem_0355.out
+Reading ... qchem_0356.out
+Reading ... qchem_0357.out
+Reading ... qchem_0358.out
+Reading ... qchem_0359.out
+Reading ... qchem_0360.out
+Reading ... qchem_0361.out
+Reading ... qchem_0362.out
+Reading ... qchem_0363.out
+Excluding filename qchem_0363.out due to failed completion
+Reading ... qchem_0364.out
+Excluding filename qchem_0364.out due to failed completion
+Reading ... qchem_0365.out
+Reading ... qchem_0366.out
+Reading ... qchem_0367.out
+Reading ... qchem_0368.out
+Reading ... qchem_0369.out
+Reading ... qchem_0370.out
+Reading ... qchem_0371.out
+Reading ... qchem_0372.out
+Reading ... qchem_0373.out
+Reading ... qchem_0374.out
+Reading ... qchem_0375.out
+Reading ... qchem_0376.out
+Reading ... qchem_0377.out
+Reading ... qchem_0378.out
+Reading ... qchem_0379.out
+Reading ... qchem_0380.out
+Reading ... qchem_0381.out
+Reading ... qchem_0382.out
+Reading ... qchem_0383.out
+Reading ... qchem_0384.out
+Reading ... qchem_0385.out
+Reading ... qchem_0386.out
+Reading ... qchem_0387.out
+Reading ... qchem_0388.out
+Reading ... qchem_0389.out
+Reading ... qchem_0390.out
+Reading ... qchem_0391.out
+Reading ... qchem_0392.out
+Reading ... qchem_0393.out
+Reading ... qchem_0394.out
+Reading ... qchem_0395.out
+Reading ... qchem_0396.out
+Reading ... qchem_0397.out
+Reading ... qchem_0398.out
+Excluding filename qchem_0398.out due to failed completion
+Reading ... qchem_0399.out
+Excluding filename qchem_0399.out due to failed completion
+Reading ... qchem_0400.out
+Reading ... qchem_0401.out
+Reading ... qchem_0402.out
+Reading ... qchem_0403.out
+Reading ... qchem_0404.out
+Reading ... qchem_0405.out
+Reading ... qchem_0406.out
+Reading ... qchem_0407.out
+Reading ... qchem_0408.out
+Reading ... qchem_0409.out
+Reading ... qchem_0410.out
+Reading ... qchem_0411.out
+Reading ... qchem_0412.out
+Reading ... qchem_0413.out
+Reading ... qchem_0414.out
+Reading ... qchem_0415.out
+Reading ... qchem_0416.out
+Reading ... qchem_0417.out
+Reading ... qchem_0418.out
+Reading ... qchem_0419.out
+Reading ... qchem_0420.out
+Reading ... qchem_0421.out
+Reading ... qchem_0422.out
+Reading ... qchem_0423.out
+Reading ... qchem_0424.out
+Reading ... qchem_0425.out
+Reading ... qchem_0426.out
+Reading ... qchem_0427.out
+Reading ... qchem_0428.out
+Reading ... qchem_0429.out
+Reading ... qchem_0430.out
+Reading ... qchem_0431.out
+Excluding filename qchem_0431.out due to exclusion list
+Reading ... qchem_0432.out
+Excluding filename qchem_0432.out due to exclusion list
+Reading ... qchem_0433.out
+Excluding filename qchem_0433.out due to exclusion list
+Reading ... qchem_0434.out
+Excluding filename qchem_0434.out due to exclusion list
+Reading ... qchem_0435.out
+Excluding filename qchem_0435.out due to exclusion list
+Reading ... qchem_0436.out
+Excluding filename qchem_0436.out due to exclusion list
+Reading ... qchem_0437.out
+Excluding filename qchem_0437.out due to exclusion list
+Reading ... qchem_0438.out
+Excluding filename qchem_0438.out due to exclusion list
+Reading ... qchem_0439.out
+Excluding filename qchem_0439.out due to exclusion list
+Reading ... qchem_0440.out
+Excluding filename qchem_0440.out due to exclusion list
+Reading ... qchem_0441.out
+Excluding filename qchem_0441.out due to exclusion list
+Reading ... qchem_0442.out
+Excluding filename qchem_0442.out due to exclusion list
+Reading ... qchem_0443.out
+Excluding filename qchem_0443.out due to exclusion list
+Reading ... qchem_0444.out
+Excluding filename qchem_0444.out due to exclusion list
+Reading ... qchem_0445.out
+Excluding filename qchem_0445.out due to exclusion list
+Reading ... qchem_0446.out
+Excluding filename qchem_0446.out due to exclusion list
+Reading ... qchem_0447.out
+Excluding filename qchem_0447.out due to exclusion list
+Reading ... qchem_0448.out
+Excluding filename qchem_0448.out due to exclusion list
+Reading ... qchem_0449.out
+Excluding filename qchem_0449.out due to exclusion list
+Reading ... qchem_0450.out
+Excluding filename qchem_0450.out due to exclusion list
+Reading ... qchem_0451.out
+Excluding filename qchem_0451.out due to exclusion list
+Reading ... qchem_0452.out
+Excluding filename qchem_0452.out due to exclusion list
+Reading ... qchem_0453.out
+Excluding filename qchem_0453.out due to exclusion list
+Reading ... qchem_0454.out
+Excluding filename qchem_0454.out due to exclusion list
+Reading ... qchem_0455.out
+Excluding filename qchem_0455.out due to failed completion
+Reading ... qchem_0456.out
+Reading ... qchem_0457.out
+Reading ... qchem_0458.out
+Reading ... qchem_0459.out
+Reading ... qchem_0460.out
+Reading ... qchem_0461.out
+Reading ... qchem_0462.out
+Reading ... qchem_0463.out
+Reading ... qchem_0464.out
+Excluding filename qchem_0464.out due to exclusion list
+Reading ... qchem_0465.out
+Excluding filename qchem_0465.out due to exclusion list
+Reading ... qchem_0466.out
+Excluding filename qchem_0466.out due to exclusion list
+Reading ... qchem_0467.out
+Excluding filename qchem_0467.out due to exclusion list
+Reading ... qchem_0468.out
+Excluding filename qchem_0468.out due to exclusion list
+Reading ... qchem_0469.out
+Excluding filename qchem_0469.out due to exclusion list
+Reading ... qchem_0470.out
+Excluding filename qchem_0470.out due to exclusion list
+Reading ... qchem_0471.out
+Excluding filename qchem_0471.out due to exclusion list
+Reading ... qchem_0472.out
+Excluding filename qchem_0472.out due to exclusion list
+Reading ... qchem_0473.out
+Excluding filename qchem_0473.out due to exclusion list
+Reading ... qchem_0474.out
+Excluding filename qchem_0474.out due to exclusion list
+Reading ... qchem_0475.out
+Excluding filename qchem_0475.out due to exclusion list
+Reading ... qchem_0476.out
+Excluding filename qchem_0476.out due to exclusion list
+Reading ... qchem_0477.out
+Excluding filename qchem_0477.out due to exclusion list
+Reading ... qchem_0478.out
+Excluding filename qchem_0478.out due to exclusion list
+Reading ... qchem_0479.out
+Excluding filename qchem_0479.out due to exclusion list
+Reading ... qchem_0480.out
+Excluding filename qchem_0480.out due to exclusion list
+Reading ... qchem_0481.out
+Excluding filename qchem_0481.out due to exclusion list
+Reading ... qchem_0482.out
+Excluding filename qchem_0482.out due to exclusion list
+Reading ... qchem_0483.out
+Excluding filename qchem_0483.out due to exclusion list
+Reading ... qchem_0484.out
+Excluding filename qchem_0484.out due to exclusion list
+Reading ... qchem_0485.out
+Excluding filename qchem_0485.out due to exclusion list
+Reading ... qchem_0486.out
+Excluding filename qchem_0486.out due to exclusion list
+Reading ... qchem_0487.out
+Excluding filename qchem_0487.out due to exclusion list
+Reading ... qchem_0488.out
+Excluding filename qchem_0488.out due to exclusion list
+Reading ... qchem_0489.out
+Excluding filename qchem_0489.out due to exclusion list
+Reading ... qchem_0490.out
+Reading ... qchem_0491.out
+Reading ... qchem_0492.out
+Reading ... qchem_0493.out
+Reading ... qchem_0494.out
+Reading ... qchem_0495.out
+Reading ... qchem_0496.out
+Reading ... qchem_0497.out
+Reading ... qchem_0498.out
+Reading ... qchem_0499.out
+Reading ... qchem_0500.out
+Reading ... qchem_0501.out
+Reading ... qchem_0502.out
+Reading ... qchem_0503.out
+Excluding filename qchem_0503.out due to failed completion
+Reading ... qchem_0504.out
+Excluding filename qchem_0504.out due to failed completion
+Reading ... qchem_0505.out
+Reading ... qchem_0506.out
+Reading ... qchem_0507.out
+Reading ... qchem_0508.out
+Reading ... qchem_0509.out
+Reading ... qchem_0510.out
+Reading ... qchem_0511.out
+Reading ... qchem_0512.out
+Reading ... qchem_0513.out
+Reading ... qchem_0514.out
+Reading ... qchem_0515.out
+Reading ... qchem_0516.out
+Reading ... qchem_0517.out
+Reading ... qchem_0518.out
+Reading ... qchem_0519.out
+Reading ... qchem_0520.out
+Reading ... qchem_0521.out
+Reading ... qchem_0522.out
+Reading ... qchem_0523.out
+Reading ... qchem_0524.out
+Reading ... qchem_0525.out
+Reading ... qchem_0526.out
+Reading ... qchem_0527.out
+Reading ... qchem_0528.out
+Reading ... qchem_0529.out
+Reading ... qchem_0530.out
+Reading ... qchem_0531.out
+Reading ... qchem_0532.out
+Reading ... qchem_0533.out
+Reading ... qchem_0534.out
+Reading ... qchem_0535.out
+Reading ... qchem_0536.out
+Reading ... qchem_0537.out
+Reading ... qchem_0538.out
+Excluding filename qchem_0538.out due to failed completion
+Reading ... qchem_0539.out
+Reading ... qchem_0540.out
+Reading ... qchem_0541.out
+Reading ... qchem_0542.out
+Reading ... qchem_0543.out
+Reading ... qchem_0544.out
+Reading ... qchem_0545.out
+Reading ... qchem_0546.out
+Reading ... qchem_0547.out
+Reading ... qchem_0548.out
+Reading ... qchem_0549.out
+Reading ... qchem_0550.out
+Reading ... qchem_0551.out
+Reading ... qchem_0552.out
+Reading ... qchem_0553.out
+Reading ... qchem_0554.out
+Reading ... qchem_0555.out
+Reading ... qchem_0556.out
+Reading ... qchem_0557.out
+Reading ... qchem_0558.out
+Reading ... qchem_0559.out
+Reading ... qchem_0560.out
+Reading ... qchem_0561.out
+Reading ... qchem_0562.out
+Reading ... qchem_0563.out
+Reading ... qchem_0564.out
+Reading ... qchem_0565.out
+Reading ... qchem_0566.out
+Reading ... qchem_0567.out
+Reading ... qchem_0568.out
+Reading ... qchem_0569.out
+Reading ... qchem_0570.out
+Reading ... qchem_0571.out
+Reading ... qchem_0572.out
+Reading ... qchem_0573.out
+Excluding filename qchem_0573.out due to failed completion
+Reading ... qchem_0574.out
+Reading ... qchem_0575.out
+Reading ... qchem_0576.out
+Reading ... qchem_0577.out
+Reading ... qchem_0578.out
+Reading ... qchem_0579.out
+Reading ... qchem_0580.out
+Reading ... qchem_0581.out
+Reading ... qchem_0582.out
+Reading ... qchem_0583.out
+Reading ... qchem_0584.out
+Reading ... qchem_0585.out
+Reading ... qchem_0586.out
+Reading ... qchem_0587.out
+Reading ... qchem_0588.out
+Reading ... qchem_0589.out
+Reading ... qchem_0590.out
+Reading ... qchem_0591.out
+Reading ... qchem_0592.out
+Reading ... qchem_0593.out
+Reading ... qchem_0594.out
+Reading ... qchem_0595.out
+Reading ... qchem_0596.out
+Reading ... qchem_0597.out
+Reading ... qchem_0598.out
+Reading ... qchem_0599.out
+Reading ... qchem_0600.out
+Reading ... qchem_0601.out
+Reading ... qchem_0602.out
+Reading ... qchem_0603.out
+Reading ... qchem_0604.out
+Reading ... qchem_0605.out
+Reading ... qchem_0606.out
+Reading ... qchem_0607.out
+Reading ... qchem_0608.out
+Excluding filename qchem_0608.out due to failed completion
+Reading ... qchem_0609.out
+Reading ... qchem_0610.out
+Reading ... qchem_0611.out
+Reading ... qchem_0612.out
+Reading ... qchem_0613.out
+Reading ... qchem_0614.out
+Reading ... qchem_0615.out
+Reading ... qchem_0616.out
+Reading ... qchem_0617.out
+Reading ... qchem_0618.out
+Reading ... qchem_0619.out
+Reading ... qchem_0620.out
+Reading ... qchem_0621.out
+Reading ... qchem_0622.out
+Reading ... qchem_0623.out
+Reading ... qchem_0624.out
+Reading ... qchem_0625.out
+Reading ... qchem_0626.out
+Reading ... qchem_0627.out
+Reading ... qchem_0628.out
+Reading ... qchem_0629.out
+Reading ... qchem_0630.out
+Reading ... qchem_0631.out
+Reading ... qchem_0632.out
+Reading ... qchem_0633.out
+Reading ... qchem_0634.out
+Reading ... qchem_0635.out
+Reading ... qchem_0636.out
+Reading ... qchem_0637.out
+Reading ... qchem_0638.out
+Reading ... qchem_0639.out
+Reading ... qchem_0640.out
+Reading ... qchem_0641.out
+Reading ... qchem_0642.out
+Reading ... qchem_0643.out
+Excluding filename qchem_0643.out due to failed completion
+Reading ... qchem_0644.out
+Excluding filename qchem_0644.out due to failed completion
+Reading ... qchem_0645.out
+Excluding filename qchem_0645.out due to failed completion
+Reading ... qchem_0646.out
+Excluding filename qchem_0646.out due to failed completion
+Reading ... qchem_0647.out
+Excluding filename qchem_0647.out due to exclusion list
+Reading ... qchem_0648.out
+Excluding filename qchem_0648.out due to exclusion list
+Reading ... qchem_0649.out
+Excluding filename qchem_0649.out due to failed completion
+Reading ... qchem_0650.out
+Excluding filename qchem_0650.out due to failed completion
+Reading ... qchem_0651.out
+Excluding filename qchem_0651.out due to failed completion
+Reading ... qchem_0652.out
+Excluding filename qchem_0652.out due to failed completion
+Reading ... qchem_0653.out
+Excluding filename qchem_0653.out due to failed completion
+Reading ... qchem_0654.out
+Excluding filename qchem_0654.out due to failed completion
+Reading ... qchem_0655.out
+Excluding filename qchem_0655.out due to failed completion
+Reading ... qchem_0656.out
+Excluding filename qchem_0656.out due to failed completion
+Reading ... qchem_0657.out
+Excluding filename qchem_0657.out due to failed completion
+Reading ... qchem_0658.out
+Excluding filename qchem_0658.out due to failed completion
+Reading ... qchem_0659.out
+Excluding filename qchem_0659.out due to failed completion
+Reading ... qchem_0660.out
+Reading ... qchem_0661.out
+Reading ... qchem_0662.out
+Reading ... qchem_0663.out
+Reading ... qchem_0664.out
+Reading ... qchem_0665.out
+Reading ... qchem_0666.out
+Reading ... qchem_0667.out
+Reading ... qchem_0668.out
+Reading ... qchem_0669.out
+Reading ... qchem_0670.out
+Excluding filename qchem_0670.out due to failed completion
+Reading ... qchem_0671.out
+Reading ... qchem_0672.out
+Reading ... qchem_0673.out
+Reading ... qchem_0674.out
+Reading ... qchem_0675.out
+Reading ... qchem_0676.out
+Excluding filename qchem_0676.out due to exclusion list
+Reading ... qchem_0677.out
+Excluding filename qchem_0677.out due to exclusion list
+Reading ... qchem_0678.out
+Excluding filename qchem_0678.out due to exclusion list
+Reading ... qchem_0679.out
+Excluding filename qchem_0679.out due to exclusion list
+Reading ... qchem_0680.out
+Excluding filename qchem_0680.out due to exclusion list
+Reading ... qchem_0681.out
+Excluding filename qchem_0681.out due to exclusion list
+Reading ... qchem_0682.out
+Excluding filename qchem_0682.out due to exclusion list
+Reading ... qchem_0683.out
+Excluding filename qchem_0683.out due to exclusion list
+Reading ... qchem_0684.out
+Excluding filename qchem_0684.out due to exclusion list
+Reading ... qchem_0685.out
+Excluding filename qchem_0685.out due to exclusion list
+Reading ... qchem_0686.out
+Excluding filename qchem_0686.out due to exclusion list
+Reading ... qchem_0687.out
+Excluding filename qchem_0687.out due to exclusion list
+Reading ... qchem_0688.out
+Excluding filename qchem_0688.out due to exclusion list
+Reading ... qchem_0689.out
+Excluding filename qchem_0689.out due to exclusion list
+Reading ... qchem_0690.out
+Excluding filename qchem_0690.out due to exclusion list
+Reading ... qchem_0691.out
+Excluding filename qchem_0691.out due to exclusion list
+Reading ... qchem_0692.out
+Excluding filename qchem_0692.out due to exclusion list
+Reading ... qchem_0693.out
+Excluding filename qchem_0693.out due to exclusion list
+Reading ... qchem_0694.out
+Excluding filename qchem_0694.out due to exclusion list
+Reading ... qchem_0695.out
+Excluding filename qchem_0695.out due to exclusion list
+Reading ... qchem_0696.out
+Excluding filename qchem_0696.out due to exclusion list
+Reading ... qchem_0697.out
+Excluding filename qchem_0697.out due to exclusion list
+Reading ... qchem_0698.out
+Excluding filename qchem_0698.out due to exclusion list
+Reading ... qchem_0699.out
+Excluding filename qchem_0699.out due to exclusion list
+Reading ... qchem_0700.out
+Reading ... qchem_0701.out
+Reading ... qchem_0702.out
+Excluding filename qchem_0702.out due to failed completion
+Reading ... qchem_0703.out
+Excluding filename qchem_0703.out due to failed completion
+Reading ... qchem_0704.out
+Excluding filename qchem_0704.out due to failed completion
+Reading ... qchem_0705.out
+Excluding filename qchem_0705.out due to failed completion
+Reading ... qchem_0706.out
+Excluding filename qchem_0706.out due to failed completion
+Reading ... qchem_0707.out
+Excluding filename qchem_0707.out due to failed completion
+Reading ... qchem_0708.out
+Excluding filename qchem_0708.out due to failed completion
+Reading ... qchem_0709.out
+Reading ... qchem_0710.out
+Reading ... qchem_0711.out
+Reading ... qchem_0712.out
+Reading ... qchem_0713.out
+Reading ... qchem_0714.out
+Reading ... qchem_0715.out
+Reading ... qchem_0716.out
+Reading ... qchem_0717.out
+Reading ... qchem_0718.out
+Reading ... qchem_0719.out
+Reading ... qchem_0720.out
+Reading ... qchem_0721.out
+Reading ... qchem_0722.out
+Reading ... qchem_0723.out
+Reading ... qchem_0724.out
+Reading ... qchem_0725.out
+Reading ... qchem_0726.out
+Reading ... qchem_0727.out
+Reading ... qchem_0728.out
+Reading ... qchem_0729.out
+Reading ... qchem_0730.out
+Reading ... qchem_0731.out
+Reading ... qchem_0732.out
+Reading ... qchem_0733.out
+Reading ... qchem_0734.out
+Reading ... qchem_0735.out
+Reading ... qchem_0736.out
+Reading ... qchem_0737.out
+Reading ... qchem_0738.out
+Reading ... qchem_0739.out
+Reading ... qchem_0740.out
+Reading ... qchem_0741.out
+Reading ... qchem_0742.out
+Reading ... qchem_0743.out
+Reading ... qchem_0744.out
+Reading ... qchem_0745.out
+Reading ... qchem_0746.out
+Reading ... qchem_0747.out
+Excluding filename qchem_0747.out due to failed completion
+Reading ... qchem_0748.out
+Excluding filename qchem_0748.out due to failed completion
+Reading ... qchem_0749.out
+Reading ... qchem_0750.out
+Reading ... qchem_0751.out
+Reading ... qchem_0752.out
+Reading ... qchem_0753.out
+Reading ... qchem_0754.out
+Reading ... qchem_0755.out
+Reading ... qchem_0756.out
+Reading ... qchem_0757.out
+Reading ... qchem_0758.out
+Reading ... qchem_0759.out
+Reading ... qchem_0760.out
+Reading ... qchem_0761.out
+Reading ... qchem_0762.out
+Reading ... qchem_0763.out
+Reading ... qchem_0764.out
+Reading ... qchem_0765.out
+Reading ... qchem_0766.out
+Reading ... qchem_0767.out
+Reading ... qchem_0768.out
+Reading ... qchem_0769.out
+Reading ... qchem_0770.out
+Reading ... qchem_0771.out
+Reading ... qchem_0772.out
+Reading ... qchem_0773.out
+Reading ... qchem_0774.out
+Reading ... qchem_0775.out
+Reading ... qchem_0776.out
+Reading ... qchem_0777.out
+Reading ... qchem_0778.out
+Reading ... qchem_0779.out
+Reading ... qchem_0780.out
+Reading ... qchem_0781.out
+Reading ... qchem_0782.out
+Excluding filename qchem_0782.out due to failed completion
+Reading ... qchem_0783.out
+Reading ... qchem_0784.out
+Reading ... qchem_0785.out
+Reading ... qchem_0786.out
+Reading ... qchem_0787.out
+Reading ... qchem_0788.out
+Reading ... qchem_0789.out
+Reading ... qchem_0790.out
+Reading ... qchem_0791.out
+Reading ... qchem_0792.out
+Reading ... qchem_0793.out
+Reading ... qchem_0794.out
+Reading ... qchem_0795.out
+Reading ... qchem_0796.out
+Reading ... qchem_0797.out
+Reading ... qchem_0798.out
+Reading ... qchem_0799.out
+Reading ... qchem_0800.out
+Reading ... qchem_0801.out
+Reading ... qchem_0802.out
+Reading ... qchem_0803.out
+Reading ... qchem_0804.out
+Reading ... qchem_0805.out
+Reading ... qchem_0806.out
+Reading ... qchem_0807.out
+Reading ... qchem_0808.out
+Reading ... qchem_0809.out
+Reading ... qchem_0810.out
+Reading ... qchem_0811.out
+Reading ... qchem_0812.out
+Reading ... qchem_0813.out
+Reading ... qchem_0814.out
+Reading ... qchem_0815.out
+Reading ... qchem_0816.out
+Reading ... qchem_0817.out
+Reading ... qchem_0818.out
+Reading ... qchem_0819.out
+Reading ... qchem_0820.out
+Reading ... qchem_0821.out
+Reading ... qchem_0822.out
+Reading ... qchem_0823.out
+Reading ... qchem_0824.out
+Reading ... qchem_0825.out
+Reading ... qchem_0826.out
+Reading ... qchem_0827.out
+Reading ... qchem_0828.out
+Reading ... qchem_0829.out
+Reading ... qchem_0830.out
+Reading ... qchem_0831.out
+Reading ... qchem_0832.out
+Reading ... qchem_0833.out
+Reading ... qchem_0834.out
+Reading ... qchem_0835.out
+Reading ... qchem_0836.out
+Reading ... qchem_0837.out
+Reading ... qchem_0838.out
+Reading ... qchem_0839.out
+Reading ... qchem_0840.out
+Reading ... qchem_0841.out
+Reading ... qchem_0842.out
+Reading ... qchem_0843.out
+Reading ... qchem_0844.out
+Reading ... qchem_0845.out
+Reading ... qchem_0846.out
+Reading ... qchem_0847.out
+Reading ... qchem_0848.out
+Reading ... qchem_0849.out
+Reading ... qchem_0850.out
+Reading ... qchem_0851.out
+Reading ... qchem_0852.out
+Excluding filename qchem_0852.out due to failed completion
+Reading ... qchem_0853.out
+Reading ... qchem_0854.out
+Reading ... qchem_0855.out
+Reading ... qchem_0856.out
+Reading ... qchem_0857.out
+Reading ... qchem_0858.out
+Reading ... qchem_0859.out
+Reading ... qchem_0860.out
+Reading ... qchem_0861.out
+Reading ... qchem_0862.out
+Reading ... qchem_0863.out
+Reading ... qchem_0864.out
+Reading ... qchem_0865.out
+Reading ... qchem_0866.out
+Reading ... qchem_0867.out
+Reading ... qchem_0868.out
+Reading ... qchem_0869.out
+Reading ... qchem_0870.out
+Reading ... qchem_0871.out
+Reading ... qchem_0872.out
+Reading ... qchem_0873.out
+Reading ... qchem_0874.out
+Reading ... qchem_0875.out
+Reading ... qchem_0876.out
+Reading ... qchem_0877.out
+Reading ... qchem_0878.out
+Reading ... qchem_0879.out
+Reading ... qchem_0880.out
+Reading ... qchem_0881.out
+Reading ... qchem_0882.out
+Reading ... qchem_0883.out
+Reading ... qchem_0884.out
+Reading ... qchem_0885.out
+Reading ... qchem_0886.out
+Reading ... qchem_0887.out
+Excluding filename qchem_0887.out due to failed completion
+Reading ... qchem_0888.out
+Excluding filename qchem_0888.out due to failed completion
+Reading ... qchem_0889.out
+Excluding filename qchem_0889.out due to exclusion list
+Reading ... qchem_0890.out
+Excluding filename qchem_0890.out due to exclusion list
+Reading ... qchem_0891.out
+Excluding filename qchem_0891.out due to exclusion list
+Reading ... qchem_0892.out
+Excluding filename qchem_0892.out due to failed completion
+Reading ... qchem_0893.out
+Excluding filename qchem_0893.out due to failed completion
+Reading ... qchem_0894.out
+Excluding filename qchem_0894.out due to failed completion
+Reading ... qchem_0895.out
+Excluding filename qchem_0895.out due to failed completion
+Reading ... qchem_0896.out
+Excluding filename qchem_0896.out due to failed completion
+Reading ... qchem_0897.out
+Excluding filename qchem_0897.out due to failed completion
+Reading ... qchem_0898.out
+Excluding filename qchem_0898.out due to failed completion
+Reading ... qchem_0899.out
+Excluding filename qchem_0899.out due to failed completion
+Reading ... qchem_0900.out
+Excluding filename qchem_0900.out due to failed completion
+Reading ... qchem_0901.out
+Excluding filename qchem_0901.out due to failed completion
+Reading ... qchem_0902.out
+Excluding filename qchem_0902.out due to failed completion
+Reading ... qchem_0903.out
+Excluding filename qchem_0903.out due to failed completion
+Reading ... qchem_0904.out
+Excluding filename qchem_0904.out due to failed completion
+Reading ... qchem_0905.out
+Excluding filename qchem_0905.out due to failed completion
+Reading ... qchem_0906.out
+Excluding filename qchem_0906.out due to failed completion
+Reading ... qchem_0907.out
+Excluding filename qchem_0907.out due to failed completion
+Reading ... qchem_0908.out
+Excluding filename qchem_0908.out due to failed completion
+Reading ... qchem_0909.out
+Excluding filename qchem_0909.out due to failed completion
+Reading ... qchem_0910.out
+Reading ... qchem_0911.out
+Reading ... qchem_0912.out
+Reading ... qchem_0913.out
+Excluding filename qchem_0913.out due to failed completion
+Reading ... qchem_0914.out
+Excluding filename qchem_0914.out due to failed completion
+Reading ... qchem_0915.out
+Excluding filename qchem_0915.out due to failed completion
+Reading ... qchem_0916.out
+Excluding filename qchem_0916.out due to failed completion
+Reading ... qchem_0917.out
+Excluding filename qchem_0917.out due to failed completion
+Reading ... qchem_0918.out
+Excluding filename qchem_0918.out due to failed completion
+Reading ... qchem_0919.out
+Excluding filename qchem_0919.out due to failed completion
+Reading ... qchem_0920.out
+Excluding filename qchem_0920.out due to exclusion list
+Reading ... qchem_0921.out
+Excluding filename qchem_0921.out due to exclusion list
+Reading ... qchem_0922.out
+Reading ... qchem_0923.out
+Reading ... qchem_0924.out
+Reading ... qchem_0925.out
+Reading ... qchem_0926.out
+Reading ... qchem_0927.out
+Reading ... qchem_0928.out
+Reading ... qchem_0929.out
+Reading ... qchem_0930.out
+Reading ... qchem_0931.out
+Reading ... qchem_0932.out
+Reading ... qchem_0933.out
+Reading ... qchem_0934.out
+Reading ... qchem_0935.out
+Reading ... qchem_0936.out
+Reading ... qchem_0937.out
+Reading ... qchem_0938.out
+Reading ... qchem_0939.out
+Reading ... qchem_0940.out
+Reading ... qchem_0941.out
+Reading ... qchem_0942.out
+Reading ... qchem_0943.out
+Reading ... qchem_0944.out
+Reading ... qchem_0945.out
+Reading ... qchem_0946.out
+Excluding filename qchem_0946.out due to failed completion
+Reading ... qchem_0947.out
+Excluding filename qchem_0947.out due to failed completion
+Reading ... qchem_0948.out
+Excluding filename qchem_0948.out due to failed completion
+Reading ... qchem_0949.out
+Excluding filename qchem_0949.out due to failed completion
+Reading ... qchem_0950.out
+Excluding filename qchem_0950.out due to failed completion
+Reading ... qchem_0951.out
+Excluding filename qchem_0951.out due to failed completion
+Reading ... qchem_0952.out
+Reading ... qchem_0953.out
+Reading ... qchem_0954.out
+Excluding filename qchem_0954.out due to exclusion list
+Reading ... qchem_0955.out
+Excluding filename qchem_0955.out due to exclusion list
+Reading ... qchem_0956.out
+Reading ... qchem_0957.out
+Reading ... qchem_0958.out
+Reading ... qchem_0959.out
+Reading ... qchem_0960.out
+Reading ... qchem_0961.out
+Reading ... qchem_0962.out
+Reading ... qchem_0963.out
+Reading ... qchem_0964.out
+Reading ... qchem_0965.out
+Reading ... qchem_0966.out
+Reading ... qchem_0967.out
+Reading ... qchem_0968.out
+Reading ... qchem_0969.out
+Reading ... qchem_0970.out
+Reading ... qchem_0971.out
+Reading ... qchem_0972.out
+Reading ... qchem_0973.out
+Reading ... qchem_0974.out
+Reading ... qchem_0975.out
+Reading ... qchem_0976.out
+Reading ... qchem_0977.out
+Reading ... qchem_0978.out
+Reading ... qchem_0979.out
+Reading ... qchem_0980.out
+Reading ... qchem_0981.out
+Reading ... qchem_0982.out
+Reading ... qchem_0983.out
+Reading ... qchem_0984.out
+Reading ... qchem_0985.out
+Reading ... qchem_0986.out
+Reading ... qchem_0987.out
+Reading ... qchem_0988.out
+Reading ... qchem_0989.out
+Reading ... qchem_0990.out
+Reading ... qchem_0991.out
+Excluding filename qchem_0991.out due to failed completion
+Reading ... qchem_0992.out
+Reading ... qchem_0993.out
+Reading ... qchem_0994.out
+Reading ... qchem_0995.out
+Reading ... qchem_0996.out
+Reading ... qchem_0997.out
+Reading ... qchem_0998.out
+Reading ... qchem_0999.out
+Reading ... qchem_1000.out
+Reading ... qchem_1001.out
+Reading ... qchem_1002.out
+Reading ... qchem_1003.out
+Reading ... qchem_1004.out
+Reading ... qchem_1005.out
+Reading ... qchem_1006.out
+Reading ... qchem_1007.out
+Reading ... qchem_1008.out
+Reading ... qchem_1009.out
+Reading ... qchem_1010.out
+Reading ... qchem_1011.out
+Reading ... qchem_1012.out
+Reading ... qchem_1013.out
+Reading ... qchem_1014.out
+Reading ... qchem_1015.out
+Reading ... qchem_1016.out
+Reading ... qchem_1017.out
+Reading ... qchem_1018.out
+Reading ... qchem_1019.out
+Reading ... qchem_1020.out
+Reading ... qchem_1021.out
+Reading ... qchem_1022.out
+Reading ... qchem_1023.out
+Reading ... qchem_1024.out
+Reading ... qchem_1025.out
+Reading ... qchem_1026.out
+Reading ... qchem_1027.out
+Reading ... qchem_1028.out
+Reading ... qchem_1029.out
+Reading ... qchem_1030.out
+Reading ... qchem_1031.out
+Reading ... qchem_1032.out
+Reading ... qchem_1033.out
+Reading ... qchem_1034.out
+Reading ... qchem_1035.out
+Reading ... qchem_1036.out
+Reading ... qchem_1037.out
+Reading ... qchem_1038.out
+Reading ... qchem_1039.out
+Reading ... qchem_1040.out
+Reading ... qchem_1041.out
+Reading ... qchem_1042.out
+Reading ... qchem_1043.out
+Reading ... qchem_1044.out
+Reading ... qchem_1045.out
+Reading ... qchem_1046.out
+Reading ... qchem_1047.out
+Reading ... qchem_1048.out
+Reading ... qchem_1049.out
+Reading ... qchem_1050.out
+Reading ... qchem_1051.out
+Reading ... qchem_1052.out
+Reading ... qchem_1053.out
+Reading ... qchem_1054.out
+Reading ... qchem_1055.out
+Reading ... qchem_1056.out
+Reading ... qchem_1057.out
+Reading ... qchem_1058.out
+Reading ... qchem_1059.out
+Reading ... qchem_1060.out
+Reading ... qchem_1061.out
+Reading ... qchem_1062.out
+Reading ... qchem_1063.out
+Reading ... qchem_1064.out
+Reading ... qchem_1065.out
+Reading ... qchem_1066.out
+Reading ... qchem_1067.out
+Reading ... qchem_1068.out
+Reading ... qchem_1069.out
+Reading ... qchem_1070.out
+Reading ... qchem_1071.out
+Reading ... qchem_1072.out
+Reading ... qchem_1073.out
+Reading ... qchem_1074.out
+Reading ... qchem_1075.out
+Reading ... qchem_1076.out
+Reading ... qchem_1077.out
+Reading ... qchem_1078.out
+Reading ... qchem_1079.out
+Reading ... qchem_1080.out
+Reading ... qchem_1081.out
+Reading ... qchem_1082.out
+Reading ... qchem_1083.out
+Reading ... qchem_1084.out
+Reading ... qchem_1085.out
+Reading ... qchem_1086.out
+Reading ... qchem_1087.out
+Reading ... qchem_1088.out
+Reading ... qchem_1089.out
+Reading ... qchem_1090.out
+Reading ... qchem_1091.out
+Reading ... qchem_1092.out
+Reading ... qchem_1093.out
+Reading ... qchem_1094.out
+Reading ... qchem_1095.out
+Reading ... qchem_1096.out
+Reading ... qchem_1097.out
+Reading ... qchem_1098.out
+Reading ... qchem_1099.out
+Reading ... qchem_1100.out
+Reading ... qchem_1101.out
+Reading ... qchem_1102.out
+Reading ... qchem_1103.out
+Reading ... qchem_1104.out
+Reading ... qchem_1105.out
+Reading ... qchem_1106.out
+Reading ... qchem_1107.out
+Reading ... qchem_1108.out
+Reading ... qchem_1109.out
+Reading ... qchem_1110.out
+Reading ... qchem_1111.out
+Reading ... qchem_1112.out
+Reading ... qchem_1113.out
+Reading ... qchem_1114.out
+Reading ... qchem_1115.out
+Reading ... qchem_1116.out
+Reading ... qchem_1117.out
+Reading ... qchem_1118.out
+Reading ... qchem_1119.out
+Reading ... qchem_1120.out
+Reading ... qchem_1121.out
+Reading ... qchem_1122.out
+Reading ... qchem_1123.out
+Reading ... qchem_1124.out
+Reading ... qchem_1125.out
+Excluding filename qchem_1125.out due to failed completion
+Reading ... qchem_1126.out
+Excluding filename qchem_1126.out due to failed completion
+Reading ... qchem_1127.out
+Excluding filename qchem_1127.out due to failed completion
+Reading ... qchem_1128.out
+Excluding filename qchem_1128.out due to failed completion
+Reading ... qchem_1129.out
+Excluding filename qchem_1129.out due to failed completion
+Reading ... qchem_1130.out
+Reading ... qchem_1131.out
+Excluding filename qchem_1131.out due to failed completion
+Reading ... qchem_1132.out
+Excluding filename qchem_1132.out due to failed completion
+Reading ... qchem_1133.out
+Reading ... qchem_1134.out
+Reading ... qchem_1135.out
+Reading ... qchem_1136.out
+Excluding filename qchem_1136.out due to failed completion
+Reading ... qchem_1137.out
+Excluding filename qchem_1137.out due to failed completion
+Reading ... qchem_1138.out
+Excluding filename qchem_1138.out due to failed completion
+Reading ... qchem_1139.out
+Excluding filename qchem_1139.out due to failed completion
+Reading ... qchem_1140.out
+Excluding filename qchem_1140.out due to failed completion
+Reading ... qchem_1141.out
+Excluding filename qchem_1141.out due to failed completion
+Reading ... qchem_1142.out
+Excluding filename qchem_1142.out due to failed completion
+Reading ... qchem_1143.out
+Excluding filename qchem_1143.out due to failed completion
+Reading ... qchem_1144.out
+Excluding filename qchem_1144.out due to failed completion
+Reading ... qchem_1145.out
+Excluding filename qchem_1145.out due to failed completion
+Reading ... qchem_1146.out
+Excluding filename qchem_1146.out due to failed completion
+Reading ... qchem_1147.out
+Excluding filename qchem_1147.out due to failed completion
+Reading ... qchem_1148.out
+Excluding filename qchem_1148.out due to failed completion
+Reading ... qchem_1149.out
+Excluding filename qchem_1149.out due to failed completion
+Reading ... qchem_1150.out
+Excluding filename qchem_1150.out due to failed completion
+Reading ... qchem_1151.out
+Excluding filename qchem_1151.out due to failed completion
+Reading ... qchem_1152.out
+Excluding filename qchem_1152.out due to failed completion
+Reading ... qchem_1153.out
+Excluding filename qchem_1153.out due to failed completion
+Reading ... qchem_1154.out
+Excluding filename qchem_1154.out due to failed completion
+Reading ... qchem_1155.out
+Reading ... qchem_1156.out
+Reading ... qchem_1157.out
+Excluding filename qchem_1157.out due to failed completion
+Reading ... qchem_1158.out
+Excluding filename qchem_1158.out due to failed completion
+Reading ... qchem_1159.out
+Excluding filename qchem_1159.out due to failed completion
+Reading ... qchem_1160.out
+Excluding filename qchem_1160.out due to failed completion
+Reading ... qchem_1161.out
+Excluding filename qchem_1161.out due to failed completion
+Reading ... qchem_1162.out
+Excluding filename qchem_1162.out due to failed completion
+Reading ... qchem_1163.out
+Excluding filename qchem_1163.out due to failed completion
+Reading ... qchem_1164.out
+Reading ... qchem_1165.out
+Excluding filename qchem_1165.out due to exclusion list
+Reading ... qchem_1166.out
+Reading ... qchem_1167.out
+Reading ... qchem_1168.out
+Reading ... qchem_1169.out
+Reading ... qchem_1170.out
+Reading ... qchem_1171.out
+Reading ... qchem_1172.out
+Reading ... qchem_1173.out
+Reading ... qchem_1174.out
+Reading ... qchem_1175.out
+Reading ... qchem_1176.out
+Reading ... qchem_1177.out
+Reading ... qchem_1178.out
+Reading ... qchem_1179.out
+Reading ... qchem_1180.out
+Reading ... qchem_1181.out
+Reading ... qchem_1182.out
+Reading ... qchem_1183.out
+Reading ... qchem_1184.out
+Reading ... qchem_1185.out
+Reading ... qchem_1186.out
+Reading ... qchem_1187.out
+Reading ... qchem_1188.out
+Reading ... qchem_1189.out
+Reading ... qchem_1190.out
+Excluding filename qchem_1190.out due to failed completion
+Reading ... qchem_1191.out
+Excluding filename qchem_1191.out due to failed completion
+Reading ... qchem_1192.out
+Reading ... qchem_1193.out
+Reading ... qchem_1194.out
+Reading ... qchem_1195.out
+Reading ... qchem_1196.out
+Reading ... qchem_1197.out
+Reading ... qchem_1198.out
+Excluding filename qchem_1198.out due to exclusion list
+Reading ... qchem_1199.out
+Excluding filename qchem_1199.out due to exclusion list
+Reading ... qchem_1200.out
+Reading ... qchem_1201.out
+Reading ... qchem_1202.out
+Reading ... qchem_1203.out
+Reading ... qchem_1204.out
+Reading ... qchem_1205.out
+Reading ... qchem_1206.out
+Reading ... qchem_1207.out
+Reading ... qchem_1208.out
+Reading ... qchem_1209.out
+Reading ... qchem_1210.out
+Reading ... qchem_1211.out
+Reading ... qchem_1212.out
+Reading ... qchem_1213.out
+Reading ... qchem_1214.out
+Reading ... qchem_1215.out
+Reading ... qchem_1216.out
+Reading ... qchem_1217.out
+Reading ... qchem_1218.out
+Reading ... qchem_1219.out
+Reading ... qchem_1220.out
+Reading ... qchem_1221.out
+Reading ... qchem_1222.out
+Reading ... qchem_1223.out
+Reading ... qchem_1224.out
+Reading ... qchem_1225.out
+Reading ... qchem_1226.out
+Reading ... qchem_1227.out
+Reading ... qchem_1228.out
+Reading ... qchem_1229.out
+Reading ... qchem_1230.out
+Reading ... qchem_1231.out
+Reading ... qchem_1232.out
+Reading ... qchem_1233.out
+Reading ... qchem_1234.out
+Reading ... qchem_1235.out
+Reading ... qchem_1236.out
+Reading ... qchem_1237.out
+Reading ... qchem_1238.out
+Reading ... qchem_1239.out
+Reading ... qchem_1240.out
+Reading ... qchem_1241.out
+Reading ... qchem_1242.out
+Reading ... qchem_1243.out
+Reading ... qchem_1244.out
+Reading ... qchem_1245.out
+Reading ... qchem_1246.out
+Reading ... qchem_1247.out
+Reading ... qchem_1248.out
+Reading ... qchem_1249.out
+Reading ... qchem_1250.out
+Reading ... qchem_1251.out
+Reading ... qchem_1252.out
+Reading ... qchem_1253.out
+Reading ... qchem_1254.out
+Reading ... qchem_1255.out
+Reading ... qchem_1256.out
+Reading ... qchem_1257.out
+Reading ... qchem_1258.out
+Reading ... qchem_1259.out
+Reading ... qchem_1260.out
+Reading ... qchem_1261.out
+Reading ... qchem_1262.out
+Reading ... qchem_1263.out
+Reading ... qchem_1264.out
+Reading ... qchem_1265.out
+Reading ... qchem_1266.out
+Reading ... qchem_1267.out
+Reading ... qchem_1268.out
+Reading ... qchem_1269.out
+Reading ... qchem_1270.out
+Reading ... qchem_1271.out
+Reading ... qchem_1272.out
+Reading ... qchem_1273.out
+Reading ... qchem_1274.out
+Reading ... qchem_1275.out
+Reading ... qchem_1276.out
+Reading ... qchem_1277.out
+Reading ... qchem_1278.out
+Reading ... qchem_1279.out
+Reading ... qchem_1280.out
+Reading ... qchem_1281.out
+Reading ... qchem_1282.out
+Reading ... qchem_1283.out
+Reading ... qchem_1284.out
+Reading ... qchem_1285.out
+Reading ... qchem_1286.out
+Reading ... qchem_1287.out
+Reading ... qchem_1288.out
+Reading ... qchem_1289.out
+Reading ... qchem_1290.out
+Reading ... qchem_1291.out
+Reading ... qchem_1292.out
+Reading ... qchem_1293.out
+Reading ... qchem_1294.out
+Reading ... qchem_1295.out
+Reading ... qchem_1296.out
+Reading ... qchem_1297.out
+Reading ... qchem_1298.out
+Reading ... qchem_1299.out
+Reading ... qchem_1300.out
+Reading ... qchem_1301.out
+Reading ... qchem_1302.out
+Reading ... qchem_1303.out
+Reading ... qchem_1304.out
+Reading ... qchem_1305.out
+Reading ... qchem_1306.out
+Reading ... qchem_1307.out
+Reading ... qchem_1308.out
+Reading ... qchem_1309.out
+Reading ... qchem_1310.out
+Reading ... qchem_1311.out
+Reading ... qchem_1312.out
+Reading ... qchem_1313.out
+Reading ... qchem_1314.out
+Reading ... qchem_1315.out
+Reading ... qchem_1316.out
+Reading ... qchem_1317.out
+Reading ... qchem_1318.out
+Reading ... qchem_1319.out
+Reading ... qchem_1320.out
+Reading ... qchem_1321.out
+Reading ... qchem_1322.out
+Reading ... qchem_1323.out
+Reading ... qchem_1324.out
+Reading ... qchem_1325.out
+Reading ... qchem_1326.out
+Reading ... qchem_1327.out
+Reading ... qchem_1328.out
+Reading ... qchem_1329.out
+Reading ... qchem_1330.out
+Reading ... qchem_1331.out
+Reading ... qchem_1332.out
+Reading ... qchem_1333.out
+Reading ... qchem_1334.out
+Reading ... qchem_1335.out
+Reading ... qchem_1336.out
+Reading ... qchem_1337.out
+Reading ... qchem_1338.out
+Reading ... qchem_1339.out
+Reading ... qchem_1340.out
+Reading ... qchem_1341.out
+Reading ... qchem_1342.out
+Reading ... qchem_1343.out
+Reading ... qchem_1344.out
+Reading ... qchem_1345.out
+Reading ... qchem_1346.out
+Reading ... qchem_1347.out
+Reading ... qchem_1348.out
+Reading ... qchem_1349.out
+Reading ... qchem_1350.out
+Reading ... qchem_1351.out
+Reading ... qchem_1352.out
+Reading ... qchem_1353.out
+Reading ... qchem_1354.out
+Reading ... qchem_1355.out
+Reading ... qchem_1356.out
+Reading ... qchem_1357.out
+Reading ... qchem_1358.out
+Reading ... qchem_1359.out
+Reading ... qchem_1360.out
+Reading ... qchem_1361.out
+Reading ... qchem_1362.out
+Reading ... qchem_1363.out
+Reading ... qchem_1364.out
+Reading ... qchem_1365.out
+Reading ... qchem_1366.out
+Reading ... qchem_1367.out
+Reading ... qchem_1368.out
+Excluding filename qchem_1368.out due to failed completion
+Reading ... qchem_1369.out
+Excluding filename qchem_1369.out due to failed completion
+Reading ... qchem_1370.out
+Excluding filename qchem_1370.out due to failed completion
+Reading ... qchem_1371.out
+Excluding filename qchem_1371.out due to failed completion
+Reading ... qchem_1372.out
+Excluding filename qchem_1372.out due to failed completion
+Reading ... qchem_1373.out
+Excluding filename qchem_1373.out due to failed completion
+Reading ... qchem_1374.out
+Excluding filename qchem_1374.out due to failed completion
+Reading ... qchem_1375.out
+Excluding filename qchem_1375.out due to failed completion
+Reading ... qchem_1376.out
+Excluding filename qchem_1376.out due to failed completion
+Reading ... qchem_1377.out
+Reading ... qchem_1378.out
+Reading ... qchem_1379.out
+Reading ... qchem_1380.out
+Excluding filename qchem_1380.out due to failed completion
+Reading ... qchem_1381.out
+Excluding filename qchem_1381.out due to failed completion
+Reading ... qchem_1382.out
+Excluding filename qchem_1382.out due to failed completion
+Reading ... qchem_1383.out
+Excluding filename qchem_1383.out due to failed completion
+Reading ... qchem_1384.out
+Excluding filename qchem_1384.out due to failed completion
+Reading ... qchem_1385.out
+Excluding filename qchem_1385.out due to failed completion
+Reading ... qchem_1386.out
+Excluding filename qchem_1386.out due to failed completion
+Reading ... qchem_1387.out
+Excluding filename qchem_1387.out due to failed completion
+Reading ... qchem_1388.out
+Excluding filename qchem_1388.out due to failed completion
+Reading ... qchem_1389.out
+Excluding filename qchem_1389.out due to failed completion
+Reading ... qchem_1390.out
+Excluding filename qchem_1390.out due to failed completion
+Reading ... qchem_1391.out
+Excluding filename qchem_1391.out due to failed completion
+Reading ... qchem_1392.out
+Excluding filename qchem_1392.out due to failed completion
+Reading ... qchem_1393.out
+Excluding filename qchem_1393.out due to failed completion
+Reading ... qchem_1394.out
+Excluding filename qchem_1394.out due to failed completion
+Reading ... qchem_1395.out
+Excluding filename qchem_1395.out due to failed completion
+Reading ... qchem_1396.out
+Excluding filename qchem_1396.out due to failed completion
+Reading ... qchem_1397.out
+Excluding filename qchem_1397.out due to failed completion
+Reading ... qchem_1398.out
+Excluding filename qchem_1398.out due to failed completion
+Reading ... qchem_1399.out
+Excluding filename qchem_1399.out due to failed completion
+Reading ... qchem_1400.out
+Reading ... qchem_1401.out
+Reading ... qchem_1402.out
+Reading ... qchem_1403.out
+Reading ... qchem_1404.out
+Reading ... qchem_1405.out
+Reading ... qchem_1406.out
+Reading ... qchem_1407.out
+Reading ... qchem_1408.out
+Reading ... qchem_1409.out
+Excluding filename qchem_1409.out due to exclusion list
+Reading ... qchem_1410.out
+Reading ... qchem_1411.out
+Reading ... qchem_1412.out
+Reading ... qchem_1413.out
+Reading ... qchem_1414.out
+Reading ... qchem_1415.out
+Reading ... qchem_1416.out
+Reading ... qchem_1417.out
+Reading ... qchem_1418.out
+Reading ... qchem_1419.out
+Reading ... qchem_1420.out
+Reading ... qchem_1421.out
+Reading ... qchem_1422.out
+Reading ... qchem_1423.out
+Reading ... qchem_1424.out
+Reading ... qchem_1425.out
+Reading ... qchem_1426.out
+Reading ... qchem_1427.out
+Reading ... qchem_1428.out
+Reading ... qchem_1429.out
+Reading ... qchem_1430.out
+Reading ... qchem_1431.out
+Reading ... qchem_1432.out
+Reading ... qchem_1433.out
+Reading ... qchem_1434.out
+Reading ... qchem_1435.out
+Reading ... qchem_1436.out
+Reading ... qchem_1437.out
+Reading ... qchem_1438.out
+Reading ... qchem_1439.out
+Reading ... qchem_1440.out
+Reading ... qchem_1441.out
+Reading ... qchem_1442.out
+Reading ... qchem_1443.out
+Excluding filename qchem_1443.out due to exclusion list
+Reading ... qchem_1444.out
+Excluding filename qchem_1444.out due to exclusion list
+Reading ... qchem_1445.out
+Reading ... qchem_1446.out
+Reading ... qchem_1447.out
+Reading ... qchem_1448.out
+Reading ... qchem_1449.out
+Reading ... qchem_1450.out
+Reading ... qchem_1451.out
+Reading ... qchem_1452.out
+Reading ... qchem_1453.out
+Reading ... qchem_1454.out
+Reading ... qchem_1455.out
+Reading ... qchem_1456.out
+Reading ... qchem_1457.out
+Reading ... qchem_1458.out
+Reading ... qchem_1459.out
+Reading ... qchem_1460.out
+Reading ... qchem_1461.out
+Reading ... qchem_1462.out
+Reading ... qchem_1463.out
+Reading ... qchem_1464.out
+Reading ... qchem_1465.out
+Reading ... qchem_1466.out
+Reading ... qchem_1467.out
+Reading ... qchem_1468.out
+Reading ... qchem_1469.out
+Reading ... qchem_1470.out
+Reading ... qchem_1471.out
+Reading ... qchem_1472.out
+Reading ... qchem_1473.out
+Reading ... qchem_1474.out
+Reading ... qchem_1475.out
+Reading ... qchem_1476.out
+Reading ... qchem_1477.out
+Reading ... qchem_1478.out
+Excluding filename qchem_1478.out due to exclusion list
+Reading ... qchem_1479.out
+Reading ... qchem_1480.out
+Reading ... qchem_1481.out
+Reading ... qchem_1482.out
+Reading ... qchem_1483.out
+Reading ... qchem_1484.out
+Reading ... qchem_1485.out
+Reading ... qchem_1486.out
+Reading ... qchem_1487.out
+Reading ... qchem_1488.out
+Reading ... qchem_1489.out
+Reading ... qchem_1490.out
+Reading ... qchem_1491.out
+Reading ... qchem_1492.out
+Reading ... qchem_1493.out
+Reading ... qchem_1494.out
+Reading ... qchem_1495.out
+Reading ... qchem_1496.out
+Reading ... qchem_1497.out
+Reading ... qchem_1498.out
+Reading ... qchem_1499.out
+Reading ... qchem_1500.out
+Reading ... qchem_1501.out
+Reading ... qchem_1502.out
+Reading ... qchem_1503.out
+Reading ... qchem_1504.out
+Reading ... qchem_1505.out
+Reading ... qchem_1506.out
+Reading ... qchem_1507.out
+Reading ... qchem_1508.out
+Reading ... qchem_1509.out
+Reading ... qchem_1510.out
+Reading ... qchem_1511.out
+Reading ... qchem_1512.out
+Reading ... qchem_1513.out
+Excluding filename qchem_1513.out due to exclusion list
+Reading ... qchem_1514.out
+Reading ... qchem_1515.out
+Reading ... qchem_1516.out
+Reading ... qchem_1517.out
+Reading ... qchem_1518.out
+Reading ... qchem_1519.out
+Reading ... qchem_1520.out
+Reading ... qchem_1521.out
+Reading ... qchem_1522.out
+Reading ... qchem_1523.out
+Reading ... qchem_1524.out
+Reading ... qchem_1525.out
+Reading ... qchem_1526.out
+Reading ... qchem_1527.out
+Reading ... qchem_1528.out
+Reading ... qchem_1529.out
+Reading ... qchem_1530.out
+Reading ... qchem_1531.out
+Reading ... qchem_1532.out
+Reading ... qchem_1533.out
+Reading ... qchem_1534.out
+Reading ... qchem_1535.out
+Reading ... qchem_1536.out
+Reading ... qchem_1537.out
+Reading ... qchem_1538.out
+Reading ... qchem_1539.out
+Reading ... qchem_1540.out
+Reading ... qchem_1541.out
+Reading ... qchem_1542.out
+Reading ... qchem_1543.out
+Reading ... qchem_1544.out
+Reading ... qchem_1545.out
+Reading ... qchem_1546.out
+Reading ... qchem_1547.out
+Reading ... qchem_1548.out
+Excluding filename qchem_1548.out due to exclusion list
+Reading ... qchem_1549.out
+Reading ... qchem_1550.out
+Reading ... qchem_1551.out
+Reading ... qchem_1552.out
+Reading ... qchem_1553.out
+Reading ... qchem_1554.out
+Reading ... qchem_1555.out
+Reading ... qchem_1556.out
+Reading ... qchem_1557.out
+Reading ... qchem_1558.out
+Reading ... qchem_1559.out
+Reading ... qchem_1560.out
+Reading ... qchem_1561.out
+Reading ... qchem_1562.out
+Reading ... qchem_1563.out
+Reading ... qchem_1564.out
+Reading ... qchem_1565.out
+Reading ... qchem_1566.out
+Reading ... qchem_1567.out
+Reading ... qchem_1568.out
+Reading ... qchem_1569.out
+Reading ... qchem_1570.out
+Reading ... qchem_1571.out
+Reading ... qchem_1572.out
+Reading ... qchem_1573.out
+Reading ... qchem_1574.out
+Reading ... qchem_1575.out
+Reading ... qchem_1576.out
+Reading ... qchem_1577.out
+Reading ... qchem_1578.out
+Excluding filename qchem_1578.out due to failed completion
+Reading ... qchem_1579.out
+Excluding filename qchem_1579.out due to failed completion
+Reading ... qchem_1580.out
+Excluding filename qchem_1580.out due to failed completion
+Reading ... qchem_1581.out
+Excluding filename qchem_1581.out due to failed completion
+Reading ... qchem_1582.out
+Excluding filename qchem_1582.out due to failed completion
+Reading ... qchem_1583.out
+Excluding filename qchem_1583.out due to failed completion
+Reading ... qchem_1584.out
+Reading ... qchem_1585.out
+Reading ... qchem_1586.out
+Reading ... qchem_1587.out
+Reading ... qchem_1588.out
+Reading ... qchem_1589.out
+Reading ... qchem_1590.out
+Reading ... qchem_1591.out
+Reading ... qchem_1592.out
+Reading ... qchem_1593.out
+Reading ... qchem_1594.out
+Reading ... qchem_1595.out
+Reading ... qchem_1596.out
+Reading ... qchem_1597.out
+Reading ... qchem_1598.out
+Reading ... qchem_1599.out
+Reading ... qchem_1600.out
+Reading ... qchem_1601.out
+Reading ... qchem_1602.out
+Reading ... qchem_1603.out
+Reading ... qchem_1604.out
+Reading ... qchem_1605.out
+Reading ... qchem_1606.out
+Reading ... qchem_1607.out
+Reading ... qchem_1608.out
+Reading ... qchem_1609.out
+Reading ... qchem_1610.out
+Reading ... qchem_1611.out
+Reading ... qchem_1612.out
+Reading ... qchem_1613.out
+Reading ... qchem_1614.out
+Reading ... qchem_1615.out
+Reading ... qchem_1616.out
+Excluding filename qchem_1616.out due to failed completion
+Reading ... qchem_1617.out
+Excluding filename qchem_1617.out due to failed completion
+Reading ... qchem_1618.out
+Excluding filename qchem_1618.out due to failed completion
+Reading ... qchem_1619.out
+Excluding filename qchem_1619.out due to failed completion
+Reading ... qchem_1620.out
+Excluding filename qchem_1620.out due to failed completion
+Reading ... qchem_1621.out
+Excluding filename qchem_1621.out due to failed completion
+Reading ... qchem_1622.out
+Excluding filename qchem_1622.out due to failed completion
+Reading ... qchem_1623.out
+Excluding filename qchem_1623.out due to failed completion
+Reading ... qchem_1624.out
+Excluding filename qchem_1624.out due to failed completion
+Reading ... qchem_1625.out
+Excluding filename qchem_1625.out due to failed completion
+Reading ... qchem_1626.out
+Excluding filename qchem_1626.out due to failed completion
+Reading ... qchem_1627.out
+Excluding filename qchem_1627.out due to failed completion
+Reading ... qchem_1628.out
+Excluding filename qchem_1628.out due to failed completion
+Reading ... qchem_1629.out
+Excluding filename qchem_1629.out due to failed completion
+Reading ... qchem_1630.out
+Excluding filename qchem_1630.out due to failed completion
+Reading ... qchem_1631.out
+Excluding filename qchem_1631.out due to failed completion
+Reading ... qchem_1632.out
+Excluding filename qchem_1632.out due to failed completion
+Reading ... qchem_1633.out
+Excluding filename qchem_1633.out due to failed completion
+Reading ... qchem_1634.out
+Excluding filename qchem_1634.out due to failed completion
+Reading ... qchem_1635.out
+Excluding filename qchem_1635.out due to failed completion
+Reading ... qchem_1636.out
+Excluding filename qchem_1636.out due to failed completion
+Reading ... qchem_1637.out
+Excluding filename qchem_1637.out due to failed completion
+Reading ... qchem_1638.out
+Excluding filename qchem_1638.out due to failed completion
+Reading ... qchem_1639.out
+Excluding filename qchem_1639.out due to failed completion
+Reading ... qchem_1640.out
+Excluding filename qchem_1640.out due to failed completion
+Reading ... qchem_1641.out
+Excluding filename qchem_1641.out due to failed completion
+Reading ... qchem_1642.out
+Excluding filename qchem_1642.out due to failed completion
+Reading ... qchem_1643.out
+Excluding filename qchem_1643.out due to failed completion
+Reading ... qchem_1644.out
+Excluding filename qchem_1644.out due to failed completion
+Reading ... qchem_1645.out
+Reading ... qchem_1646.out
+Reading ... qchem_1647.out
+Reading ... qchem_1648.out
+Reading ... qchem_1649.out
+Reading ... qchem_1650.out
+Reading ... qchem_1651.out
+Reading ... qchem_1652.out
+Reading ... qchem_1653.out
+Excluding filename qchem_1653.out due to exclusion list
+Reading ... qchem_1654.out
+Reading ... qchem_1655.out
+Reading ... qchem_1656.out
+Reading ... qchem_1657.out
+Reading ... qchem_1658.out
+Reading ... qchem_1659.out
+Reading ... qchem_1660.out
+Reading ... qchem_1661.out
+Reading ... qchem_1662.out
+Reading ... qchem_1663.out
+Reading ... qchem_1664.out
+Reading ... qchem_1665.out
+Reading ... qchem_1666.out
+Reading ... qchem_1667.out
+Reading ... qchem_1668.out
+Reading ... qchem_1669.out
+Reading ... qchem_1670.out
+Reading ... qchem_1671.out
+Reading ... qchem_1672.out
+Reading ... qchem_1673.out
+Reading ... qchem_1674.out
+Reading ... qchem_1675.out
+Reading ... qchem_1676.out
+Reading ... qchem_1677.out
+Reading ... qchem_1678.out
+Reading ... qchem_1679.out
+Reading ... qchem_1680.out
+Reading ... qchem_1681.out
+Reading ... qchem_1682.out
+Reading ... qchem_1683.out
+Reading ... qchem_1684.out
+Reading ... qchem_1685.out
+Reading ... qchem_1686.out
+Reading ... qchem_1687.out
+Excluding filename qchem_1687.out due to exclusion list
+Reading ... qchem_1688.out
+Excluding filename qchem_1688.out due to exclusion list
+Reading ... qchem_1689.out
+Reading ... qchem_1690.out
+Reading ... qchem_1691.out
+Reading ... qchem_1692.out
+Reading ... qchem_1693.out
+Reading ... qchem_1694.out
+Reading ... qchem_1695.out
+Reading ... qchem_1696.out
+Reading ... qchem_1697.out
+Reading ... qchem_1698.out
+Reading ... qchem_1699.out
+Reading ... qchem_1700.out
+Reading ... qchem_1701.out
+Reading ... qchem_1702.out
+Reading ... qchem_1703.out
+Reading ... qchem_1704.out
+Reading ... qchem_1705.out
+Reading ... qchem_1706.out
+Reading ... qchem_1707.out
+Reading ... qchem_1708.out
+Reading ... qchem_1709.out
+Reading ... qchem_1710.out
+Reading ... qchem_1711.out
+Reading ... qchem_1712.out
+Reading ... qchem_1713.out
+Reading ... qchem_1714.out
+Reading ... qchem_1715.out
+Reading ... qchem_1716.out
+Reading ... qchem_1717.out
+Reading ... qchem_1718.out
+Reading ... qchem_1719.out
+Reading ... qchem_1720.out
+Reading ... qchem_1721.out
+Excluding filename qchem_1721.out due to exclusion list
+Reading ... qchem_1722.out
+Reading ... qchem_1723.out
+Reading ... qchem_1724.out
+Reading ... qchem_1725.out
+Reading ... qchem_1726.out
+Reading ... qchem_1727.out
+Reading ... qchem_1728.out
+Reading ... qchem_1729.out
+Reading ... qchem_1730.out
+Reading ... qchem_1731.out
+Reading ... qchem_1732.out
+Reading ... qchem_1733.out
+Reading ... qchem_1734.out
+Reading ... qchem_1735.out
+Reading ... qchem_1736.out
+Reading ... qchem_1737.out
+Reading ... qchem_1738.out
+Reading ... qchem_1739.out
+Reading ... qchem_1740.out
+Reading ... qchem_1741.out
+Reading ... qchem_1742.out
+Reading ... qchem_1743.out
+Reading ... qchem_1744.out
+Reading ... qchem_1745.out
+Reading ... qchem_1746.out
+Reading ... qchem_1747.out
+Reading ... qchem_1748.out
+Reading ... qchem_1749.out
+Reading ... qchem_1750.out
+Reading ... qchem_1751.out
+Reading ... qchem_1752.out
+Reading ... qchem_1753.out
+Reading ... qchem_1754.out
+Reading ... qchem_1755.out
+Reading ... qchem_1756.out
+Excluding filename qchem_1756.out due to exclusion list
+Reading ... qchem_1757.out
+Excluding filename qchem_1757.out due to exclusion list
+Reading ... qchem_1758.out
+Reading ... qchem_1759.out
+Reading ... qchem_1760.out
+Reading ... qchem_1761.out
+Reading ... qchem_1762.out
+Reading ... qchem_1763.out
+Reading ... qchem_1764.out
+Reading ... qchem_1765.out
+Reading ... qchem_1766.out
+Reading ... qchem_1767.out
+Reading ... qchem_1768.out
+Reading ... qchem_1769.out
+Reading ... qchem_1770.out
+Reading ... qchem_1771.out
+Reading ... qchem_1772.out
+Reading ... qchem_1773.out
+Reading ... qchem_1774.out
+Reading ... qchem_1775.out
+Reading ... qchem_1776.out
+Reading ... qchem_1777.out
+Reading ... qchem_1778.out
+Reading ... qchem_1779.out
+Reading ... qchem_1780.out
+Reading ... qchem_1781.out
+Reading ... qchem_1782.out
+Reading ... qchem_1783.out
+Reading ... qchem_1784.out
+Reading ... qchem_1785.out
+Reading ... qchem_1786.out
+Reading ... qchem_1787.out
+Excluding filename qchem_1787.out due to failed completion
+Reading ... qchem_1788.out
+Excluding filename qchem_1788.out due to failed completion
+Reading ... qchem_1789.out
+Excluding filename qchem_1789.out due to failed completion
+Reading ... qchem_1790.out
+Excluding filename qchem_1790.out due to failed completion
+Reading ... qchem_1791.out
+Excluding filename qchem_1791.out due to failed completion
+Reading ... qchem_1792.out
+Excluding filename qchem_1792.out due to exclusion list
+Reading ... qchem_1793.out
+Reading ... qchem_1794.out
+Reading ... qchem_1795.out
+Reading ... qchem_1796.out
+Reading ... qchem_1797.out
+Reading ... qchem_1798.out
+Reading ... qchem_1799.out
+Reading ... qchem_1800.out
+Reading ... qchem_1801.out
+Reading ... qchem_1802.out
+Reading ... qchem_1803.out
+Reading ... qchem_1804.out
+Reading ... qchem_1805.out
+Reading ... qchem_1806.out
+Reading ... qchem_1807.out
+Reading ... qchem_1808.out
+Reading ... qchem_1809.out
+Reading ... qchem_1810.out
+Reading ... qchem_1811.out
+Reading ... qchem_1812.out
+Reading ... qchem_1813.out
+Reading ... qchem_1814.out
+Reading ... qchem_1815.out
+Reading ... qchem_1816.out
+Reading ... qchem_1817.out
+Reading ... qchem_1818.out
+Reading ... qchem_1819.out
+Reading ... qchem_1820.out
+Reading ... qchem_1821.out
+Reading ... qchem_1822.out
+Reading ... qchem_1823.out
+Reading ... qchem_1824.out
+Reading ... qchem_1825.out
+Excluding filename qchem_1825.out due to failed completion
+Reading ... qchem_1826.out
+Excluding filename qchem_1826.out due to failed completion
+Reading ... qchem_1827.out
+Excluding filename qchem_1827.out due to exclusion list
+Reading ... qchem_1828.out
+Reading ... qchem_1829.out
+Reading ... qchem_1830.out
+Reading ... qchem_1831.out
+Reading ... qchem_1832.out
+Reading ... qchem_1833.out
+Reading ... qchem_1834.out
+Reading ... qchem_1835.out
+Reading ... qchem_1836.out
+Reading ... qchem_1837.out
+Reading ... qchem_1838.out
+Reading ... qchem_1839.out
+Reading ... qchem_1840.out
+Reading ... qchem_1841.out
+Reading ... qchem_1842.out
+Reading ... qchem_1843.out
+Reading ... qchem_1844.out
+Reading ... qchem_1845.out
+Reading ... qchem_1846.out
+Reading ... qchem_1847.out
+Reading ... qchem_1848.out
+Reading ... qchem_1849.out
+Reading ... qchem_1850.out
+Reading ... qchem_1851.out
+Reading ... qchem_1852.out
+Reading ... qchem_1853.out
+Reading ... qchem_1854.out
+Reading ... qchem_1855.out
+Reading ... qchem_1856.out
+Reading ... qchem_1857.out
+Reading ... qchem_1858.out
+Reading ... qchem_1859.out
+Reading ... qchem_1860.out
+Reading ... qchem_1861.out
+Reading ... qchem_1862.out
+Reading ... qchem_1863.out
+Excluding filename qchem_1863.out due to exclusion list
+Reading ... qchem_1864.out
+Excluding filename qchem_1864.out due to exclusion list
+Reading ... qchem_1865.out
+Excluding filename qchem_1865.out due to failed completion
+Reading ... qchem_1866.out
+Excluding filename qchem_1866.out due to failed completion
+Reading ... qchem_1867.out
+Excluding filename qchem_1867.out due to failed completion
+Reading ... qchem_1868.out
+Excluding filename qchem_1868.out due to failed completion
+Reading ... qchem_1869.out
+Excluding filename qchem_1869.out due to failed completion
+Reading ... qchem_1870.out
+Excluding filename qchem_1870.out due to failed completion
+Reading ... qchem_1871.out
+Excluding filename qchem_1871.out due to failed completion
+Reading ... qchem_1872.out
+Excluding filename qchem_1872.out due to failed completion
+Reading ... qchem_1873.out
+Excluding filename qchem_1873.out due to failed completion
+Reading ... qchem_1874.out
+Excluding filename qchem_1874.out due to failed completion
+Reading ... qchem_1875.out
+Excluding filename qchem_1875.out due to failed completion
+Reading ... qchem_1876.out
+Excluding filename qchem_1876.out due to failed completion
+Reading ... qchem_1877.out
+Excluding filename qchem_1877.out due to failed completion
+Reading ... qchem_1878.out
+Excluding filename qchem_1878.out due to failed completion
+Reading ... qchem_1879.out
+Excluding filename qchem_1879.out due to failed completion
+Reading ... qchem_1880.out
+Excluding filename qchem_1880.out due to failed completion
+Reading ... qchem_1881.out
+Excluding filename qchem_1881.out due to failed completion
+Reading ... qchem_1882.out
+Excluding filename qchem_1882.out due to failed completion
+Reading ... qchem_1883.out
+Excluding filename qchem_1883.out due to failed completion
+Reading ... qchem_1884.out
+Excluding filename qchem_1884.out due to failed completion
+Reading ... qchem_1885.out
+Excluding filename qchem_1885.out due to failed completion
+Reading ... qchem_1886.out
+Excluding filename qchem_1886.out due to failed completion
+Reading ... qchem_1887.out
+Excluding filename qchem_1887.out due to failed completion
+Reading ... qchem_1888.out
+Excluding filename qchem_1888.out due to failed completion
+Reading ... qchem_1889.out
+Excluding filename qchem_1889.out due to failed completion
+Reading ... qchem_1890.out
+Reading ... qchem_1891.out
+Reading ... qchem_1892.out
+Reading ... qchem_1893.out
+Reading ... qchem_1894.out
+Reading ... qchem_1895.out
+Reading ... qchem_1896.out
+Reading ... qchem_1897.out
+Reading ... qchem_1898.out
+Excluding filename qchem_1898.out due to exclusion list
+Reading ... qchem_1899.out
+Reading ... qchem_1900.out
+Reading ... qchem_1901.out
+Reading ... qchem_1902.out
+Reading ... qchem_1903.out
+Reading ... qchem_1904.out
+Reading ... qchem_1905.out
+Reading ... qchem_1906.out
+Reading ... qchem_1907.out
+Reading ... qchem_1908.out
+Reading ... qchem_1909.out
+Reading ... qchem_1910.out
+Reading ... qchem_1911.out
+Reading ... qchem_1912.out
+Reading ... qchem_1913.out
+Reading ... qchem_1914.out
+Reading ... qchem_1915.out
+Reading ... qchem_1916.out
+Reading ... qchem_1917.out
+Reading ... qchem_1918.out
+Reading ... qchem_1919.out
+Reading ... qchem_1920.out
+Reading ... qchem_1921.out
+Reading ... qchem_1922.out
+Reading ... qchem_1923.out
+Reading ... qchem_1924.out
+Reading ... qchem_1925.out
+Reading ... qchem_1926.out
+Reading ... qchem_1927.out
+Reading ... qchem_1928.out
+Reading ... qchem_1929.out
+Reading ... qchem_1930.out
+Reading ... qchem_1931.out
+Reading ... qchem_1932.out
+Excluding filename qchem_1932.out due to exclusion list
+Reading ... qchem_1933.out
+Excluding filename qchem_1933.out due to failed completion
+Reading ... qchem_1934.out
+Reading ... qchem_1935.out
+Reading ... qchem_1936.out
+Reading ... qchem_1937.out
+Reading ... qchem_1938.out
+Reading ... qchem_1939.out
+Reading ... qchem_1940.out
+Reading ... qchem_1941.out
+Reading ... qchem_1942.out
+Reading ... qchem_1943.out
+Reading ... qchem_1944.out
+Reading ... qchem_1945.out
+Reading ... qchem_1946.out
+Reading ... qchem_1947.out
+Reading ... qchem_1948.out
+Reading ... qchem_1949.out
+Reading ... qchem_1950.out
+Reading ... qchem_1951.out
+Reading ... qchem_1952.out
+Reading ... qchem_1953.out
+Reading ... qchem_1954.out
+Reading ... qchem_1955.out
+Reading ... qchem_1956.out
+Reading ... qchem_1957.out
+Reading ... qchem_1958.out
+Reading ... qchem_1959.out
+Reading ... qchem_1960.out
+Reading ... qchem_1961.out
+Reading ... qchem_1962.out
+Reading ... qchem_1963.out
+Reading ... qchem_1964.out
+Excluding filename qchem_1964.out due to exclusion list
+Reading ... qchem_1965.out
+Excluding filename qchem_1965.out due to exclusion list
+Reading ... qchem_1966.out
+Reading ... qchem_1967.out
+Reading ... qchem_1968.out
+Reading ... qchem_1969.out
+Reading ... qchem_1970.out
+Reading ... qchem_1971.out
+Reading ... qchem_1972.out
+Reading ... qchem_1973.out
+Reading ... qchem_1974.out
+Reading ... qchem_1975.out
+Reading ... qchem_1976.out
+Reading ... qchem_1977.out
+Reading ... qchem_1978.out
+Reading ... qchem_1979.out
+Reading ... qchem_1980.out
+Reading ... qchem_1981.out
+Reading ... qchem_1982.out
+Reading ... qchem_1983.out
+Reading ... qchem_1984.out
+Reading ... qchem_1985.out
+Reading ... qchem_1986.out
+Reading ... qchem_1987.out
+Reading ... qchem_1988.out
+Reading ... qchem_1989.out
+Reading ... qchem_1990.out
+Reading ... qchem_1991.out
+Reading ... qchem_1992.out
+Reading ... qchem_1993.out
+Reading ... qchem_1994.out
+Reading ... qchem_1995.out
+Reading ... qchem_1996.out
+Reading ... qchem_1997.out
+Excluding filename qchem_1997.out due to failed completion
+Reading ... qchem_1998.out
+Excluding filename qchem_1998.out due to failed completion
+Reading ... qchem_1999.out
+Excluding filename qchem_1999.out due to failed completion
+Reading ... qchem_2000.out
+Excluding filename qchem_2000.out due to exclusion list
+Reading ... qchem_2001.out
+Reading ... qchem_2002.out
+Reading ... qchem_2003.out
+Reading ... qchem_2004.out
+Reading ... qchem_2005.out
+Reading ... qchem_2006.out
+Reading ... qchem_2007.out
+Reading ... qchem_2008.out
+Reading ... qchem_2009.out
+Reading ... qchem_2010.out
+Reading ... qchem_2011.out
+Reading ... qchem_2012.out
+Reading ... qchem_2013.out
+Reading ... qchem_2014.out
+Reading ... qchem_2015.out
+Reading ... qchem_2016.out
+Reading ... qchem_2017.out
+Reading ... qchem_2018.out
+Reading ... qchem_2019.out
+Reading ... qchem_2020.out
+Reading ... qchem_2021.out
+Reading ... qchem_2022.out
+Reading ... qchem_2023.out
+Reading ... qchem_2024.out
+Reading ... qchem_2025.out
+Reading ... qchem_2026.out
+Reading ... qchem_2027.out
+Reading ... qchem_2028.out
+Reading ... qchem_2029.out
+Reading ... qchem_2030.out
+Reading ... qchem_2031.out
+Reading ... qchem_2032.out
+Reading ... qchem_2033.out
+Excluding filename qchem_2033.out due to failed completion
+Reading ... qchem_2034.out
+Excluding filename qchem_2034.out due to failed completion
+Reading ... qchem_2035.out
+Excluding filename qchem_2035.out due to exclusion list
+Reading ... qchem_2036.out
+Excluding filename qchem_2036.out due to exclusion list
+Reading ... qchem_2037.out
+Reading ... qchem_2038.out
+Reading ... qchem_2039.out
+Reading ... qchem_2040.out
+Reading ... qchem_2041.out
+Reading ... qchem_2042.out
+Reading ... qchem_2043.out
+Reading ... qchem_2044.out
+Reading ... qchem_2045.out
+Reading ... qchem_2046.out
+Reading ... qchem_2047.out
+Reading ... qchem_2048.out
+Reading ... qchem_2049.out
+Reading ... qchem_2050.out
+Reading ... qchem_2051.out
+Reading ... qchem_2052.out
+Reading ... qchem_2053.out
+Reading ... qchem_2054.out
+Reading ... qchem_2055.out
+Reading ... qchem_2056.out
+Reading ... qchem_2057.out
+Reading ... qchem_2058.out
+Reading ... qchem_2059.out
+Reading ... qchem_2060.out
+Reading ... qchem_2061.out
+Reading ... qchem_2062.out
+Reading ... qchem_2063.out
+Reading ... qchem_2064.out
+Reading ... qchem_2065.out
+Reading ... qchem_2066.out
+Reading ... qchem_2067.out
+Reading ... qchem_2068.out
+Reading ... qchem_2069.out
+Reading ... qchem_2070.out
+Reading ... qchem_2071.out
+Excluding filename qchem_2071.out due to exclusion list
+Reading ... qchem_2072.out
+Excluding filename qchem_2072.out due to exclusion list
+Reading ... qchem_2073.out
+Reading ... qchem_2074.out
+Reading ... qchem_2075.out
+Reading ... qchem_2076.out
+Reading ... qchem_2077.out
+Reading ... qchem_2078.out
+Reading ... qchem_2079.out
+Excluding filename qchem_2079.out due to exclusion list
+Reading ... qchem_2080.out
+Excluding filename qchem_2080.out due to failed completion
+Reading ... qchem_2081.out
+Reading ... qchem_2082.out
+Reading ... qchem_2083.out
+Reading ... qchem_2084.out
+Reading ... qchem_2085.out
+Reading ... qchem_2086.out
+Reading ... qchem_2087.out
+Reading ... qchem_2088.out
+Reading ... qchem_2089.out
+Reading ... qchem_2090.out
+Reading ... qchem_2091.out
+Reading ... qchem_2092.out
+Reading ... qchem_2093.out
+Reading ... qchem_2094.out
+Reading ... qchem_2095.out
+Reading ... qchem_2096.out
+Reading ... qchem_2097.out
+Reading ... qchem_2098.out
+Reading ... qchem_2099.out
+Reading ... qchem_2100.out
+Reading ... qchem_2101.out
+Reading ... qchem_2102.out
+Reading ... qchem_2103.out
+Reading ... qchem_2104.out
+Reading ... qchem_2105.out
+Reading ... qchem_2106.out
+Reading ... qchem_2107.out
+Reading ... qchem_2108.out
+Excluding filename qchem_2108.out due to exclusion list
+Reading ... qchem_2109.out
+Excluding filename qchem_2109.out due to exclusion list
+Reading ... qchem_2110.out
+Reading ... qchem_2111.out
+Reading ... qchem_2112.out
+Reading ... qchem_2113.out
+Excluding filename qchem_2113.out due to failed completion
+Reading ... qchem_2114.out
+Excluding filename qchem_2114.out due to failed completion
+Reading ... qchem_2115.out
+Excluding filename qchem_2115.out due to failed completion
+Reading ... qchem_2116.out
+Excluding filename qchem_2116.out due to failed completion
+Reading ... qchem_2117.out
+Excluding filename qchem_2117.out due to failed completion
+Reading ... qchem_2118.out
+Excluding filename qchem_2118.out due to failed completion
+Reading ... qchem_2119.out
+Excluding filename qchem_2119.out due to failed completion
+Reading ... qchem_2120.out
+Excluding filename qchem_2120.out due to failed completion
+Reading ... qchem_2121.out
+Excluding filename qchem_2121.out due to failed completion
+Reading ... qchem_2122.out
+Excluding filename qchem_2122.out due to failed completion
+Reading ... qchem_2123.out
+Excluding filename qchem_2123.out due to failed completion
+Reading ... qchem_2124.out
+Excluding filename qchem_2124.out due to failed completion
+Reading ... qchem_2125.out
+Excluding filename qchem_2125.out due to failed completion
+Reading ... qchem_2126.out
+Excluding filename qchem_2126.out due to failed completion
+Reading ... qchem_2127.out
+Excluding filename qchem_2127.out due to failed completion
+Reading ... qchem_2128.out
+Excluding filename qchem_2128.out due to failed completion
+Reading ... qchem_2129.out
+Excluding filename qchem_2129.out due to failed completion
+Reading ... qchem_2130.out
+Excluding filename qchem_2130.out due to failed completion
+Reading ... qchem_2131.out
+Excluding filename qchem_2131.out due to failed completion
+Reading ... qchem_2132.out
+Excluding filename qchem_2132.out due to failed completion
+Reading ... qchem_2133.out
+Excluding filename qchem_2133.out due to failed completion
+Reading ... qchem_2134.out
+Reading ... qchem_2135.out
+Reading ... qchem_2136.out
+Reading ... qchem_2137.out
+Reading ... qchem_2138.out
+Reading ... qchem_2139.out
+Reading ... qchem_2140.out
+Reading ... qchem_2141.out
+Reading ... qchem_2142.out
+Excluding filename qchem_2142.out due to exclusion list
+Reading ... qchem_2143.out
+Reading ... qchem_2144.out
+Reading ... qchem_2145.out
+Reading ... qchem_2146.out
+Reading ... qchem_2147.out
+Reading ... qchem_2148.out
+Reading ... qchem_2149.out
+Reading ... qchem_2150.out
+Reading ... qchem_2151.out
+Reading ... qchem_2152.out
+Reading ... qchem_2153.out
+Reading ... qchem_2154.out
+Reading ... qchem_2155.out
+Reading ... qchem_2156.out
+Reading ... qchem_2157.out
+Reading ... qchem_2158.out
+Reading ... qchem_2159.out
+Reading ... qchem_2160.out
+Reading ... qchem_2161.out
+Reading ... qchem_2162.out
+Reading ... qchem_2163.out
+Reading ... qchem_2164.out
+Reading ... qchem_2165.out
+Reading ... qchem_2166.out
+Reading ... qchem_2167.out
+Reading ... qchem_2168.out
+Reading ... qchem_2169.out
+Reading ... qchem_2170.out
+Reading ... qchem_2171.out
+Reading ... qchem_2172.out
+Reading ... qchem_2173.out
+Reading ... qchem_2174.out
+Reading ... qchem_2175.out
+Reading ... qchem_2176.out
+Reading ... qchem_2177.out
+Excluding filename qchem_2177.out due to exclusion list
+Reading ... qchem_2178.out
+Excluding filename qchem_2178.out due to exclusion list
+Reading ... qchem_2179.out
+Excluding filename qchem_2179.out due to exclusion list
+Reading ... qchem_2180.out
+Excluding filename qchem_2180.out due to exclusion list
+Reading ... qchem_2181.out
+Excluding filename qchem_2181.out due to exclusion list
+Reading ... qchem_2182.out
+Excluding filename qchem_2182.out due to exclusion list
+Reading ... qchem_2183.out
+Excluding filename qchem_2183.out due to exclusion list
+Reading ... qchem_2184.out
+Reading ... qchem_2185.out
+Reading ... qchem_2186.out
+Reading ... qchem_2187.out
+Reading ... qchem_2188.out
+Reading ... qchem_2189.out
+Reading ... qchem_2190.out
+Reading ... qchem_2191.out
+Reading ... qchem_2192.out
+Reading ... qchem_2193.out
+Reading ... qchem_2194.out
+Reading ... qchem_2195.out
+Reading ... qchem_2196.out
+Reading ... qchem_2197.out
+Reading ... qchem_2198.out
+Reading ... qchem_2199.out
+Reading ... qchem_2200.out
+Reading ... qchem_2201.out
+Reading ... qchem_2202.out
+Reading ... qchem_2203.out
+Reading ... qchem_2204.out
+Reading ... qchem_2205.out
+Reading ... qchem_2206.out
+Excluding filename qchem_2206.out due to failed completion
+Reading ... qchem_2207.out
+Excluding filename qchem_2207.out due to failed completion
+Reading ... qchem_2208.out
+Excluding filename qchem_2208.out due to exclusion list
+Reading ... qchem_2209.out
+Excluding filename qchem_2209.out due to exclusion list
+Reading ... qchem_2210.out
+Reading ... qchem_2211.out
+Reading ... qchem_2212.out
+Reading ... qchem_2213.out
+Reading ... qchem_2214.out
+Reading ... qchem_2215.out
+Reading ... qchem_2216.out
+Reading ... qchem_2217.out
+Reading ... qchem_2218.out
+Reading ... qchem_2219.out
+Reading ... qchem_2220.out
+Reading ... qchem_2221.out
+Reading ... qchem_2222.out
+Reading ... qchem_2223.out
+Reading ... qchem_2224.out
+Reading ... qchem_2225.out
+Reading ... qchem_2226.out
+Reading ... qchem_2227.out
+Reading ... qchem_2228.out
+Reading ... qchem_2229.out
+Reading ... qchem_2230.out
+Reading ... qchem_2231.out
+Reading ... qchem_2232.out
+Reading ... qchem_2233.out
+Reading ... qchem_2234.out
+Reading ... qchem_2235.out
+Reading ... qchem_2236.out
+Reading ... qchem_2237.out
+Reading ... qchem_2238.out
+Reading ... qchem_2239.out
+Reading ... qchem_2240.out
+Reading ... qchem_2241.out
+Reading ... qchem_2242.out
+Excluding filename qchem_2242.out due to failed completion
+Reading ... qchem_2243.out
+Excluding filename qchem_2243.out due to exclusion list
+Reading ... qchem_2244.out
+Excluding filename qchem_2244.out due to exclusion list
+Reading ... qchem_2245.out
+Reading ... qchem_2246.out
+Reading ... qchem_2247.out
+Reading ... qchem_2248.out
+Reading ... qchem_2249.out
+Reading ... qchem_2250.out
+Reading ... qchem_2251.out
+Reading ... qchem_2252.out
+Reading ... qchem_2253.out
+Reading ... qchem_2254.out
+Reading ... qchem_2255.out
+Reading ... qchem_2256.out
+Reading ... qchem_2257.out
+Reading ... qchem_2258.out
+Reading ... qchem_2259.out
+Reading ... qchem_2260.out
+Reading ... qchem_2261.out
+Reading ... qchem_2262.out
+Reading ... qchem_2263.out
+Reading ... qchem_2264.out
+Reading ... qchem_2265.out
+Reading ... qchem_2266.out
+Reading ... qchem_2267.out
+Reading ... qchem_2268.out
+Reading ... qchem_2269.out
+Reading ... qchem_2270.out
+Reading ... qchem_2271.out
+Reading ... qchem_2272.out
+Reading ... qchem_2273.out
+Reading ... qchem_2274.out
+Reading ... qchem_2275.out
+Reading ... qchem_2276.out
+Reading ... qchem_2277.out
+Reading ... qchem_2278.out
+Reading ... qchem_2279.out
+Excluding filename qchem_2279.out due to exclusion list
+Reading ... qchem_2280.out
+Excluding filename qchem_2280.out due to exclusion list
+Reading ... qchem_2281.out
+Reading ... qchem_2282.out
+Reading ... qchem_2283.out
+Reading ... qchem_2284.out
+Reading ... qchem_2285.out
+Reading ... qchem_2286.out
+Reading ... qchem_2287.out
+Reading ... qchem_2288.out
+Reading ... qchem_2289.out
+Reading ... qchem_2290.out
+Reading ... qchem_2291.out
+Reading ... qchem_2292.out
+Reading ... qchem_2293.out
+Reading ... qchem_2294.out
+Reading ... qchem_2295.out
+Reading ... qchem_2296.out
+Reading ... qchem_2297.out
+Reading ... qchem_2298.out
+Reading ... qchem_2299.out
+Reading ... qchem_2300.out
+Reading ... qchem_2301.out
+Reading ... qchem_2302.out
+Reading ... qchem_2303.out
+Reading ... qchem_2304.out
+Reading ... qchem_2305.out
+Reading ... qchem_2306.out
+Reading ... qchem_2307.out
+Reading ... qchem_2308.out
+Reading ... qchem_2309.out
+Reading ... qchem_2310.out
+Reading ... qchem_2311.out
+Reading ... qchem_2312.out
+Reading ... qchem_2313.out
+Reading ... qchem_2314.out
+Reading ... qchem_2315.out
+Reading ... qchem_2316.out
+Excluding filename qchem_2316.out due to exclusion list
+Reading ... qchem_2317.out
+Reading ... qchem_2318.out
+Reading ... qchem_2319.out
+Reading ... qchem_2320.out
+Excluding filename qchem_2320.out due to failed completion
+Reading ... qchem_2321.out
+Excluding filename qchem_2321.out due to failed completion
+Reading ... qchem_2322.out
+Excluding filename qchem_2322.out due to failed completion
+Reading ... qchem_2323.out
+Excluding filename qchem_2323.out due to failed completion
+Reading ... qchem_2324.out
+Excluding filename qchem_2324.out due to failed completion
+Reading ... qchem_2325.out
+Excluding filename qchem_2325.out due to failed completion
+Reading ... qchem_2326.out
+Excluding filename qchem_2326.out due to failed completion
+Reading ... qchem_2327.out
+Excluding filename qchem_2327.out due to failed completion
+Reading ... qchem_2328.out
+Excluding filename qchem_2328.out due to failed completion
+Reading ... qchem_2329.out
+Excluding filename qchem_2329.out due to failed completion
+Reading ... qchem_2330.out
+Reading ... qchem_2331.out
+Reading ... qchem_2332.out
+Reading ... qchem_2333.out
+Reading ... qchem_2334.out
+Reading ... qchem_2335.out
+Reading ... qchem_2336.out
+Reading ... qchem_2337.out
+Reading ... qchem_2338.out
+Reading ... qchem_2339.out
+Reading ... qchem_2340.out
+Reading ... qchem_2341.out
+Reading ... qchem_2342.out
+Reading ... qchem_2343.out
+Reading ... qchem_2344.out
+Reading ... qchem_2345.out
+Reading ... qchem_2346.out
+Reading ... qchem_2347.out
+Reading ... qchem_2348.out
+Reading ... qchem_2349.out
+Reading ... qchem_2350.out
+Reading ... qchem_2351.out
+Reading ... qchem_2352.out
+Excluding filename qchem_2352.out due to exclusion list
+Reading ... qchem_2353.out
+Excluding filename qchem_2353.out due to exclusion list
+Reading ... qchem_2354.out
+Reading ... qchem_2355.out
+Reading ... qchem_2356.out
+Reading ... qchem_2357.out
+Reading ... qchem_2358.out
+Excluding filename qchem_2358.out due to failed completion
+Reading ... qchem_2359.out
+Excluding filename qchem_2359.out due to failed completion
+Reading ... qchem_2360.out
+Excluding filename qchem_2360.out due to failed completion
+Reading ... qchem_2361.out
+Excluding filename qchem_2361.out due to failed completion
+Reading ... qchem_2362.out
+Excluding filename qchem_2362.out due to failed completion
+Reading ... qchem_2363.out
+Excluding filename qchem_2363.out due to failed completion
+Reading ... qchem_2364.out
+Excluding filename qchem_2364.out due to failed completion
+Reading ... qchem_2365.out
+Excluding filename qchem_2365.out due to failed completion
+Reading ... qchem_2366.out
+Excluding filename qchem_2366.out due to failed completion
+Reading ... qchem_2367.out
+Excluding filename qchem_2367.out due to failed completion
+Reading ... qchem_2368.out
+Excluding filename qchem_2368.out due to failed completion
+Reading ... qchem_2369.out
+Excluding filename qchem_2369.out due to failed completion
+Reading ... qchem_2370.out
+Excluding filename qchem_2370.out due to failed completion
+Reading ... qchem_2371.out
+Excluding filename qchem_2371.out due to failed completion
+Reading ... qchem_2372.out
+Excluding filename qchem_2372.out due to failed completion
+Reading ... qchem_2373.out
+Excluding filename qchem_2373.out due to failed completion
+Reading ... qchem_2374.out
+Excluding filename qchem_2374.out due to failed completion
+Reading ... qchem_2375.out
+Excluding filename qchem_2375.out due to failed completion
+Reading ... qchem_2376.out
+Excluding filename qchem_2376.out due to failed completion
+Reading ... qchem_2377.out
+Excluding filename qchem_2377.out due to failed completion
+Reading ... qchem_2378.out
+Excluding filename qchem_2378.out due to failed completion
+Reading ... qchem_2379.out
+Excluding filename qchem_2379.out due to failed completion
+Reading ... qchem_2380.out
+Reading ... qchem_2381.out
+Reading ... qchem_2382.out
+Reading ... qchem_2383.out
+Reading ... qchem_2384.out
+Reading ... qchem_2385.out
+Reading ... qchem_2386.out
+Reading ... qchem_2387.out
+Excluding filename qchem_2387.out due to exclusion list
+Reading ... qchem_2388.out
+Excluding filename qchem_2388.out due to exclusion list
+Reading ... qchem_2389.out
+Excluding filename qchem_2389.out due to exclusion list
+Reading ... qchem_2390.out
+Reading ... qchem_2391.out
+Reading ... qchem_2392.out
+Reading ... qchem_2393.out
+Reading ... qchem_2394.out
+Reading ... qchem_2395.out
+Reading ... qchem_2396.out
+Reading ... qchem_2397.out
+Reading ... qchem_2398.out
+Reading ... qchem_2399.out
+Reading ... qchem_2400.out
+Reading ... qchem_2401.out
+Reading ... qchem_2402.out
+Reading ... qchem_2403.out
+Reading ... qchem_2404.out
+Reading ... qchem_2405.out
+Reading ... qchem_2406.out
+Reading ... qchem_2407.out
+Reading ... qchem_2408.out
+Reading ... qchem_2409.out
+Reading ... qchem_2410.out
+Reading ... qchem_2411.out
+Reading ... qchem_2412.out
+Reading ... qchem_2413.out
+Reading ... qchem_2414.out
+Reading ... qchem_2415.out
+Reading ... qchem_2416.out
+Reading ... qchem_2417.out
+Reading ... qchem_2418.out
+Reading ... qchem_2419.out
+Reading ... qchem_2420.out
+Reading ... qchem_2421.out
+Reading ... qchem_2422.out
+Excluding filename qchem_2422.out due to exclusion list
+Reading ... qchem_2423.out
+Excluding filename qchem_2423.out due to exclusion list
+Reading ... qchem_2424.out
+Excluding filename qchem_2424.out due to exclusion list
+Reading ... qchem_2425.out
+Excluding filename qchem_2425.out due to exclusion list
+Reading ... qchem_2426.out
+Excluding filename qchem_2426.out due to exclusion list
+Reading ... qchem_2427.out
+Excluding filename qchem_2427.out due to exclusion list
+Reading ... qchem_2428.out
+Excluding filename qchem_2428.out due to exclusion list
+Reading ... qchem_2429.out
+Excluding filename qchem_2429.out due to exclusion list
+Reading ... qchem_2430.out
+Reading ... qchem_2431.out
+Reading ... qchem_2432.out
+Reading ... qchem_2433.out
+Reading ... qchem_2434.out
+Reading ... qchem_2435.out
+Reading ... qchem_2436.out
+Reading ... qchem_2437.out
+Reading ... qchem_2438.out
+Reading ... qchem_2439.out
+Reading ... qchem_2440.out
+Reading ... qchem_2441.out
+Reading ... qchem_2442.out
+Reading ... qchem_2443.out
+Reading ... qchem_2444.out
+Reading ... qchem_2445.out
+Reading ... qchem_2446.out
+Reading ... qchem_2447.out
+Reading ... qchem_2448.out
+Reading ... qchem_2449.out
+Reading ... qchem_2450.out
+Reading ... qchem_2451.out
+Reading ... qchem_2452.out
+Excluding filename qchem_2452.out due to exclusion list
+Reading ... qchem_2453.out
+Reading ... qchem_2454.out
+Reading ... qchem_2455.out
+Reading ... qchem_2456.out
+Reading ... qchem_2457.out
+Reading ... qchem_2458.out
+Reading ... qchem_2459.out
+Reading ... qchem_2460.out
+Reading ... qchem_2461.out
+Reading ... qchem_2462.out
+Reading ... qchem_2463.out
+Reading ... qchem_2464.out
+Reading ... qchem_2465.out
+Reading ... qchem_2466.out
+Reading ... qchem_2467.out
+Reading ... qchem_2468.out
+Reading ... qchem_2469.out
+Reading ... qchem_2470.out
+Reading ... qchem_2471.out
+Reading ... qchem_2472.out
+Reading ... qchem_2473.out
+Reading ... qchem_2474.out
+Reading ... qchem_2475.out
+Reading ... qchem_2476.out
+Reading ... qchem_2477.out
+Reading ... qchem_2478.out
+Reading ... qchem_2479.out
+Reading ... qchem_2480.out
+Reading ... qchem_2481.out
+Reading ... qchem_2482.out
+Reading ... qchem_2483.out
+Reading ... qchem_2484.out
+Reading ... qchem_2485.out
+Reading ... qchem_2486.out
+Reading ... qchem_2487.out
+Reading ... qchem_2488.out
+Excluding filename qchem_2488.out due to exclusion list
+Reading ... qchem_2489.out
+Reading ... qchem_2490.out
+Reading ... qchem_2491.out
+Reading ... qchem_2492.out
+Reading ... qchem_2493.out
+Reading ... qchem_2494.out
+Reading ... qchem_2495.out
+Reading ... qchem_2496.out
+Reading ... qchem_2497.out
+Reading ... qchem_2498.out
+Reading ... qchem_2499.out
+Reading ... qchem_2500.out
+Reading ... qchem_2501.out
+Reading ... qchem_2502.out
+Reading ... qchem_2503.out
+Reading ... qchem_2504.out
+Reading ... qchem_2505.out
+Reading ... qchem_2506.out
+Reading ... qchem_2507.out
+Reading ... qchem_2508.out
+Reading ... qchem_2509.out
+Reading ... qchem_2510.out
+Reading ... qchem_2511.out
+Reading ... qchem_2512.out
+Reading ... qchem_2513.out
+Reading ... qchem_2514.out
+Reading ... qchem_2515.out
+Reading ... qchem_2516.out
+Reading ... qchem_2517.out
+Reading ... qchem_2518.out
+Reading ... qchem_2519.out
+Reading ... qchem_2520.out
+Reading ... qchem_2521.out
+Reading ... qchem_2522.out
+Reading ... qchem_2523.out
+Reading ... qchem_2524.out
+Excluding filename qchem_2524.out due to exclusion list
+Reading ... qchem_2525.out
+Reading ... qchem_2526.out
+Reading ... qchem_2527.out
+Reading ... qchem_2528.out
+Reading ... qchem_2529.out
+Reading ... qchem_2530.out
+Reading ... qchem_2531.out
+Reading ... qchem_2532.out
+Reading ... qchem_2533.out
+Reading ... qchem_2534.out
+Reading ... qchem_2535.out
+Reading ... qchem_2536.out
+Reading ... qchem_2537.out
+Reading ... qchem_2538.out
+Reading ... qchem_2539.out
+Reading ... qchem_2540.out
+Reading ... qchem_2541.out
+Reading ... qchem_2542.out
+Reading ... qchem_2543.out
+Reading ... qchem_2544.out
+Reading ... qchem_2545.out
+Reading ... qchem_2546.out
+Reading ... qchem_2547.out
+Reading ... qchem_2548.out
+Reading ... qchem_2549.out
+Reading ... qchem_2550.out
+Reading ... qchem_2551.out
+Reading ... qchem_2552.out
+Reading ... qchem_2553.out
+Reading ... qchem_2554.out
+Reading ... qchem_2555.out
+Reading ... qchem_2556.out
+Reading ... qchem_2557.out
+Reading ... qchem_2558.out
+Reading ... qchem_2559.out
+Reading ... qchem_2560.out
+Excluding filename qchem_2560.out due to failed completion
+Reading ... qchem_2561.out
+Reading ... qchem_2562.out
+Reading ... qchem_2563.out
+Reading ... qchem_2564.out
+Reading ... qchem_2565.out
+Excluding filename qchem_2565.out due to failed completion
+Reading ... qchem_2566.out
+Excluding filename qchem_2566.out due to failed completion
+Reading ... qchem_2567.out
+Excluding filename qchem_2567.out due to failed completion
+Reading ... qchem_2568.out
+Excluding filename qchem_2568.out due to failed completion
+Reading ... qchem_2569.out
+Excluding filename qchem_2569.out due to failed completion
+Reading ... qchem_2570.out
+Excluding filename qchem_2570.out due to failed completion
+Reading ... qchem_2571.out
+Excluding filename qchem_2571.out due to failed completion
+Reading ... qchem_2572.out
+Excluding filename qchem_2572.out due to failed completion
+Reading ... qchem_2573.out
+Excluding filename qchem_2573.out due to failed completion
+Reading ... qchem_2574.out
+Excluding filename qchem_2574.out due to failed completion
+Reading ... qchem_2575.out
+Excluding filename qchem_2575.out due to failed completion
+Reading ... qchem_2576.out
+Excluding filename qchem_2576.out due to failed completion
+Reading ... qchem_2577.out
+Reading ... qchem_2578.out
+Reading ... qchem_2579.out
+Excluding filename qchem_2579.out due to failed completion
+Reading ... qchem_2580.out
+Reading ... qchem_2581.out
+Reading ... qchem_2582.out
+Reading ... qchem_2583.out
+Reading ... qchem_2584.out
+Reading ... qchem_2585.out
+Reading ... qchem_2586.out
+Reading ... qchem_2587.out
+Reading ... qchem_2588.out
+Reading ... qchem_2589.out
+Reading ... qchem_2590.out
+Reading ... qchem_2591.out
+Reading ... qchem_2592.out
+Reading ... qchem_2593.out
+Reading ... qchem_2594.out
+Reading ... qchem_2595.out
+Reading ... qchem_2596.out
+Reading ... qchem_2597.out
+Excluding filename qchem_2597.out due to exclusion list
+Reading ... qchem_2598.out
+Reading ... qchem_2599.out
+Reading ... qchem_2600.out
+Reading ... qchem_2601.out
+Reading ... qchem_2602.out
+Excluding filename qchem_2602.out due to failed completion
+Reading ... qchem_2603.out
+Excluding filename qchem_2603.out due to failed completion
+Reading ... qchem_2604.out
+Excluding filename qchem_2604.out due to failed completion
+Reading ... qchem_2605.out
+Excluding filename qchem_2605.out due to failed completion
+Reading ... qchem_2606.out
+Excluding filename qchem_2606.out due to failed completion
+Reading ... qchem_2607.out
+Excluding filename qchem_2607.out due to failed completion
+Reading ... qchem_2608.out
+Excluding filename qchem_2608.out due to failed completion
+Reading ... qchem_2609.out
+Excluding filename qchem_2609.out due to failed completion
+Reading ... qchem_2610.out
+Excluding filename qchem_2610.out due to failed completion
+Reading ... qchem_2611.out
+Excluding filename qchem_2611.out due to failed completion
+Reading ... qchem_2612.out
+Excluding filename qchem_2612.out due to failed completion
+Reading ... qchem_2613.out
+Excluding filename qchem_2613.out due to failed completion
+Reading ... qchem_2614.out
+Excluding filename qchem_2614.out due to failed completion
+Reading ... qchem_2615.out
+Excluding filename qchem_2615.out due to failed completion
+Reading ... qchem_2616.out
+Excluding filename qchem_2616.out due to failed completion
+Reading ... qchem_2617.out
+Excluding filename qchem_2617.out due to failed completion
+Reading ... qchem_2618.out
+Excluding filename qchem_2618.out due to failed completion
+Reading ... qchem_2619.out
+Excluding filename qchem_2619.out due to failed completion
+Reading ... qchem_2620.out
+Excluding filename qchem_2620.out due to failed completion
+Reading ... qchem_2621.out
+Excluding filename qchem_2621.out due to failed completion
+Reading ... qchem_2622.out
+Excluding filename qchem_2622.out due to failed completion
+Reading ... qchem_2623.out
+Excluding filename qchem_2623.out due to failed completion
+Reading ... qchem_2624.out
+Excluding filename qchem_2624.out due to failed completion
+Reading ... qchem_2625.out
+Reading ... qchem_2626.out
+Reading ... qchem_2627.out
+Reading ... qchem_2628.out
+Reading ... qchem_2629.out
+Reading ... qchem_2630.out
+Reading ... qchem_2631.out
+Reading ... qchem_2632.out
+Excluding filename qchem_2632.out due to exclusion list
+Reading ... qchem_2633.out
+Excluding filename qchem_2633.out due to exclusion list
+Reading ... qchem_2634.out
+Excluding filename qchem_2634.out due to exclusion list
+Reading ... qchem_2635.out
+Reading ... qchem_2636.out
+Reading ... qchem_2637.out
+Reading ... qchem_2638.out
+Reading ... qchem_2639.out
+Reading ... qchem_2640.out
+Reading ... qchem_2641.out
+Reading ... qchem_2642.out
+Reading ... qchem_2643.out
+Reading ... qchem_2644.out
+Reading ... qchem_2645.out
+Reading ... qchem_2646.out
+Reading ... qchem_2647.out
+Reading ... qchem_2648.out
+Reading ... qchem_2649.out
+Reading ... qchem_2650.out
+Reading ... qchem_2651.out
+Reading ... qchem_2652.out
+Reading ... qchem_2653.out
+Reading ... qchem_2654.out
+Reading ... qchem_2655.out
+Reading ... qchem_2656.out
+Reading ... qchem_2657.out
+Reading ... qchem_2658.out
+Reading ... qchem_2659.out
+Reading ... qchem_2660.out
+Reading ... qchem_2661.out
+Reading ... qchem_2662.out
+Reading ... qchem_2663.out
+Reading ... qchem_2664.out
+Reading ... qchem_2665.out
+Reading ... qchem_2666.out
+Reading ... qchem_2667.out
+Excluding filename qchem_2667.out due to exclusion list
+Reading ... qchem_2668.out
+Excluding filename qchem_2668.out due to exclusion list
+Reading ... qchem_2669.out
+Excluding filename qchem_2669.out due to exclusion list
+Reading ... qchem_2670.out
+Excluding filename qchem_2670.out due to exclusion list
+Reading ... qchem_2671.out
+Excluding filename qchem_2671.out due to exclusion list
+Reading ... qchem_2672.out
+Excluding filename qchem_2672.out due to exclusion list
+Reading ... qchem_2673.out
+Excluding filename qchem_2673.out due to exclusion list
+Reading ... qchem_2674.out
+Reading ... qchem_2675.out
+Reading ... qchem_2676.out
+Reading ... qchem_2677.out
+Reading ... qchem_2678.out
+Reading ... qchem_2679.out
+Reading ... qchem_2680.out
+Reading ... qchem_2681.out
+Reading ... qchem_2682.out
+Reading ... qchem_2683.out
+Reading ... qchem_2684.out
+Reading ... qchem_2685.out
+Reading ... qchem_2686.out
+Reading ... qchem_2687.out
+Reading ... qchem_2688.out
+Reading ... qchem_2689.out
+Reading ... qchem_2690.out
+Reading ... qchem_2691.out
+Reading ... qchem_2692.out
+Reading ... qchem_2693.out
+Reading ... qchem_2694.out
+Reading ... qchem_2695.out
+Reading ... qchem_2696.out
+Reading ... qchem_2697.out
+Excluding filename qchem_2697.out due to exclusion list
+Reading ... qchem_2698.out
+Reading ... qchem_2699.out
+Reading ... qchem_2700.out
+Reading ... qchem_2701.out
+Reading ... qchem_2702.out
+Reading ... qchem_2703.out
+Reading ... qchem_2704.out
+Reading ... qchem_2705.out
+Reading ... qchem_2706.out
+Reading ... qchem_2707.out
+Reading ... qchem_2708.out
+Reading ... qchem_2709.out
+Reading ... qchem_2710.out
+Reading ... qchem_2711.out
+Reading ... qchem_2712.out
+Reading ... qchem_2713.out
+Reading ... qchem_2714.out
+Reading ... qchem_2715.out
+Reading ... qchem_2716.out
+Reading ... qchem_2717.out
+Reading ... qchem_2718.out
+Reading ... qchem_2719.out
+Reading ... qchem_2720.out
+Reading ... qchem_2721.out
+Reading ... qchem_2722.out
+Reading ... qchem_2723.out
+Reading ... qchem_2724.out
+Reading ... qchem_2725.out
+Reading ... qchem_2726.out
+Reading ... qchem_2727.out
+Reading ... qchem_2728.out
+Reading ... qchem_2729.out
+Reading ... qchem_2730.out
+Reading ... qchem_2731.out
+Reading ... qchem_2732.out
+Reading ... qchem_2733.out
+Excluding filename qchem_2733.out due to exclusion list
+Reading ... qchem_2734.out
+Reading ... qchem_2735.out
+Reading ... qchem_2736.out
+Reading ... qchem_2737.out
+Reading ... qchem_2738.out
+Reading ... qchem_2739.out
+Reading ... qchem_2740.out
+Reading ... qchem_2741.out
+Reading ... qchem_2742.out
+Reading ... qchem_2743.out
+Reading ... qchem_2744.out
+Reading ... qchem_2745.out
+Reading ... qchem_2746.out
+Reading ... qchem_2747.out
+Reading ... qchem_2748.out
+Reading ... qchem_2749.out
+Reading ... qchem_2750.out
+Reading ... qchem_2751.out
+Reading ... qchem_2752.out
+Reading ... qchem_2753.out
+Reading ... qchem_2754.out
+Reading ... qchem_2755.out
+Reading ... qchem_2756.out
+Reading ... qchem_2757.out
+Reading ... qchem_2758.out
+Reading ... qchem_2759.out
+Reading ... qchem_2760.out
+Reading ... qchem_2761.out
+Reading ... qchem_2762.out
+Reading ... qchem_2763.out
+Reading ... qchem_2764.out
+Reading ... qchem_2765.out
+Reading ... qchem_2766.out
+Reading ... qchem_2767.out
+Reading ... qchem_2768.out
+Reading ... qchem_2769.out
+Excluding filename qchem_2769.out due to exclusion list
+Reading ... qchem_2770.out
+Reading ... qchem_2771.out
+Reading ... qchem_2772.out
+Reading ... qchem_2773.out
+Reading ... qchem_2774.out
+Reading ... qchem_2775.out
+Reading ... qchem_2776.out
+Reading ... qchem_2777.out
+Reading ... qchem_2778.out
+Reading ... qchem_2779.out
+Reading ... qchem_2780.out
+Reading ... qchem_2781.out
+Reading ... qchem_2782.out
+Reading ... qchem_2783.out
+Reading ... qchem_2784.out
+Reading ... qchem_2785.out
+Reading ... qchem_2786.out
+Reading ... qchem_2787.out
+Reading ... qchem_2788.out
+Reading ... qchem_2789.out
+Reading ... qchem_2790.out
+Reading ... qchem_2791.out
+Reading ... qchem_2792.out
+Reading ... qchem_2793.out
+Reading ... qchem_2794.out
+Reading ... qchem_2795.out
+Reading ... qchem_2796.out
+Reading ... qchem_2797.out
+Reading ... qchem_2798.out
+Reading ... qchem_2799.out
+Reading ... qchem_2800.out
+Reading ... qchem_2801.out
+Reading ... qchem_2802.out
+Reading ... qchem_2803.out
+Reading ... qchem_2804.out
+Reading ... qchem_2805.out
+Excluding filename qchem_2805.out due to failed completion
+Reading ... qchem_2806.out
+Reading ... qchem_2807.out
+Reading ... qchem_2808.out
+Reading ... qchem_2809.out
+Reading ... qchem_2810.out
+Excluding filename qchem_2810.out due to failed completion
+Reading ... qchem_2811.out
+Excluding filename qchem_2811.out due to failed completion
+Reading ... qchem_2812.out
+Excluding filename qchem_2812.out due to failed completion
+Reading ... qchem_2813.out
+Excluding filename qchem_2813.out due to failed completion
+Reading ... qchem_2814.out
+Excluding filename qchem_2814.out due to failed completion
+Reading ... qchem_2815.out
+Excluding filename qchem_2815.out due to failed completion
+Reading ... qchem_2816.out
+Excluding filename qchem_2816.out due to failed completion
+Reading ... qchem_2817.out
+Excluding filename qchem_2817.out due to failed completion
+Reading ... qchem_2818.out
+Excluding filename qchem_2818.out due to failed completion
+Reading ... qchem_2819.out
+Excluding filename qchem_2819.out due to failed completion
+Reading ... qchem_2820.out
+Excluding filename qchem_2820.out due to failed completion
+Reading ... qchem_2821.out
+Excluding filename qchem_2821.out due to failed completion
+Reading ... qchem_2822.out
+Reading ... qchem_2823.out
+Reading ... qchem_2824.out
+Reading ... qchem_2825.out
+Reading ... qchem_2826.out
+Reading ... qchem_2827.out
+Reading ... qchem_2828.out
+Reading ... qchem_2829.out
+Reading ... qchem_2830.out
+Reading ... qchem_2831.out
+Reading ... qchem_2832.out
+Reading ... qchem_2833.out
+Reading ... qchem_2834.out
+Reading ... qchem_2835.out
+Reading ... qchem_2836.out
+Reading ... qchem_2837.out
+Reading ... qchem_2838.out
+Reading ... qchem_2839.out
+Reading ... qchem_2840.out
+Reading ... qchem_2841.out
+Reading ... qchem_2842.out
+Excluding filename qchem_2842.out due to exclusion list
+Reading ... qchem_2843.out
+Reading ... qchem_2844.out
+Reading ... qchem_2845.out
+Reading ... qchem_2846.out
+Excluding filename qchem_2846.out due to failed completion
+Reading ... qchem_2847.out
+Excluding filename qchem_2847.out due to failed completion
+Reading ... qchem_2848.out
+Excluding filename qchem_2848.out due to failed completion
+Reading ... qchem_2849.out
+Excluding filename qchem_2849.out due to failed completion
+Reading ... qchem_2850.out
+Excluding filename qchem_2850.out due to failed completion
+Reading ... qchem_2851.out
+Excluding filename qchem_2851.out due to failed completion
+Reading ... qchem_2852.out
+Excluding filename qchem_2852.out due to failed completion
+Reading ... qchem_2853.out
+Excluding filename qchem_2853.out due to failed completion
+Reading ... qchem_2854.out
+Excluding filename qchem_2854.out due to failed completion
+Reading ... qchem_2855.out
+Excluding filename qchem_2855.out due to failed completion
+Reading ... qchem_2856.out
+Excluding filename qchem_2856.out due to failed completion
+Reading ... qchem_2857.out
+Excluding filename qchem_2857.out due to failed completion
+Reading ... qchem_2858.out
+Excluding filename qchem_2858.out due to failed completion
+Reading ... qchem_2859.out
+Excluding filename qchem_2859.out due to failed completion
+Reading ... qchem_2860.out
+Excluding filename qchem_2860.out due to failed completion
+Reading ... qchem_2861.out
+Excluding filename qchem_2861.out due to failed completion
+Reading ... qchem_2862.out
+Excluding filename qchem_2862.out due to failed completion
+Reading ... qchem_2863.out
+Excluding filename qchem_2863.out due to failed completion
+Reading ... qchem_2864.out
+Excluding filename qchem_2864.out due to failed completion
+Reading ... qchem_2865.out
+Excluding filename qchem_2865.out due to failed completion
+Reading ... qchem_2866.out
+Excluding filename qchem_2866.out due to failed completion
+Reading ... qchem_2867.out
+Excluding filename qchem_2867.out due to failed completion
+Reading ... qchem_2868.out
+Excluding filename qchem_2868.out due to failed completion
+Reading ... qchem_2869.out
+Excluding filename qchem_2869.out due to failed completion
+Reading ... qchem_2870.out
+Reading ... qchem_2871.out
+Reading ... qchem_2872.out
+Reading ... qchem_2873.out
+Reading ... qchem_2874.out
+Reading ... qchem_2875.out
+Reading ... qchem_2876.out
+Reading ... qchem_2877.out
+Excluding filename qchem_2877.out due to exclusion list
+Reading ... qchem_2878.out
+Excluding filename qchem_2878.out due to exclusion list
+Reading ... qchem_2879.out
+Reading ... qchem_2880.out
+Reading ... qchem_2881.out
+Reading ... qchem_2882.out
+Reading ... qchem_2883.out
+Reading ... qchem_2884.out
+Reading ... qchem_2885.out
+Reading ... qchem_2886.out
+Reading ... qchem_2887.out
+Reading ... qchem_2888.out
+Reading ... qchem_2889.out
+Reading ... qchem_2890.out
+Reading ... qchem_2891.out
+Reading ... qchem_2892.out
+Reading ... qchem_2893.out
+Reading ... qchem_2894.out
+Reading ... qchem_2895.out
+Reading ... qchem_2896.out
+Reading ... qchem_2897.out
+Reading ... qchem_2898.out
+Reading ... qchem_2899.out
+Reading ... qchem_2900.out
+Reading ... qchem_2901.out
+Reading ... qchem_2902.out
+Reading ... qchem_2903.out
+Reading ... qchem_2904.out
+Reading ... qchem_2905.out
+Reading ... qchem_2906.out
+Reading ... qchem_2907.out
+Reading ... qchem_2908.out
+Reading ... qchem_2909.out
+Reading ... qchem_2910.out
+Reading ... qchem_2911.out
+Reading ... qchem_2912.out
+Excluding filename qchem_2912.out due to exclusion list
+Reading ... qchem_2913.out
+Excluding filename qchem_2913.out due to exclusion list
+Reading ... qchem_2914.out
+Excluding filename qchem_2914.out due to exclusion list
+Reading ... qchem_2915.out
+Excluding filename qchem_2915.out due to exclusion list
+Reading ... qchem_2916.out
+Excluding filename qchem_2916.out due to exclusion list
+Reading ... qchem_2917.out
+Reading ... qchem_2918.out
+Reading ... qchem_2919.out
+Reading ... qchem_2920.out
+Reading ... qchem_2921.out
+Reading ... qchem_2922.out
+Reading ... qchem_2923.out
+Reading ... qchem_2924.out
+Reading ... qchem_2925.out
+Reading ... qchem_2926.out
+Reading ... qchem_2927.out
+Reading ... qchem_2928.out
+Reading ... qchem_2929.out
+Reading ... qchem_2930.out
+Reading ... qchem_2931.out
+Reading ... qchem_2932.out
+Reading ... qchem_2933.out
+Reading ... qchem_2934.out
+Reading ... qchem_2935.out
+Reading ... qchem_2936.out
+Reading ... qchem_2937.out
+Reading ... qchem_2938.out
+Reading ... qchem_2939.out
+Reading ... qchem_2940.out
+Reading ... qchem_2941.out
+Reading ... qchem_2942.out
+Reading ... qchem_2943.out
+Reading ... qchem_2944.out
+Reading ... qchem_2945.out
+Reading ... qchem_2946.out
+Reading ... qchem_2947.out
+Reading ... qchem_2948.out
+Reading ... qchem_2949.out
+Reading ... qchem_2950.out
+Reading ... qchem_2951.out
+Reading ... qchem_2952.out
+Reading ... qchem_2953.out
+Reading ... qchem_2954.out
+Reading ... qchem_2955.out
+Reading ... qchem_2956.out
+Reading ... qchem_2957.out
+Reading ... qchem_2958.out
+Reading ... qchem_2959.out
+Reading ... qchem_2960.out
+Reading ... qchem_2961.out
+Reading ... qchem_2962.out
+Reading ... qchem_2963.out
+Reading ... qchem_2964.out
+Reading ... qchem_2965.out
+Reading ... qchem_2966.out
+Reading ... qchem_2967.out
+Reading ... qchem_2968.out
+Reading ... qchem_2969.out
+Reading ... qchem_2970.out
+Reading ... qchem_2971.out
+Reading ... qchem_2972.out
+Reading ... qchem_2973.out
+Reading ... qchem_2974.out
+Reading ... qchem_2975.out
+Reading ... qchem_2976.out
+Reading ... qchem_2977.out
+Reading ... qchem_2978.out
+Reading ... qchem_2979.out
+Reading ... qchem_2980.out
+Reading ... qchem_2981.out
+Reading ... qchem_2982.out
+Reading ... qchem_2983.out
+Reading ... qchem_2984.out
+Reading ... qchem_2985.out
+Reading ... qchem_2986.out
+Reading ... qchem_2987.out
+Reading ... qchem_2988.out
+Reading ... qchem_2989.out
+Reading ... qchem_2990.out
+Reading ... qchem_2991.out
+Reading ... qchem_2992.out
+Reading ... qchem_2993.out
+Reading ... qchem_2994.out
+Reading ... qchem_2995.out
+Reading ... qchem_2996.out
+Reading ... qchem_2997.out
+Reading ... qchem_2998.out
+Reading ... qchem_2999.out
+Reading ... qchem_3000.out
+Reading ... qchem_3001.out
+Reading ... qchem_3002.out
+Reading ... qchem_3003.out
+Reading ... qchem_3004.out
+Reading ... qchem_3005.out
+Reading ... qchem_3006.out
+Reading ... qchem_3007.out
+Reading ... qchem_3008.out
+Reading ... qchem_3009.out
+Reading ... qchem_3010.out
+Reading ... qchem_3011.out
+Reading ... qchem_3012.out
+Reading ... qchem_3013.out
+Reading ... qchem_3014.out
+Reading ... qchem_3015.out
+Reading ... qchem_3016.out
+Reading ... qchem_3017.out
+Reading ... qchem_3018.out
+Reading ... qchem_3019.out
+Reading ... qchem_3020.out
+Reading ... qchem_3021.out
+Reading ... qchem_3022.out
+Reading ... qchem_3023.out
+Reading ... qchem_3024.out
+Reading ... qchem_3025.out
+Reading ... qchem_3026.out
+Reading ... qchem_3027.out
+Reading ... qchem_3028.out
+Reading ... qchem_3029.out
+Reading ... qchem_3030.out
+Reading ... qchem_3031.out
+Reading ... qchem_3032.out
+Reading ... qchem_3033.out
+Reading ... qchem_3034.out
+Reading ... qchem_3035.out
+Reading ... qchem_3036.out
+Reading ... qchem_3037.out
+Reading ... qchem_3038.out
+Reading ... qchem_3039.out
+Reading ... qchem_3040.out
+Reading ... qchem_3041.out
+Reading ... qchem_3042.out
+Reading ... qchem_3043.out
+Reading ... qchem_3044.out
+Reading ... qchem_3045.out
+Reading ... qchem_3046.out
+Reading ... qchem_3047.out
+Reading ... qchem_3048.out
+Reading ... qchem_3049.out
+Reading ... qchem_3050.out
+Excluding filename qchem_3050.out due to exclusion list
+Reading ... qchem_3051.out
+Reading ... qchem_3052.out
+Reading ... qchem_3053.out
+Reading ... qchem_3054.out
+Reading ... qchem_3055.out
+Reading ... qchem_3056.out
+Excluding filename qchem_3056.out due to failed completion
+Reading ... qchem_3057.out
+Excluding filename qchem_3057.out due to failed completion
+Reading ... qchem_3058.out
+Excluding filename qchem_3058.out due to exclusion list
+Reading ... qchem_3059.out
+Excluding filename qchem_3059.out due to failed completion
+Reading ... qchem_3060.out
+Excluding filename qchem_3060.out due to failed completion
+Reading ... qchem_3061.out
+Excluding filename qchem_3061.out due to failed completion
+Reading ... qchem_3062.out
+Excluding filename qchem_3062.out due to failed completion
+Reading ... qchem_3063.out
+Excluding filename qchem_3063.out due to failed completion
+Reading ... qchem_3064.out
+Excluding filename qchem_3064.out due to failed completion
+Reading ... qchem_3065.out
+Excluding filename qchem_3065.out due to failed completion
+Reading ... qchem_3066.out
+Excluding filename qchem_3066.out due to failed completion
+Reading ... qchem_3067.out
+Reading ... qchem_3068.out
+Reading ... qchem_3069.out
+Reading ... qchem_3070.out
+Reading ... qchem_3071.out
+Reading ... qchem_3072.out
+Reading ... qchem_3073.out
+Reading ... qchem_3074.out
+Reading ... qchem_3075.out
+Reading ... qchem_3076.out
+Reading ... qchem_3077.out
+Reading ... qchem_3078.out
+Reading ... qchem_3079.out
+Reading ... qchem_3080.out
+Reading ... qchem_3081.out
+Reading ... qchem_3082.out
+Reading ... qchem_3083.out
+Reading ... qchem_3084.out
+Reading ... qchem_3085.out
+Reading ... qchem_3086.out
+Reading ... qchem_3087.out
+Reading ... qchem_3088.out
+Reading ... qchem_3089.out
+Reading ... qchem_3090.out
+Reading ... qchem_3091.out
+Excluding filename qchem_3091.out due to failed completion
+Reading ... qchem_3092.out
+Excluding filename qchem_3092.out due to failed completion
+Reading ... qchem_3093.out
+Excluding filename qchem_3093.out due to failed completion
+Reading ... qchem_3094.out
+Excluding filename qchem_3094.out due to failed completion
+Reading ... qchem_3095.out
+Excluding filename qchem_3095.out due to failed completion
+Reading ... qchem_3096.out
+Excluding filename qchem_3096.out due to failed completion
+Reading ... qchem_3097.out
+Excluding filename qchem_3097.out due to failed completion
+Reading ... qchem_3098.out
+Excluding filename qchem_3098.out due to failed completion
+Reading ... qchem_3099.out
+Excluding filename qchem_3099.out due to failed completion
+Reading ... qchem_3100.out
+Excluding filename qchem_3100.out due to failed completion
+Reading ... qchem_3101.out
+Excluding filename qchem_3101.out due to failed completion
+Reading ... qchem_3102.out
+Excluding filename qchem_3102.out due to failed completion
+Reading ... qchem_3103.out
+Excluding filename qchem_3103.out due to failed completion
+Reading ... qchem_3104.out
+Excluding filename qchem_3104.out due to failed completion
+Reading ... qchem_3105.out
+Excluding filename qchem_3105.out due to failed completion
+Reading ... qchem_3106.out
+Excluding filename qchem_3106.out due to failed completion
+Reading ... qchem_3107.out
+Excluding filename qchem_3107.out due to failed completion
+Reading ... qchem_3108.out
+Excluding filename qchem_3108.out due to failed completion
+Reading ... qchem_3109.out
+Excluding filename qchem_3109.out due to failed completion
+Reading ... qchem_3110.out
+Excluding filename qchem_3110.out due to failed completion
+Reading ... qchem_3111.out
+Excluding filename qchem_3111.out due to failed completion
+Reading ... qchem_3112.out
+Excluding filename qchem_3112.out due to failed completion
+Reading ... qchem_3113.out
+Excluding filename qchem_3113.out due to failed completion
+Reading ... qchem_3114.out
+Excluding filename qchem_3114.out due to failed completion
+Reading ... qchem_3115.out
+Reading ... qchem_3116.out
+Reading ... qchem_3117.out
+Reading ... qchem_3118.out
+Reading ... qchem_3119.out
+Reading ... qchem_3120.out
+Reading ... qchem_3121.out
+Reading ... qchem_3122.out
+Excluding filename qchem_3122.out due to exclusion list
+Reading ... qchem_3123.out
+Reading ... qchem_3124.out
+Reading ... qchem_3125.out
+Reading ... qchem_3126.out
+Reading ... qchem_3127.out
+Reading ... qchem_3128.out
+Reading ... qchem_3129.out
+Reading ... qchem_3130.out
+Reading ... qchem_3131.out
+Reading ... qchem_3132.out
+Reading ... qchem_3133.out
+Reading ... qchem_3134.out
+Reading ... qchem_3135.out
+Reading ... qchem_3136.out
+Reading ... qchem_3137.out
+Reading ... qchem_3138.out
+Reading ... qchem_3139.out
+Reading ... qchem_3140.out
+Reading ... qchem_3141.out
+Reading ... qchem_3142.out
+Reading ... qchem_3143.out
+Reading ... qchem_3144.out
+Reading ... qchem_3145.out
+Reading ... qchem_3146.out
+Reading ... qchem_3147.out
+Reading ... qchem_3148.out
+Reading ... qchem_3149.out
+Reading ... qchem_3150.out
+Reading ... qchem_3151.out
+Reading ... qchem_3152.out
+Reading ... qchem_3153.out
+Reading ... qchem_3154.out
+Reading ... qchem_3155.out
+Reading ... qchem_3156.out
+Reading ... qchem_3157.out
+Excluding filename qchem_3157.out due to exclusion list
+Reading ... qchem_3158.out
+Reading ... qchem_3159.out
+Reading ... qchem_3160.out
+Reading ... qchem_3161.out
+Reading ... qchem_3162.out
+Reading ... qchem_3163.out
+Reading ... qchem_3164.out
+Reading ... qchem_3165.out
+Reading ... qchem_3166.out
+Reading ... qchem_3167.out
+Reading ... qchem_3168.out
+Reading ... qchem_3169.out
+Reading ... qchem_3170.out
+Reading ... qchem_3171.out
+Reading ... qchem_3172.out
+Reading ... qchem_3173.out
+Reading ... qchem_3174.out
+Reading ... qchem_3175.out
+Reading ... qchem_3176.out
+Reading ... qchem_3177.out
+Reading ... qchem_3178.out
+Reading ... qchem_3179.out
+Reading ... qchem_3180.out
+Reading ... qchem_3181.out
+Reading ... qchem_3182.out
+Reading ... qchem_3183.out
+Reading ... qchem_3184.out
+Reading ... qchem_3185.out
+Reading ... qchem_3186.out
+Reading ... qchem_3187.out
+Reading ... qchem_3188.out
+Reading ... qchem_3189.out
+Reading ... qchem_3190.out
+Reading ... qchem_3191.out
+Reading ... qchem_3192.out
+Reading ... qchem_3193.out
+Reading ... qchem_3194.out
+Reading ... qchem_3195.out
+Reading ... qchem_3196.out
+Reading ... qchem_3197.out
+Reading ... qchem_3198.out
+Reading ... qchem_3199.out
+Reading ... qchem_3200.out
+Reading ... qchem_3201.out
+Reading ... qchem_3202.out
+Reading ... qchem_3203.out
+Reading ... qchem_3204.out
+Reading ... qchem_3205.out
+Reading ... qchem_3206.out
+Reading ... qchem_3207.out
+Reading ... qchem_3208.out
+Reading ... qchem_3209.out
+Reading ... qchem_3210.out
+Reading ... qchem_3211.out
+Reading ... qchem_3212.out
+Reading ... qchem_3213.out
+Reading ... qchem_3214.out
+Reading ... qchem_3215.out
+Reading ... qchem_3216.out
+Reading ... qchem_3217.out
+Reading ... qchem_3218.out
+Reading ... qchem_3219.out
+Reading ... qchem_3220.out
+Reading ... qchem_3221.out
+Reading ... qchem_3222.out
+Reading ... qchem_3223.out
+Reading ... qchem_3224.out
+Reading ... qchem_3225.out
+Reading ... qchem_3226.out
+Reading ... qchem_3227.out
+Reading ... qchem_3228.out
+Reading ... qchem_3229.out
+Reading ... qchem_3230.out
+Reading ... qchem_3231.out
+Reading ... qchem_3232.out
+Reading ... qchem_3233.out
+Reading ... qchem_3234.out
+Reading ... qchem_3235.out
+Reading ... qchem_3236.out
+Reading ... qchem_3237.out
+Reading ... qchem_3238.out
+Reading ... qchem_3239.out
+Reading ... qchem_3240.out
+Reading ... qchem_3241.out
+Reading ... qchem_3242.out
+Reading ... qchem_3243.out
+Reading ... qchem_3244.out
+Reading ... qchem_3245.out
+Reading ... qchem_3246.out
+Reading ... qchem_3247.out
+Reading ... qchem_3248.out
+Reading ... qchem_3249.out
+Reading ... qchem_3250.out
+Reading ... qchem_3251.out
+Reading ... qchem_3252.out
+Reading ... qchem_3253.out
+Reading ... qchem_3254.out
+Reading ... qchem_3255.out
+Reading ... qchem_3256.out
+Reading ... qchem_3257.out
+Reading ... qchem_3258.out
+Reading ... qchem_3259.out
+Reading ... qchem_3260.out
+Reading ... qchem_3261.out
+Reading ... qchem_3262.out
+Reading ... qchem_3263.out
+Reading ... qchem_3264.out
+Reading ... qchem_3265.out
+Reading ... qchem_3266.out
+Reading ... qchem_3267.out
+Reading ... qchem_3268.out
+Reading ... qchem_3269.out
+Reading ... qchem_3270.out
+Reading ... qchem_3271.out
+Reading ... qchem_3272.out
+Reading ... qchem_3273.out
+Reading ... qchem_3274.out
+Reading ... qchem_3275.out
+Reading ... qchem_3276.out
+Reading ... qchem_3277.out
+Reading ... qchem_3278.out
+Reading ... qchem_3279.out
+Reading ... qchem_3280.out
+Reading ... qchem_3281.out
+Reading ... qchem_3282.out
+Reading ... qchem_3283.out
+Reading ... qchem_3284.out
+Reading ... qchem_3285.out
+Reading ... qchem_3286.out
+Reading ... qchem_3287.out
+Reading ... qchem_3288.out
+Reading ... qchem_3289.out
+Reading ... qchem_3290.out
+Reading ... qchem_3291.out
+Reading ... qchem_3292.out
+Reading ... qchem_3293.out
+Reading ... qchem_3294.out
+Reading ... qchem_3295.out
+Reading ... qchem_3296.out
+Reading ... qchem_3297.out
+Reading ... qchem_3298.out
+Reading ... qchem_3299.out
+Reading ... qchem_3300.out
+Reading ... qchem_3301.out
+Reading ... qchem_3302.out
+Reading ... qchem_3303.out
+Excluding filename qchem_3303.out due to failed completion
+Reading ... qchem_3304.out
+Excluding filename qchem_3304.out due to failed completion
+Reading ... qchem_3305.out
+Excluding filename qchem_3305.out due to failed completion
+Reading ... qchem_3306.out
+Excluding filename qchem_3306.out due to failed completion
+Reading ... qchem_3307.out
+Excluding filename qchem_3307.out due to failed completion
+Reading ... qchem_3308.out
+Excluding filename qchem_3308.out due to failed completion
+Reading ... qchem_3309.out
+Excluding filename qchem_3309.out due to failed completion
+Reading ... qchem_3310.out
+Excluding filename qchem_3310.out due to failed completion
+Reading ... qchem_3311.out
+Reading ... qchem_3312.out
+Reading ... qchem_3313.out
+Reading ... qchem_3314.out
+Reading ... qchem_3315.out
+Reading ... qchem_3316.out
+Reading ... qchem_3317.out
+Reading ... qchem_3318.out
+Reading ... qchem_3319.out
+Reading ... qchem_3320.out
+Reading ... qchem_3321.out
+Reading ... qchem_3322.out
+Reading ... qchem_3323.out
+Reading ... qchem_3324.out
+Reading ... qchem_3325.out
+Reading ... qchem_3326.out
+Reading ... qchem_3327.out
+Reading ... qchem_3328.out
+Reading ... qchem_3329.out
+Reading ... qchem_3330.out
+Reading ... qchem_3331.out
+Reading ... qchem_3332.out
+Reading ... qchem_3333.out
+Reading ... qchem_3334.out
+Reading ... qchem_3335.out
+Reading ... qchem_3336.out
+Excluding filename qchem_3336.out due to failed completion
+Reading ... qchem_3337.out
+Excluding filename qchem_3337.out due to failed completion
+Reading ... qchem_3338.out
+Excluding filename qchem_3338.out due to failed completion
+Reading ... qchem_3339.out
+Excluding filename qchem_3339.out due to failed completion
+Reading ... qchem_3340.out
+Excluding filename qchem_3340.out due to failed completion
+Reading ... qchem_3341.out
+Excluding filename qchem_3341.out due to failed completion
+Reading ... qchem_3342.out
+Excluding filename qchem_3342.out due to failed completion
+Reading ... qchem_3343.out
+Excluding filename qchem_3343.out due to failed completion
+Reading ... qchem_3344.out
+Excluding filename qchem_3344.out due to failed completion
+Reading ... qchem_3345.out
+Excluding filename qchem_3345.out due to failed completion
+Reading ... qchem_3346.out
+Excluding filename qchem_3346.out due to failed completion
+Reading ... qchem_3347.out
+Excluding filename qchem_3347.out due to failed completion
+Reading ... qchem_3348.out
+Excluding filename qchem_3348.out due to failed completion
+Reading ... qchem_3349.out
+Excluding filename qchem_3349.out due to failed completion
+Reading ... qchem_3350.out
+Excluding filename qchem_3350.out due to failed completion
+Reading ... qchem_3351.out
+Excluding filename qchem_3351.out due to failed completion
+Reading ... qchem_3352.out
+Excluding filename qchem_3352.out due to failed completion
+Reading ... qchem_3353.out
+Excluding filename qchem_3353.out due to failed completion
+Reading ... qchem_3354.out
+Excluding filename qchem_3354.out due to failed completion
+Reading ... qchem_3355.out
+Excluding filename qchem_3355.out due to failed completion
+Reading ... qchem_3356.out
+Excluding filename qchem_3356.out due to failed completion
+Reading ... qchem_3357.out
+Excluding filename qchem_3357.out due to failed completion
+Reading ... qchem_3358.out
+Excluding filename qchem_3358.out due to failed completion
+Reading ... qchem_3359.out
+Excluding filename qchem_3359.out due to failed completion
+Reading ... qchem_3360.out
+Reading ... qchem_3361.out
+Reading ... qchem_3362.out
+Reading ... qchem_3363.out
+Reading ... qchem_3364.out
+Reading ... qchem_3365.out
+Reading ... qchem_3366.out
+Reading ... qchem_3367.out
+Excluding filename qchem_3367.out due to exclusion list
+Reading ... qchem_3368.out
+Reading ... qchem_3369.out
+Reading ... qchem_3370.out
+Reading ... qchem_3371.out
+Reading ... qchem_3372.out
+Reading ... qchem_3373.out
+Reading ... qchem_3374.out
+Reading ... qchem_3375.out
+Reading ... qchem_3376.out
+Reading ... qchem_3377.out
+Reading ... qchem_3378.out
+Reading ... qchem_3379.out
+Reading ... qchem_3380.out
+Reading ... qchem_3381.out
+Reading ... qchem_3382.out
+Reading ... qchem_3383.out
+Reading ... qchem_3384.out
+Reading ... qchem_3385.out
+Reading ... qchem_3386.out
+Reading ... qchem_3387.out
+Reading ... qchem_3388.out
+Reading ... qchem_3389.out
+Reading ... qchem_3390.out
+Reading ... qchem_3391.out
+Reading ... qchem_3392.out
+Reading ... qchem_3393.out
+Reading ... qchem_3394.out
+Reading ... qchem_3395.out
+Reading ... qchem_3396.out
+Reading ... qchem_3397.out
+Reading ... qchem_3398.out
+Reading ... qchem_3399.out
+Reading ... qchem_3400.out
+Reading ... qchem_3401.out
+Reading ... qchem_3402.out
+Excluding filename qchem_3402.out due to exclusion list
+Reading ... qchem_3403.out
+Reading ... qchem_3404.out
+Reading ... qchem_3405.out
+Reading ... qchem_3406.out
+Reading ... qchem_3407.out
+Reading ... qchem_3408.out
+Reading ... qchem_3409.out
+Reading ... qchem_3410.out
+Reading ... qchem_3411.out
+Reading ... qchem_3412.out
+Reading ... qchem_3413.out
+Reading ... qchem_3414.out
+Reading ... qchem_3415.out
+Reading ... qchem_3416.out
+Reading ... qchem_3417.out
+Reading ... qchem_3418.out
+Reading ... qchem_3419.out
+Reading ... qchem_3420.out
+Reading ... qchem_3421.out
+Reading ... qchem_3422.out
+Reading ... qchem_3423.out
+Reading ... qchem_3424.out
+Reading ... qchem_3425.out
+Reading ... qchem_3426.out
+Reading ... qchem_3427.out
+Reading ... qchem_3428.out
+Reading ... qchem_3429.out
+Reading ... qchem_3430.out
+Reading ... qchem_3431.out
+Reading ... qchem_3432.out
+Reading ... qchem_3433.out
+Reading ... qchem_3434.out
+Reading ... qchem_3435.out
+Reading ... qchem_3436.out
+Reading ... qchem_3437.out
+Reading ... qchem_3438.out
+Reading ... qchem_3439.out
+Reading ... qchem_3440.out
+Reading ... qchem_3441.out
+Reading ... qchem_3442.out
+Reading ... qchem_3443.out
+Reading ... qchem_3444.out
+Reading ... qchem_3445.out
+Reading ... qchem_3446.out
+Reading ... qchem_3447.out
+Reading ... qchem_3448.out
+Reading ... qchem_3449.out
+Reading ... qchem_3450.out
+Reading ... qchem_3451.out
+Reading ... qchem_3452.out
+Reading ... qchem_3453.out
+Reading ... qchem_3454.out
+Reading ... qchem_3455.out
+Reading ... qchem_3456.out
+Reading ... qchem_3457.out
+Reading ... qchem_3458.out
+Reading ... qchem_3459.out
+Reading ... qchem_3460.out
+Reading ... qchem_3461.out
+Reading ... qchem_3462.out
+Reading ... qchem_3463.out
+Reading ... qchem_3464.out
+Reading ... qchem_3465.out
+Reading ... qchem_3466.out
+Reading ... qchem_3467.out
+Reading ... qchem_3468.out
+Excluding filename qchem_3468.out due to failed completion
+Reading ... qchem_3469.out
+Reading ... qchem_3470.out
+Reading ... qchem_3471.out
+Reading ... qchem_3472.out
+Reading ... qchem_3473.out
+Reading ... qchem_3474.out
+Reading ... qchem_3475.out
+Reading ... qchem_3476.out
+Reading ... qchem_3477.out
+Reading ... qchem_3478.out
+Reading ... qchem_3479.out
+Reading ... qchem_3480.out
+Reading ... qchem_3481.out
+Reading ... qchem_3482.out
+Reading ... qchem_3483.out
+Reading ... qchem_3484.out
+Reading ... qchem_3485.out
+Reading ... qchem_3486.out
+Reading ... qchem_3487.out
+Reading ... qchem_3488.out
+Reading ... qchem_3489.out
+Reading ... qchem_3490.out
+Reading ... qchem_3491.out
+Reading ... qchem_3492.out
+Reading ... qchem_3493.out
+Reading ... qchem_3494.out
+Reading ... qchem_3495.out
+Reading ... qchem_3496.out
+Reading ... qchem_3497.out
+Reading ... qchem_3498.out
+Reading ... qchem_3499.out
+Reading ... qchem_3500.out
+Reading ... qchem_3501.out
+Reading ... qchem_3502.out
+Reading ... qchem_3503.out
+Reading ... qchem_3504.out
+Reading ... qchem_3505.out
+Reading ... qchem_3506.out
+Reading ... qchem_3507.out
+Reading ... qchem_3508.out
+Reading ... qchem_3509.out
+Reading ... qchem_3510.out
+Reading ... qchem_3511.out
+Reading ... qchem_3512.out
+Reading ... qchem_3513.out
+Reading ... qchem_3514.out
+Reading ... qchem_3515.out
+Reading ... qchem_3516.out
+Reading ... qchem_3517.out
+Reading ... qchem_3518.out
+Reading ... qchem_3519.out
+Reading ... qchem_3520.out
+Reading ... qchem_3521.out
+Reading ... qchem_3522.out
+Reading ... qchem_3523.out
+Reading ... qchem_3524.out
+Reading ... qchem_3525.out
+Reading ... qchem_3526.out
+Reading ... qchem_3527.out
+Reading ... qchem_3528.out
+Reading ... qchem_3529.out
+Reading ... qchem_3530.out
+Reading ... qchem_3531.out
+Reading ... qchem_3532.out
+Reading ... qchem_3533.out
+Reading ... qchem_3534.out
+Reading ... qchem_3535.out
+Reading ... qchem_3536.out
+Reading ... qchem_3537.out
+Reading ... qchem_3538.out
+Reading ... qchem_3539.out
+Reading ... qchem_3540.out
+Reading ... qchem_3541.out
+Reading ... qchem_3542.out
+Reading ... qchem_3543.out
+Reading ... qchem_3544.out
+Reading ... qchem_3545.out
+Reading ... qchem_3546.out
+Reading ... qchem_3547.out
+Reading ... qchem_3548.out
+Reading ... qchem_3549.out
+Reading ... qchem_3550.out
+Reading ... qchem_3551.out
+Reading ... qchem_3552.out
+Reading ... qchem_3553.out
+Reading ... qchem_3554.out
+Reading ... qchem_3555.out
+Reading ... qchem_3556.out
+Reading ... qchem_3557.out
+Reading ... qchem_3558.out
+Reading ... qchem_3559.out
+Reading ... qchem_3560.out
+Reading ... qchem_3561.out
+Reading ... qchem_3562.out
+Reading ... qchem_3563.out
+Reading ... qchem_3564.out
+Reading ... qchem_3565.out
+Reading ... qchem_3566.out
+Reading ... qchem_3567.out
+Reading ... qchem_3568.out
+Reading ... qchem_3569.out
+Reading ... qchem_3570.out
+Reading ... qchem_3571.out
+Reading ... qchem_3572.out
+Reading ... qchem_3573.out
+Reading ... qchem_3574.out
+Reading ... qchem_3575.out
+Reading ... qchem_3576.out
+Excluding filename qchem_3576.out due to exclusion list
+Reading ... qchem_3577.out
+Reading ... qchem_3578.out
+Excluding filename qchem_3578.out due to exclusion list
+Reading ... qchem_3579.out
+Excluding filename qchem_3579.out due to exclusion list
+Reading ... qchem_3580.out
+Excluding filename qchem_3580.out due to failed completion
+Reading ... qchem_3581.out
+Excluding filename qchem_3581.out due to failed completion
+Reading ... qchem_3582.out
+Excluding filename qchem_3582.out due to failed completion
+Reading ... qchem_3583.out
+Excluding filename qchem_3583.out due to failed completion
+Reading ... qchem_3584.out
+Excluding filename qchem_3584.out due to failed completion
+Reading ... qchem_3585.out
+Excluding filename qchem_3585.out due to failed completion
+Reading ... qchem_3586.out
+Excluding filename qchem_3586.out due to failed completion
+Reading ... qchem_3587.out
+Excluding filename qchem_3587.out due to failed completion
+Reading ... qchem_3588.out
+Excluding filename qchem_3588.out due to failed completion
+Reading ... qchem_3589.out
+Excluding filename qchem_3589.out due to failed completion
+Reading ... qchem_3590.out
+Excluding filename qchem_3590.out due to failed completion
+Reading ... qchem_3591.out
+Excluding filename qchem_3591.out due to failed completion
+Reading ... qchem_3592.out
+Excluding filename qchem_3592.out due to failed completion
+Reading ... qchem_3593.out
+Excluding filename qchem_3593.out due to failed completion
+Reading ... qchem_3594.out
+Excluding filename qchem_3594.out due to failed completion
+Reading ... qchem_3595.out
+Excluding filename qchem_3595.out due to failed completion
+Reading ... qchem_3596.out
+Excluding filename qchem_3596.out due to failed completion
+Reading ... qchem_3597.out
+Excluding filename qchem_3597.out due to failed completion
+Reading ... qchem_3598.out
+Excluding filename qchem_3598.out due to failed completion
+Reading ... qchem_3599.out
+Excluding filename qchem_3599.out due to failed completion
+Reading ... qchem_3600.out
+Excluding filename qchem_3600.out due to failed completion
+Reading ... qchem_3601.out
+Excluding filename qchem_3601.out due to failed completion
+Reading ... qchem_3602.out
+Excluding filename qchem_3602.out due to failed completion
+Reading ... qchem_3603.out
+Excluding filename qchem_3603.out due to failed completion
+Reading ... qchem_3604.out
+Excluding filename qchem_3604.out due to failed completion
+Reading ... qchem_3605.out
+Reading ... qchem_3606.out
+Reading ... qchem_3607.out
+Reading ... qchem_3608.out
+Reading ... qchem_3609.out
+Reading ... qchem_3610.out
+Reading ... qchem_3611.out
+Reading ... qchem_3612.out
+Excluding filename qchem_3612.out due to exclusion list
+Reading ... qchem_3613.out
+Reading ... qchem_3614.out
+Reading ... qchem_3615.out
+Reading ... qchem_3616.out
+Reading ... qchem_3617.out
+Reading ... qchem_3618.out
+Reading ... qchem_3619.out
+Reading ... qchem_3620.out
+Reading ... qchem_3621.out
+Reading ... qchem_3622.out
+Reading ... qchem_3623.out
+Reading ... qchem_3624.out
+Reading ... qchem_3625.out
+Reading ... qchem_3626.out
+Reading ... qchem_3627.out
+Reading ... qchem_3628.out
+Reading ... qchem_3629.out
+Reading ... qchem_3630.out
+Reading ... qchem_3631.out
+Reading ... qchem_3632.out
+Reading ... qchem_3633.out
+Reading ... qchem_3634.out
+Reading ... qchem_3635.out
+Reading ... qchem_3636.out
+Reading ... qchem_3637.out
+Reading ... qchem_3638.out
+Reading ... qchem_3639.out
+Reading ... qchem_3640.out
+Reading ... qchem_3641.out
+Reading ... qchem_3642.out
+Reading ... qchem_3643.out
+Reading ... qchem_3644.out
+Reading ... qchem_3645.out
+Reading ... qchem_3646.out
+Reading ... qchem_3647.out
+Excluding filename qchem_3647.out due to exclusion list
+Reading ... qchem_3648.out
+Reading ... qchem_3649.out
+Reading ... qchem_3650.out
+Reading ... qchem_3651.out
+Reading ... qchem_3652.out
+Reading ... qchem_3653.out
+Reading ... qchem_3654.out
+Reading ... qchem_3655.out
+Reading ... qchem_3656.out
+Reading ... qchem_3657.out
+Reading ... qchem_3658.out
+Reading ... qchem_3659.out
+Reading ... qchem_3660.out
+Reading ... qchem_3661.out
+Reading ... qchem_3662.out
+Reading ... qchem_3663.out
+Reading ... qchem_3664.out
+Reading ... qchem_3665.out
+Reading ... qchem_3666.out
+Reading ... qchem_3667.out
+Reading ... qchem_3668.out
+Reading ... qchem_3669.out
+Reading ... qchem_3670.out
+Reading ... qchem_3671.out
+Reading ... qchem_3672.out
+Reading ... qchem_3673.out
+Reading ... qchem_3674.out
+Reading ... qchem_3675.out
+Reading ... qchem_3676.out
+Reading ... qchem_3677.out
+Reading ... qchem_3678.out
+Excluding filename qchem_3678.out due to failed completion
+Reading ... qchem_3679.out
+Reading ... qchem_3680.out
+Reading ... qchem_3681.out
+Reading ... qchem_3682.out
+Reading ... qchem_3683.out
+Reading ... qchem_3684.out
+Reading ... qchem_3685.out
+Reading ... qchem_3686.out
+Reading ... qchem_3687.out
+Reading ... qchem_3688.out
+Reading ... qchem_3689.out
+Reading ... qchem_3690.out
+Reading ... qchem_3691.out
+Reading ... qchem_3692.out
+Reading ... qchem_3693.out
+Reading ... qchem_3694.out
+Reading ... qchem_3695.out
+Reading ... qchem_3696.out
+Reading ... qchem_3697.out
+Reading ... qchem_3698.out
+Reading ... qchem_3699.out
+Reading ... qchem_3700.out
+Reading ... qchem_3701.out
+Reading ... qchem_3702.out
+Reading ... qchem_3703.out
+Reading ... qchem_3704.out
+Reading ... qchem_3705.out
+Reading ... qchem_3706.out
+Reading ... qchem_3707.out
+Reading ... qchem_3708.out
+Reading ... qchem_3709.out
+Reading ... qchem_3710.out
+Reading ... qchem_3711.out
+Reading ... qchem_3712.out
+Reading ... qchem_3713.out
+Reading ... qchem_3714.out
+Reading ... qchem_3715.out
+Reading ... qchem_3716.out
+Reading ... qchem_3717.out
+Reading ... qchem_3718.out
+Reading ... qchem_3719.out
+Reading ... qchem_3720.out
+Reading ... qchem_3721.out
+Reading ... qchem_3722.out
+Reading ... qchem_3723.out
+Reading ... qchem_3724.out
+Reading ... qchem_3725.out
+Reading ... qchem_3726.out
+Reading ... qchem_3727.out
+Reading ... qchem_3728.out
+Reading ... qchem_3729.out
+Reading ... qchem_3730.out
+Reading ... qchem_3731.out
+Reading ... qchem_3732.out
+Reading ... qchem_3733.out
+Reading ... qchem_3734.out
+Reading ... qchem_3735.out
+Reading ... qchem_3736.out
+Reading ... qchem_3737.out
+Reading ... qchem_3738.out
+Reading ... qchem_3739.out
+Reading ... qchem_3740.out
+Reading ... qchem_3741.out
+Reading ... qchem_3742.out
+Reading ... qchem_3743.out
+Reading ... qchem_3744.out
+Reading ... qchem_3745.out
+Reading ... qchem_3746.out
+Reading ... qchem_3747.out
+Reading ... qchem_3748.out
+Reading ... qchem_3749.out
+Reading ... qchem_3750.out
+Reading ... qchem_3751.out
+Reading ... qchem_3752.out
+Reading ... qchem_3753.out
+Reading ... qchem_3754.out
+Reading ... qchem_3755.out
+Reading ... qchem_3756.out
+Reading ... qchem_3757.out
+Reading ... qchem_3758.out
+Reading ... qchem_3759.out
+Reading ... qchem_3760.out
+Reading ... qchem_3761.out
+Reading ... qchem_3762.out
+Reading ... qchem_3763.out
+Reading ... qchem_3764.out
+Reading ... qchem_3765.out
+Reading ... qchem_3766.out
+Reading ... qchem_3767.out
+Reading ... qchem_3768.out
+Reading ... qchem_3769.out
+Reading ... qchem_3770.out
+Reading ... qchem_3771.out
+Reading ... qchem_3772.out
+Reading ... qchem_3773.out
+Reading ... qchem_3774.out
+Reading ... qchem_3775.out
+Reading ... qchem_3776.out
+Reading ... qchem_3777.out
+Reading ... qchem_3778.out
+Reading ... qchem_3779.out
+Reading ... qchem_3780.out
+Reading ... qchem_3781.out
+Reading ... qchem_3782.out
+Reading ... qchem_3783.out
+Reading ... qchem_3784.out
+Reading ... qchem_3785.out
+Reading ... qchem_3786.out
+Reading ... qchem_3787.out
+Reading ... qchem_3788.out
+Reading ... qchem_3789.out
+Reading ... qchem_3790.out
+Reading ... qchem_3791.out
+Reading ... qchem_3792.out
+Reading ... qchem_3793.out
+Reading ... qchem_3794.out
+Reading ... qchem_3795.out
+Reading ... qchem_3796.out
+Reading ... qchem_3797.out
+Reading ... qchem_3798.out
+Reading ... qchem_3799.out
+Reading ... qchem_3800.out
+Reading ... qchem_3801.out
+Reading ... qchem_3802.out
+Reading ... qchem_3803.out
+Reading ... qchem_3804.out
+Reading ... qchem_3805.out
+Reading ... qchem_3806.out
+Reading ... qchem_3807.out
+Reading ... qchem_3808.out
+Reading ... qchem_3809.out
+Reading ... qchem_3810.out
+Reading ... qchem_3811.out
+Reading ... qchem_3812.out
+Reading ... qchem_3813.out
+Reading ... qchem_3814.out
+Reading ... qchem_3815.out
+Reading ... qchem_3816.out
+Reading ... qchem_3817.out
+Reading ... qchem_3818.out
+Reading ... qchem_3819.out
+Reading ... qchem_3820.out
+Reading ... qchem_3821.out
+Reading ... qchem_3822.out
+Reading ... qchem_3823.out
+Reading ... qchem_3824.out
+Reading ... qchem_3825.out
+Excluding filename qchem_3825.out due to failed completion
+Reading ... qchem_3826.out
+Excluding filename qchem_3826.out due to failed completion
+Reading ... qchem_3827.out
+Excluding filename qchem_3827.out due to failed completion
+Reading ... qchem_3828.out
+Excluding filename qchem_3828.out due to failed completion
+Reading ... qchem_3829.out
+Excluding filename qchem_3829.out due to failed completion
+Reading ... qchem_3830.out
+Excluding filename qchem_3830.out due to failed completion
+Reading ... qchem_3831.out
+Excluding filename qchem_3831.out due to failed completion
+Reading ... qchem_3832.out
+Excluding filename qchem_3832.out due to failed completion
+Reading ... qchem_3833.out
+Excluding filename qchem_3833.out due to failed completion
+Reading ... qchem_3834.out
+Excluding filename qchem_3834.out due to failed completion
+Reading ... qchem_3835.out
+Excluding filename qchem_3835.out due to failed completion
+Reading ... qchem_3836.out
+Excluding filename qchem_3836.out due to failed completion
+Reading ... qchem_3837.out
+Excluding filename qchem_3837.out due to failed completion
+Reading ... qchem_3838.out
+Excluding filename qchem_3838.out due to failed completion
+Reading ... qchem_3839.out
+Excluding filename qchem_3839.out due to failed completion
+Reading ... qchem_3840.out
+Excluding filename qchem_3840.out due to failed completion
+Reading ... qchem_3841.out
+Excluding filename qchem_3841.out due to failed completion
+Reading ... qchem_3842.out
+Excluding filename qchem_3842.out due to failed completion
+Reading ... qchem_3843.out
+Excluding filename qchem_3843.out due to failed completion
+Reading ... qchem_3844.out
+Excluding filename qchem_3844.out due to failed completion
+Reading ... qchem_3845.out
+Excluding filename qchem_3845.out due to failed completion
+Reading ... qchem_3846.out
+Excluding filename qchem_3846.out due to failed completion
+Reading ... qchem_3847.out
+Excluding filename qchem_3847.out due to failed completion
+Reading ... qchem_3848.out
+Excluding filename qchem_3848.out due to failed completion
+Reading ... qchem_3849.out
+Excluding filename qchem_3849.out due to failed completion
+Reading ... qchem_3850.out
+Reading ... qchem_3851.out
+Reading ... qchem_3852.out
+Reading ... qchem_3853.out
+Reading ... qchem_3854.out
+Reading ... qchem_3855.out
+Reading ... qchem_3856.out
+Reading ... qchem_3857.out
+Excluding filename qchem_3857.out due to exclusion list
+Reading ... qchem_3858.out
+Reading ... qchem_3859.out
+Reading ... qchem_3860.out
+Reading ... qchem_3861.out
+Reading ... qchem_3862.out
+Reading ... qchem_3863.out
+Reading ... qchem_3864.out
+Reading ... qchem_3865.out
+Reading ... qchem_3866.out
+Reading ... qchem_3867.out
+Reading ... qchem_3868.out
+Reading ... qchem_3869.out
+Reading ... qchem_3870.out
+Reading ... qchem_3871.out
+Reading ... qchem_3872.out
+Reading ... qchem_3873.out
+Reading ... qchem_3874.out
+Reading ... qchem_3875.out
+Reading ... qchem_3876.out
+Reading ... qchem_3877.out
+Reading ... qchem_3878.out
+Reading ... qchem_3879.out
+Reading ... qchem_3880.out
+Reading ... qchem_3881.out
+Reading ... qchem_3882.out
+Reading ... qchem_3883.out
+Reading ... qchem_3884.out
+Reading ... qchem_3885.out
+Reading ... qchem_3886.out
+Reading ... qchem_3887.out
+Reading ... qchem_3888.out
+Reading ... qchem_3889.out
+Reading ... qchem_3890.out
+Excluding filename qchem_3890.out due to exclusion list
+Reading ... qchem_3891.out
+Excluding filename qchem_3891.out due to exclusion list
+Reading ... qchem_3892.out
+Excluding filename qchem_3892.out due to exclusion list
+Reading ... qchem_3893.out
+Reading ... qchem_3894.out
+Reading ... qchem_3895.out
+Reading ... qchem_3896.out
+Reading ... qchem_3897.out
+Reading ... qchem_3898.out
+Reading ... qchem_3899.out
+Reading ... qchem_3900.out
+Reading ... qchem_3901.out
+Reading ... qchem_3902.out
+Reading ... qchem_3903.out
+Reading ... qchem_3904.out
+Reading ... qchem_3905.out
+Reading ... qchem_3906.out
+Reading ... qchem_3907.out
+Reading ... qchem_3908.out
+Reading ... qchem_3909.out
+Reading ... qchem_3910.out
+Reading ... qchem_3911.out
+Reading ... qchem_3912.out
+Reading ... qchem_3913.out
+Reading ... qchem_3914.out
+Reading ... qchem_3915.out
+Reading ... qchem_3916.out
+Reading ... qchem_3917.out
+Reading ... qchem_3918.out
+Reading ... qchem_3919.out
+Reading ... qchem_3920.out
+Reading ... qchem_3921.out
+Reading ... qchem_3922.out
+Excluding filename qchem_3922.out due to failed completion
+Reading ... qchem_3923.out
+Reading ... qchem_3924.out
+Reading ... qchem_3925.out
+Reading ... qchem_3926.out
+Reading ... qchem_3927.out
+Reading ... qchem_3928.out
+Reading ... qchem_3929.out
+Reading ... qchem_3930.out
+Reading ... qchem_3931.out
+Reading ... qchem_3932.out
+Reading ... qchem_3933.out
+Reading ... qchem_3934.out
+Reading ... qchem_3935.out
+Reading ... qchem_3936.out
+Reading ... qchem_3937.out
+Reading ... qchem_3938.out
+Reading ... qchem_3939.out
+Reading ... qchem_3940.out
+Reading ... qchem_3941.out
+Reading ... qchem_3942.out
+Reading ... qchem_3943.out
+Reading ... qchem_3944.out
+Reading ... qchem_3945.out
+Reading ... qchem_3946.out
+Reading ... qchem_3947.out
+Reading ... qchem_3948.out
+Reading ... qchem_3949.out
+Reading ... qchem_3950.out
+Reading ... qchem_3951.out
+Reading ... qchem_3952.out
+Reading ... qchem_3953.out
+Reading ... qchem_3954.out
+Reading ... qchem_3955.out
+Reading ... qchem_3956.out
+Reading ... qchem_3957.out
+Reading ... qchem_3958.out
+Reading ... qchem_3959.out
+Reading ... qchem_3960.out
+Reading ... qchem_3961.out
+Reading ... qchem_3962.out
+Reading ... qchem_3963.out
+Reading ... qchem_3964.out
+Reading ... qchem_3965.out
+Reading ... qchem_3966.out
+Reading ... qchem_3967.out
+Reading ... qchem_3968.out
+Reading ... qchem_3969.out
+Reading ... qchem_3970.out
+Reading ... qchem_3971.out
+Reading ... qchem_3972.out
+Reading ... qchem_3973.out
+Reading ... qchem_3974.out
+Reading ... qchem_3975.out
+Reading ... qchem_3976.out
+Reading ... qchem_3977.out
+Reading ... qchem_3978.out
+Reading ... qchem_3979.out
+Reading ... qchem_3980.out
+Reading ... qchem_3981.out
+Reading ... qchem_3982.out
+Reading ... qchem_3983.out
+Reading ... qchem_3984.out
+Reading ... qchem_3985.out
+Reading ... qchem_3986.out
+Reading ... qchem_3987.out
+Reading ... qchem_3988.out
+Reading ... qchem_3989.out
+Reading ... qchem_3990.out
+Reading ... qchem_3991.out
+Reading ... qchem_3992.out
+Reading ... qchem_3993.out
+Reading ... qchem_3994.out
+Reading ... qchem_3995.out
+Reading ... qchem_3996.out
+Reading ... qchem_3997.out
+Reading ... qchem_3998.out
+Reading ... qchem_3999.out
+Reading ... qchem_4000.out
+Reading ... qchem_4001.out
+Reading ... qchem_4002.out
+Reading ... qchem_4003.out
+Reading ... qchem_4004.out
+Reading ... qchem_4005.out
+Reading ... qchem_4006.out
+Reading ... qchem_4007.out
+Reading ... qchem_4008.out
+Reading ... qchem_4009.out
+Reading ... qchem_4010.out
+Reading ... qchem_4011.out
+Reading ... qchem_4012.out
+Reading ... qchem_4013.out
+Reading ... qchem_4014.out
+Reading ... qchem_4015.out
+Reading ... qchem_4016.out
+Reading ... qchem_4017.out
+Reading ... qchem_4018.out
+Reading ... qchem_4019.out
+Reading ... qchem_4020.out
+Reading ... qchem_4021.out
+Reading ... qchem_4022.out
+Reading ... qchem_4023.out
+Reading ... qchem_4024.out
+Reading ... qchem_4025.out
+Reading ... qchem_4026.out
+Reading ... qchem_4027.out
+Reading ... qchem_4028.out
+Reading ... qchem_4029.out
+Reading ... qchem_4030.out
+Reading ... qchem_4031.out
+Reading ... qchem_4032.out
+Reading ... qchem_4033.out
+Reading ... qchem_4034.out
+Reading ... qchem_4035.out
+Reading ... qchem_4036.out
+Reading ... qchem_4037.out
+Reading ... qchem_4038.out
+Reading ... qchem_4039.out
+Reading ... qchem_4040.out
+Reading ... qchem_4041.out
+Reading ... qchem_4042.out
+Reading ... qchem_4043.out
+Reading ... qchem_4044.out
+Reading ... qchem_4045.out
+Reading ... qchem_4046.out
+Reading ... qchem_4047.out
+Reading ... qchem_4048.out
+Reading ... qchem_4049.out
+Reading ... qchem_4050.out
+Reading ... qchem_4051.out
+Reading ... qchem_4052.out
+Reading ... qchem_4053.out
+Reading ... qchem_4054.out
+Reading ... qchem_4055.out
+Reading ... qchem_4056.out
+Reading ... qchem_4057.out
+Reading ... qchem_4058.out
+Reading ... qchem_4059.out
+Reading ... qchem_4060.out
+Reading ... qchem_4061.out
+Reading ... qchem_4062.out
+Reading ... qchem_4063.out
+Reading ... qchem_4064.out
+Reading ... qchem_4065.out
+Reading ... qchem_4066.out
+Reading ... qchem_4067.out
+Reading ... qchem_4068.out
+Reading ... qchem_4069.out
+Reading ... qchem_4070.out
+Reading ... qchem_4071.out
+Reading ... qchem_4072.out
+Excluding filename qchem_4072.out due to failed completion
+Reading ... qchem_4073.out
+Excluding filename qchem_4073.out due to failed completion
+Reading ... qchem_4074.out
+Excluding filename qchem_4074.out due to failed completion
+Reading ... qchem_4075.out
+Excluding filename qchem_4075.out due to failed completion
+Reading ... qchem_4076.out
+Excluding filename qchem_4076.out due to failed completion
+Reading ... qchem_4077.out
+Excluding filename qchem_4077.out due to failed completion
+Reading ... qchem_4078.out
+Excluding filename qchem_4078.out due to failed completion
+Reading ... qchem_4079.out
+Excluding filename qchem_4079.out due to failed completion
+Reading ... qchem_4080.out
+Excluding filename qchem_4080.out due to failed completion
+Reading ... qchem_4081.out
+Excluding filename qchem_4081.out due to failed completion
+Reading ... qchem_4082.out
+Excluding filename qchem_4082.out due to failed completion
+Reading ... qchem_4083.out
+Excluding filename qchem_4083.out due to failed completion
+Reading ... qchem_4084.out
+Excluding filename qchem_4084.out due to failed completion
+Reading ... qchem_4085.out
+Excluding filename qchem_4085.out due to failed completion
+Reading ... qchem_4086.out
+Excluding filename qchem_4086.out due to failed completion
+Reading ... qchem_4087.out
+Excluding filename qchem_4087.out due to failed completion
+Reading ... qchem_4088.out
+Excluding filename qchem_4088.out due to failed completion
+Reading ... qchem_4089.out
+Excluding filename qchem_4089.out due to failed completion
+Reading ... qchem_4090.out
+Excluding filename qchem_4090.out due to failed completion
+Reading ... qchem_4091.out
+Excluding filename qchem_4091.out due to failed completion
+Reading ... qchem_4092.out
+Excluding filename qchem_4092.out due to failed completion
+Reading ... qchem_4093.out
+Excluding filename qchem_4093.out due to failed completion
+Reading ... qchem_4094.out
+Excluding filename qchem_4094.out due to failed completion
+Reading ... qchem_4095.out
+Reading ... qchem_4096.out
+Reading ... qchem_4097.out
+Reading ... qchem_4098.out
+Reading ... qchem_4099.out
+Reading ... qchem_4100.out
+Reading ... qchem_4101.out
+Excluding filename qchem_4101.out due to exclusion list
+Reading ... qchem_4102.out
+Reading ... qchem_4103.out
+Reading ... qchem_4104.out
+Reading ... qchem_4105.out
+Reading ... qchem_4106.out
+Reading ... qchem_4107.out
+Reading ... qchem_4108.out
+Reading ... qchem_4109.out
+Reading ... qchem_4110.out
+Reading ... qchem_4111.out
+Reading ... qchem_4112.out
+Reading ... qchem_4113.out
+Reading ... qchem_4114.out
+Reading ... qchem_4115.out
+Reading ... qchem_4116.out
+Reading ... qchem_4117.out
+Reading ... qchem_4118.out
+Reading ... qchem_4119.out
+Reading ... qchem_4120.out
+Reading ... qchem_4121.out
+Reading ... qchem_4122.out
+Reading ... qchem_4123.out
+Reading ... qchem_4124.out
+Reading ... qchem_4125.out
+Reading ... qchem_4126.out
+Reading ... qchem_4127.out
+Reading ... qchem_4128.out
+Reading ... qchem_4129.out
+Reading ... qchem_4130.out
+Reading ... qchem_4131.out
+Reading ... qchem_4132.out
+Reading ... qchem_4133.out
+Reading ... qchem_4134.out
+Reading ... qchem_4135.out
+Excluding filename qchem_4135.out due to exclusion list
+Reading ... qchem_4136.out
+Excluding filename qchem_4136.out due to exclusion list
+Reading ... qchem_4137.out
+Excluding filename qchem_4137.out due to exclusion list
+Reading ... qchem_4138.out
+Reading ... qchem_4139.out
+Reading ... qchem_4140.out
+Reading ... qchem_4141.out
+Reading ... qchem_4142.out
+Reading ... qchem_4143.out
+Reading ... qchem_4144.out
+Reading ... qchem_4145.out
+Reading ... qchem_4146.out
+Reading ... qchem_4147.out
+Reading ... qchem_4148.out
+Reading ... qchem_4149.out
+Reading ... qchem_4150.out
+Reading ... qchem_4151.out
+Reading ... qchem_4152.out
+Reading ... qchem_4153.out
+Reading ... qchem_4154.out
+Reading ... qchem_4155.out
+Reading ... qchem_4156.out
+Reading ... qchem_4157.out
+Reading ... qchem_4158.out
+Reading ... qchem_4159.out
+Reading ... qchem_4160.out
+Reading ... qchem_4161.out
+Reading ... qchem_4162.out
+Reading ... qchem_4163.out
+Reading ... qchem_4164.out
+Reading ... qchem_4165.out
+Reading ... qchem_4166.out
+Reading ... qchem_4167.out
+Excluding filename qchem_4167.out due to failed completion
+Reading ... qchem_4168.out
+Reading ... qchem_4169.out
+Reading ... qchem_4170.out
+Reading ... qchem_4171.out
+Reading ... qchem_4172.out
+Reading ... qchem_4173.out
+Reading ... qchem_4174.out
+Reading ... qchem_4175.out
+Reading ... qchem_4176.out
+Reading ... qchem_4177.out
+Reading ... qchem_4178.out
+Reading ... qchem_4179.out
+Reading ... qchem_4180.out
+Reading ... qchem_4181.out
+Reading ... qchem_4182.out
+Reading ... qchem_4183.out
+Reading ... qchem_4184.out
+Reading ... qchem_4185.out
+Reading ... qchem_4186.out
+Reading ... qchem_4187.out
+Reading ... qchem_4188.out
+Reading ... qchem_4189.out
+Reading ... qchem_4190.out
+Reading ... qchem_4191.out
+Reading ... qchem_4192.out
+Reading ... qchem_4193.out
+Reading ... qchem_4194.out
+Reading ... qchem_4195.out
+Reading ... qchem_4196.out
+Reading ... qchem_4197.out
+Reading ... qchem_4198.out
+Reading ... qchem_4199.out
+Reading ... qchem_4200.out
+Reading ... qchem_4201.out
+Reading ... qchem_4202.out
+Reading ... qchem_4203.out
+Reading ... qchem_4204.out
+Reading ... qchem_4205.out
+Reading ... qchem_4206.out
+Reading ... qchem_4207.out
+Reading ... qchem_4208.out
+Reading ... qchem_4209.out
+Reading ... qchem_4210.out
+Reading ... qchem_4211.out
+Reading ... qchem_4212.out
+Reading ... qchem_4213.out
+Reading ... qchem_4214.out
+Reading ... qchem_4215.out
+Reading ... qchem_4216.out
+Reading ... qchem_4217.out
+Reading ... qchem_4218.out
+Reading ... qchem_4219.out
+Reading ... qchem_4220.out
+Reading ... qchem_4221.out
+Reading ... qchem_4222.out
+Reading ... qchem_4223.out
+Reading ... qchem_4224.out
+Reading ... qchem_4225.out
+Reading ... qchem_4226.out
+Reading ... qchem_4227.out
+Reading ... qchem_4228.out
+Reading ... qchem_4229.out
+Reading ... qchem_4230.out
+Reading ... qchem_4231.out
+Reading ... qchem_4232.out
+Reading ... qchem_4233.out
+Reading ... qchem_4234.out
+Reading ... qchem_4235.out
+Reading ... qchem_4236.out
+Reading ... qchem_4237.out
+Reading ... qchem_4238.out
+Reading ... qchem_4239.out
+Reading ... qchem_4240.out
+Reading ... qchem_4241.out
+Reading ... qchem_4242.out
+Reading ... qchem_4243.out
+Reading ... qchem_4244.out
+Reading ... qchem_4245.out
+Reading ... qchem_4246.out
+Reading ... qchem_4247.out
+Reading ... qchem_4248.out
+Reading ... qchem_4249.out
+Reading ... qchem_4250.out
+Reading ... qchem_4251.out
+Reading ... qchem_4252.out
+Reading ... qchem_4253.out
+Reading ... qchem_4254.out
+Reading ... qchem_4255.out
+Reading ... qchem_4256.out
+Reading ... qchem_4257.out
+Reading ... qchem_4258.out
+Reading ... qchem_4259.out
+Reading ... qchem_4260.out
+Reading ... qchem_4261.out
+Reading ... qchem_4262.out
+Reading ... qchem_4263.out
+Reading ... qchem_4264.out
+Reading ... qchem_4265.out
+Reading ... qchem_4266.out
+Reading ... qchem_4267.out
+Reading ... qchem_4268.out
+Reading ... qchem_4269.out
+Reading ... qchem_4270.out
+Reading ... qchem_4271.out
+Reading ... qchem_4272.out
+Reading ... qchem_4273.out
+Reading ... qchem_4274.out
+Reading ... qchem_4275.out
+Reading ... qchem_4276.out
+Reading ... qchem_4277.out
+Reading ... qchem_4278.out
+Reading ... qchem_4279.out
+Reading ... qchem_4280.out
+Reading ... qchem_4281.out
+Reading ... qchem_4282.out
+Reading ... qchem_4283.out
+Reading ... qchem_4284.out
+Reading ... qchem_4285.out
+Reading ... qchem_4286.out
+Reading ... qchem_4287.out
+Reading ... qchem_4288.out
+Reading ... qchem_4289.out
+Reading ... qchem_4290.out
+Reading ... qchem_4291.out
+Reading ... qchem_4292.out
+Reading ... qchem_4293.out
+Reading ... qchem_4294.out
+Reading ... qchem_4295.out
+Reading ... qchem_4296.out
+Reading ... qchem_4297.out
+Reading ... qchem_4298.out
+Reading ... qchem_4299.out
+Reading ... qchem_4300.out
+Reading ... qchem_4301.out
+Reading ... qchem_4302.out
+Reading ... qchem_4303.out
+Reading ... qchem_4304.out
+Reading ... qchem_4305.out
+Reading ... qchem_4306.out
+Reading ... qchem_4307.out
+Reading ... qchem_4308.out
+Reading ... qchem_4309.out
+Reading ... qchem_4310.out
+Reading ... qchem_4311.out
+Reading ... qchem_4312.out
+Reading ... qchem_4313.out
+Reading ... qchem_4314.out
+Reading ... qchem_4315.out
+Reading ... qchem_4316.out
+Reading ... qchem_4317.out
+Reading ... qchem_4318.out
+Reading ... qchem_4319.out
+Reading ... qchem_4320.out
+Reading ... qchem_4321.out
+Excluding filename qchem_4321.out due to failed completion
+Reading ... qchem_4322.out
+Excluding filename qchem_4322.out due to failed completion
+Reading ... qchem_4323.out
+Excluding filename qchem_4323.out due to failed completion
+Reading ... qchem_4324.out
+Excluding filename qchem_4324.out due to failed completion
+Reading ... qchem_4325.out
+Excluding filename qchem_4325.out due to failed completion
+Reading ... qchem_4326.out
+Excluding filename qchem_4326.out due to failed completion
+Reading ... qchem_4327.out
+Excluding filename qchem_4327.out due to failed completion
+Reading ... qchem_4328.out
+Excluding filename qchem_4328.out due to failed completion
+Reading ... qchem_4329.out
+Excluding filename qchem_4329.out due to failed completion
+Reading ... qchem_4330.out
+Excluding filename qchem_4330.out due to failed completion
+Reading ... qchem_4331.out
+Excluding filename qchem_4331.out due to failed completion
+Reading ... qchem_4332.out
+Excluding filename qchem_4332.out due to failed completion
+Reading ... qchem_4333.out
+Excluding filename qchem_4333.out due to failed completion
+Reading ... qchem_4334.out
+Excluding filename qchem_4334.out due to failed completion
+Reading ... qchem_4335.out
+Excluding filename qchem_4335.out due to failed completion
+Reading ... qchem_4336.out
+Excluding filename qchem_4336.out due to failed completion
+Reading ... qchem_4337.out
+Excluding filename qchem_4337.out due to failed completion
+Reading ... qchem_4338.out
+Excluding filename qchem_4338.out due to failed completion
+Reading ... qchem_4339.out
+Excluding filename qchem_4339.out due to failed completion
+Reading ... qchem_4340.out
+Reading ... qchem_4341.out
+Reading ... qchem_4342.out
+Reading ... qchem_4343.out
+Reading ... qchem_4344.out
+Reading ... qchem_4345.out
+Reading ... qchem_4346.out
+Excluding filename qchem_4346.out due to exclusion list
+Reading ... qchem_4347.out
+Reading ... qchem_4348.out
+Reading ... qchem_4349.out
+Excluding filename qchem_4349.out due to exclusion list
+Reading ... qchem_4350.out
+Excluding filename qchem_4350.out due to exclusion list
+Reading ... qchem_4351.out
+Excluding filename qchem_4351.out due to exclusion list
+Reading ... qchem_4352.out
+Excluding filename qchem_4352.out due to exclusion list
+Reading ... qchem_4353.out
+Excluding filename qchem_4353.out due to exclusion list
+Reading ... qchem_4354.out
+Excluding filename qchem_4354.out due to exclusion list
+Reading ... qchem_4355.out
+Excluding filename qchem_4355.out due to exclusion list
+Reading ... qchem_4356.out
+Excluding filename qchem_4356.out due to exclusion list
+Reading ... qchem_4357.out
+Excluding filename qchem_4357.out due to exclusion list
+Reading ... qchem_4358.out
+Excluding filename qchem_4358.out due to exclusion list
+Reading ... qchem_4359.out
+Excluding filename qchem_4359.out due to exclusion list
+Reading ... qchem_4360.out
+Excluding filename qchem_4360.out due to exclusion list
+Reading ... qchem_4361.out
+Excluding filename qchem_4361.out due to exclusion list
+Reading ... qchem_4362.out
+Excluding filename qchem_4362.out due to exclusion list
+Reading ... qchem_4363.out
+Excluding filename qchem_4363.out due to exclusion list
+Reading ... qchem_4364.out
+Excluding filename qchem_4364.out due to exclusion list
+Reading ... qchem_4365.out
+Excluding filename qchem_4365.out due to exclusion list
+Reading ... qchem_4366.out
+Excluding filename qchem_4366.out due to exclusion list
+Reading ... qchem_4367.out
+Excluding filename qchem_4367.out due to exclusion list
+Reading ... qchem_4368.out
+Excluding filename qchem_4368.out due to exclusion list
+Reading ... qchem_4369.out
+Excluding filename qchem_4369.out due to exclusion list
+Reading ... qchem_4370.out
+Excluding filename qchem_4370.out due to exclusion list
+Reading ... qchem_4371.out
+Excluding filename qchem_4371.out due to exclusion list
+Reading ... qchem_4372.out
+Excluding filename qchem_4372.out due to exclusion list
+Reading ... qchem_4373.out
+Excluding filename qchem_4373.out due to exclusion list
+Reading ... qchem_4374.out
+Excluding filename qchem_4374.out due to exclusion list
+Reading ... qchem_4375.out
+Reading ... qchem_4376.out
+Reading ... qchem_4377.out
+Reading ... qchem_4378.out
+Reading ... qchem_4379.out
+Reading ... qchem_4380.out
+Excluding filename qchem_4380.out due to exclusion list
+Reading ... qchem_4381.out
+Excluding filename qchem_4381.out due to exclusion list
+Reading ... qchem_4382.out
+Excluding filename qchem_4382.out due to exclusion list
+Reading ... qchem_4383.out
+Reading ... qchem_4384.out
+Reading ... qchem_4385.out
+Reading ... qchem_4386.out
+Reading ... qchem_4387.out
+Reading ... qchem_4388.out
+Reading ... qchem_4389.out
+Reading ... qchem_4390.out
+Reading ... qchem_4391.out
+Reading ... qchem_4392.out
+Reading ... qchem_4393.out
+Reading ... qchem_4394.out
+Reading ... qchem_4395.out
+Reading ... qchem_4396.out
+Reading ... qchem_4397.out
+Reading ... qchem_4398.out
+Reading ... qchem_4399.out
+Reading ... qchem_4400.out
+Reading ... qchem_4401.out
+Reading ... qchem_4402.out
+Reading ... qchem_4403.out
+Reading ... qchem_4404.out
+Reading ... qchem_4405.out
+Reading ... qchem_4406.out
+Reading ... qchem_4407.out
+Reading ... qchem_4408.out
+Reading ... qchem_4409.out
+
+
+------------
+
+DONE!!!
+
+------------
+
+

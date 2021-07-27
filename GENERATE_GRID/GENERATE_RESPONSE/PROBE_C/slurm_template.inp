@@ -1,0 +1,22 @@
+#!/bin/bash
+#SBATCH -J startFile
+#SBATCH --partition=pi_esi
+#SBATCH --time 120:00:00
+#SBATCH --ntasks=12 --nodes=1
+#SBATCH --mem-per-cpu=5000
+#SBATCH -o startFile.err
+
+### Load MPI module
+#module load MPI/OpenMPI/2.1.1-intel15
+
+### Load QCHEM module
+module load Q-Chem/5.2-openmpi
+
+export QCSCRATCH=/gpfs/loomis/scratch60/fas/batista/pev4/qchem-scratch/
+ 
+### Run program
+
+echo 'Starting program on'
+date
+echo ''
+
