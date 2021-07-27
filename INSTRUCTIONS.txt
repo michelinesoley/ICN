@@ -25,7 +25,7 @@ based on QCHEM calculations.
    To run the program: ./write-input
 
    The outputs are:
-	>> qchem_####.coor: contain coordinates for point #### in the grid.
+	>> qchem_####.coor:  coordinates for point #### in the grid.
 	>> movie.xyz: movie of the configurations of the grid. 
 	>> position.dat: list of file index,R_{IC},theta,r_{CN}. 
 
@@ -45,7 +45,7 @@ based on QCHEM calculations.
    To run the script: ./cat_script.sh
 
    The outputs are:
-	>> qchem_####.in: contain QCHEM input file for point #### in the grid.
+	>> qchem_####.in:  QCHEM input file for point #### in the grid.
 
 
    The subdirectory also contains a script 'generate_slurm_script.sh' that generates a set of 'run_script_#.sh'
@@ -55,7 +55,7 @@ based on QCHEM calculations.
    To run the script: ./generate_slurm_script.sh
 
    The outputs are:
-	>> run_script_#.sh: contain SLURM script to run on Grace supercomputer for a set of configurations.
+	>> run_script_#.sh:  SLURM script to run on Grace supercomputer for a set of configurations.
 
 
 4) In the subdirectory 'ENERGY_READER/' there are a set of Python scripts that reads the outputfile of the QCHEM 
@@ -69,20 +69,20 @@ based on QCHEM calculations.
       (a) energy_reader.sh: read energies from QCHEM outputfiles.
 
 	  On output:
-		>> energy.dat: contain (in principle) two energies for each QCHEM outputfile corresponding to 
+		>> energy.dat:  (in principle) two energies for each QCHEM outputfile corresponding to 
                                ground-state and MOM calculations.
  
 
       (b) energy_cleaner.py: separate contribution of first ground-state calculation from second MOM calculation.
 
 	  On output:
-		>> energy_gs.dat: contain energy of ground-state calculation for each QCHEM file.
-		>> energy_mom.dat: contain energy of MOM calculation for each QCHEM file.
+		>> energy_gs.dat:  energy of ground-state calculation for each QCHEM file.
+		>> energy_mom.dat:  energy of MOM calculation for each QCHEM file.
 
       (c) energy_plot.py (optional): plots energy cuts along R_{IC} variable.
 
 	  On output:
-		>> energy_*.ps: contain cuts of GS and MOM energies along the R_{IC} variable. Each files 
+		>> energy_*.ps:  cuts of GS and MOM energies along the R_{IC} variable. Each files 
 				correspond to a different value of angle theta. In each graph the different sets 
 				of curves correspond to different r_{CN} values. These script is used to visually
 				check the amount of points not converged in the QCHEM calculations and the 
@@ -94,9 +94,9 @@ based on QCHEM calculations.
 			      the grid.    
 
 	  On output:
-		>> energy_mom_excl.dat: contain the sets of points that will be excluded from the grid.
-		>> energy_mom_incl.dat: contain the sets of points that are included in the grid.
-		>> energy_selection_*.ps: contain cuts of GS and MOM with included and excluded energies along the 
+		>> energy_mom_excl.dat:  the sets of points that will be excluded from the grid.
+		>> energy_mom_incl.dat:  the sets of points that are included in the grid.
+		>> energy_selection_*.ps:  cuts of GS and MOM with included and excluded energies along the 
 					  R_{IC} variable. Each files correspond to a different value of angle theta.
 					  In each graph the different sets of curves correspond to different r_{CN} 
 					  values. 
@@ -109,7 +109,7 @@ based on QCHEM calculations.
    To run the script: python generate_matrix.py
 
    The outputs are:
-	>> response_mat.dat: contain the Xray response in a grid (in the format theta,R_{IC},r_{CN},energy, intensity)
+	>> response_mat.dat:  the Xray response in a grid (in the format theta,R_{IC},r_{CN},energy, intensity)
 
 6) Finally, in the subdirectory 'INTERPOLATION', the program 'interpolator.f90' interpolates the Xray response matrix
    using an Inverse Distance Weighting method to generate a regular grid in the Jacobi variables. The variable 'pvalue'
@@ -119,7 +119,7 @@ based on QCHEM calculations.
    To run the program: ./interpolator
 
    The outputs are:
-	>> response_mat_interp.txt: contain the Xray response in a regular grid in the format 
+	>> response_mat_interp.txt:  the Xray response in a regular grid in the format 
            theta,R_{IC},r_{CN},energy,intensity
 
 
